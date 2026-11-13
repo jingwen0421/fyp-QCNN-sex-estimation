@@ -1,0 +1,3 @@
+Readout,Validation accuracy,Validation loss,Validation ROC AUC
+Fixed average,0.6726190476190477,0.6073358548444506,0.7268925739005048
+Separate-wire logistic readout,0.75,0.5113061668923035,0.8191780821917809
