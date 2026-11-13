@@ -1,0 +1,12 @@
+{
+  "Readout": "Learned readout",
+  "Seed": 123,
+  "Best epoch": 12,
+  "Epochs run": 17,
+  "Validation macro F1": 0.7139026776332476,
+  "Validation accuracy": 0.7202380952380952,
+  "Validation loss": 0.5136062236403489,
+  "Runtime (s)": 68.54863749997457,
+  "Learning rate": 0.01,
+  "Source": "Notebook 06"
+}
