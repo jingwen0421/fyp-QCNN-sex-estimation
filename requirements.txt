@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+altair
+pennylane==0.45.1
+joblib
+scikit-learn
+xlrd
+openpyxl
