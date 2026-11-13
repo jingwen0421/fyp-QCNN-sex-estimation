@@ -1,0 +1,24 @@
+{
+  "dataset_sha256": "767a3388ea38ddd04501c4bd4a838a32ee0f0f77fc649f27e03b6695b824c93b",
+  "features": [
+    "Ec-Dc Orbital Width",
+    "REc-RDc Right Orbital Width",
+    "LEc-LDc Left Orbital Width",
+    "UMo-Lmo Orbital Height",
+    "RUMo-RLMo Right Orbital Height",
+    "LUMo-LLMo Left Orbital Height",
+    "RAI-LAI Nasal Width",
+    "Rh-Ns Nasal Height"
+  ],
+  "test_sizes": [
+    0.1,
+    0.2,
+    0.3,
+    0.4
+  ],
+  "repeats": 30,
+  "split_seed": 42,
+  "method": "StratifiedShuffleSplit on groups of identical measurements",
+  "sklearn_version": "1.8.0",
+  "xgboost_version": "3.4.1"
+}
