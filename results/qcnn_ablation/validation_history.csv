@@ -1,0 +1,3000 @@
+Experiment,Setting,Fold,Epoch,Validation loss
+Reference,Improved QCNN (notebook 15),2,1,0.576750931524327
+Reference,Improved QCNN (notebook 15),2,2,0.5492647615333901
+Reference,Improved QCNN (notebook 15),2,3,0.5315207582097057
+Reference,Improved QCNN (notebook 15),2,4,0.5198150336161167
+Reference,Improved QCNN (notebook 15),2,5,0.5062676666208664
+Reference,Improved QCNN (notebook 15),2,6,0.49995480404369474
+Reference,Improved QCNN (notebook 15),2,7,0.49129542506574664
+Reference,Improved QCNN (notebook 15),2,8,0.4822503031069005
+Reference,Improved QCNN (notebook 15),2,9,0.4887272535972567
+Reference,Improved QCNN (notebook 15),2,10,0.477037210966873
+Reference,Improved QCNN (notebook 15),2,11,0.48304218018797923
+Reference,Improved QCNN (notebook 15),2,12,0.48140549212510875
+Reference,Improved QCNN (notebook 15),2,13,0.4754219077972065
+Reference,Improved QCNN (notebook 15),2,14,0.48709829530513876
+Reference,Improved QCNN (notebook 15),2,15,0.476626199765001
+Reference,Improved QCNN (notebook 15),2,16,0.48284623211143946
+Reference,Improved QCNN (notebook 15),2,17,0.4841436037479097
+Reference,Improved QCNN (notebook 15),2,18,0.4775021406576242
+Reference,Improved QCNN (notebook 15),2,19,0.48606628948780106
+Reference,Improved QCNN (notebook 15),2,20,0.47748466827264496
+Reference,Improved QCNN (notebook 15),2,21,0.49194102107920973
+Reference,Improved QCNN (notebook 15),2,22,0.47864208646165496
+Reference,Improved QCNN (notebook 15),2,23,0.48151193699549866
+Reference,Improved QCNN (notebook 15),1,1,0.5782185465042559
+Reference,Improved QCNN (notebook 15),1,2,0.549925376164015
+Reference,Improved QCNN (notebook 15),1,3,0.532246671870782
+Reference,Improved QCNN (notebook 15),1,4,0.5206836028776027
+Reference,Improved QCNN (notebook 15),1,5,0.5057434733734255
+Reference,Improved QCNN (notebook 15),1,6,0.49984050587876766
+Reference,Improved QCNN (notebook 15),1,7,0.4911731013579099
+Reference,Improved QCNN (notebook 15),1,8,0.48723570629414514
+Reference,Improved QCNN (notebook 15),1,9,0.486932363462367
+Reference,Improved QCNN (notebook 15),1,10,0.4835161118094254
+Reference,Improved QCNN (notebook 15),1,11,0.4827001212010136
+Reference,Improved QCNN (notebook 15),1,12,0.48415861100805546
+Reference,Improved QCNN (notebook 15),1,13,0.4817833287606789
+Reference,Improved QCNN (notebook 15),1,14,0.48500066784746027
+Reference,Improved QCNN (notebook 15),1,15,0.4828833375752469
+Reference,Improved QCNN (notebook 15),1,16,0.4824570906829077
+Reference,Improved QCNN (notebook 15),1,17,0.4861579491591368
+Reference,Improved QCNN (notebook 15),1,18,0.48325660438024587
+Reference,Improved QCNN (notebook 15),1,19,0.48512885915001386
+Reference,Improved QCNN (notebook 15),1,20,0.4856655829913147
+Reference,Improved QCNN (notebook 15),1,21,0.48015003663979544
+Reference,Improved QCNN (notebook 15),1,22,0.4866404975366771
+Reference,Improved QCNN (notebook 15),1,23,0.4815260937879614
+Reference,Improved QCNN (notebook 15),1,24,0.4814724429728015
+Reference,Improved QCNN (notebook 15),1,25,0.48245218716936217
+Reference,Improved QCNN (notebook 15),1,26,0.48261532749728137
+Reference,Improved QCNN (notebook 15),1,27,0.48342496101258736
+Reference,Improved QCNN (notebook 15),1,28,0.48715764836402514
+Reference,Improved QCNN (notebook 15),1,29,0.48388512635954045
+Reference,Improved QCNN (notebook 15),1,30,0.4854931456185356
+Reference,Improved QCNN (notebook 15),1,31,0.48640273858939376
+Reference,Improved QCNN (notebook 15),0,1,0.5761698677525651
+Reference,Improved QCNN (notebook 15),0,2,0.5413141438321523
+Reference,Improved QCNN (notebook 15),0,3,0.5129999272345145
+Reference,Improved QCNN (notebook 15),0,4,0.48521563667067624
+Reference,Improved QCNN (notebook 15),0,5,0.4645823888786875
+Reference,Improved QCNN (notebook 15),0,6,0.4385789917944119
+Reference,Improved QCNN (notebook 15),0,7,0.4247396362013417
+Reference,Improved QCNN (notebook 15),0,8,0.41741744185470225
+Reference,Improved QCNN (notebook 15),0,9,0.4078496391703426
+Reference,Improved QCNN (notebook 15),0,10,0.40561584878326695
+Reference,Improved QCNN (notebook 15),0,11,0.3986977394856466
+Reference,Improved QCNN (notebook 15),0,12,0.39628697515740846
+Reference,Improved QCNN (notebook 15),0,13,0.40584207285000706
+Reference,Improved QCNN (notebook 15),0,14,0.39219415191952567
+Reference,Improved QCNN (notebook 15),0,15,0.3999213645567337
+Reference,Improved QCNN (notebook 15),0,16,0.38907447300651654
+Reference,Improved QCNN (notebook 15),0,17,0.3928922624219281
+Reference,Improved QCNN (notebook 15),0,18,0.3903648467471299
+Reference,Improved QCNN (notebook 15),0,19,0.38957473514921187
+Reference,Improved QCNN (notebook 15),0,20,0.38890950603848273
+Reference,Improved QCNN (notebook 15),0,21,0.39025039595374517
+Reference,Improved QCNN (notebook 15),0,22,0.3890619367376344
+Reference,Improved QCNN (notebook 15),0,23,0.39070159538853333
+Reference,Improved QCNN (notebook 15),0,24,0.38777821857126
+Reference,Improved QCNN (notebook 15),0,25,0.39674296001761733
+Reference,Improved QCNN (notebook 15),0,26,0.38762694754527827
+Reference,Improved QCNN (notebook 15),0,27,0.3882030576512918
+Reference,Improved QCNN (notebook 15),0,28,0.38742246867829977
+Reference,Improved QCNN (notebook 15),0,29,0.3873933800465319
+Reference,Improved QCNN (notebook 15),0,30,0.38785890602759815
+Reference,Improved QCNN (notebook 15),0,31,0.38595415181893705
+Reference,Improved QCNN (notebook 15),0,32,0.38994323644504936
+Reference,Improved QCNN (notebook 15),0,33,0.3931603740253416
+Reference,Improved QCNN (notebook 15),0,34,0.38879767722525316
+Reference,Improved QCNN (notebook 15),0,35,0.38765144669917867
+Reference,Improved QCNN (notebook 15),0,36,0.3937047135175365
+Reference,Improved QCNN (notebook 15),0,37,0.3874603394120868
+Reference,Improved QCNN (notebook 15),0,38,0.39371317513246507
+Reference,Improved QCNN (notebook 15),0,39,0.3880071734867332
+Reference,Improved QCNN (notebook 15),0,40,0.39031674820799656
+Reference,Improved QCNN (notebook 15),0,41,0.39593799860744844
+Reference,Improved QCNN (notebook 15),4,1,0.6456370866431046
+Reference,Improved QCNN (notebook 15),4,2,0.6291449767413716
+Reference,Improved QCNN (notebook 15),4,3,0.6075080780861842
+Reference,Improved QCNN (notebook 15),4,4,0.5841730944625042
+Reference,Improved QCNN (notebook 15),4,5,0.5654114345904838
+Reference,Improved QCNN (notebook 15),4,6,0.5448732100789149
+Reference,Improved QCNN (notebook 15),4,7,0.5326053474508228
+Reference,Improved QCNN (notebook 15),4,8,0.5266213317060948
+Reference,Improved QCNN (notebook 15),4,9,0.5161824152322816
+Reference,Improved QCNN (notebook 15),4,10,0.5133944568912798
+Reference,Improved QCNN (notebook 15),4,11,0.5087533714504138
+Reference,Improved QCNN (notebook 15),4,12,0.5065557618716525
+Reference,Improved QCNN (notebook 15),4,13,0.5184905274820519
+Reference,Improved QCNN (notebook 15),4,14,0.5052331804403907
+Reference,Improved QCNN (notebook 15),4,15,0.5034091660181244
+Reference,Improved QCNN (notebook 15),4,16,0.5019872139157991
+Reference,Improved QCNN (notebook 15),4,17,0.5036625533921293
+Reference,Improved QCNN (notebook 15),4,18,0.5061654223004542
+Reference,Improved QCNN (notebook 15),4,19,0.5002138739752753
+Reference,Improved QCNN (notebook 15),4,20,0.5045283405451375
+Reference,Improved QCNN (notebook 15),4,21,0.5009034842921761
+Reference,Improved QCNN (notebook 15),4,22,0.5021368340569292
+Reference,Improved QCNN (notebook 15),4,23,0.5045373406486379
+Reference,Improved QCNN (notebook 15),4,24,0.498561898797606
+Reference,Improved QCNN (notebook 15),4,25,0.5065301462205051
+Reference,Improved QCNN (notebook 15),4,26,0.5002086871374163
+Reference,Improved QCNN (notebook 15),4,27,0.5070639482957059
+Reference,Improved QCNN (notebook 15),4,28,0.5002726050928779
+Reference,Improved QCNN (notebook 15),4,29,0.5010191253546414
+Reference,Improved QCNN (notebook 15),4,30,0.5019439704456665
+Reference,Improved QCNN (notebook 15),4,31,0.4983155548746578
+Reference,Improved QCNN (notebook 15),4,32,0.49941671490239625
+Reference,Improved QCNN (notebook 15),4,33,0.5047408105653883
+Reference,Improved QCNN (notebook 15),4,34,0.49779843261572254
+Reference,Improved QCNN (notebook 15),4,35,0.5001246855808037
+Reference,Improved QCNN (notebook 15),4,36,0.5005071081972124
+Reference,Improved QCNN (notebook 15),4,37,0.5007866466795119
+Reference,Improved QCNN (notebook 15),4,38,0.4975784343711833
+Reference,Improved QCNN (notebook 15),4,39,0.49837363663547984
+Reference,Improved QCNN (notebook 15),4,40,0.5019557523221793
+Reference,Improved QCNN (notebook 15),4,41,0.4979533050263834
+Reference,Improved QCNN (notebook 15),4,42,0.4983795496037034
+Reference,Improved QCNN (notebook 15),4,43,0.5079294187697933
+Reference,Improved QCNN (notebook 15),4,44,0.49849748494982327
+Reference,Improved QCNN (notebook 15),4,45,0.5032368987666173
+Reference,Improved QCNN (notebook 15),4,46,0.4975567438579923
+Reference,Improved QCNN (notebook 15),4,47,0.5028926529054606
+Reference,Improved QCNN (notebook 15),4,48,0.4992052670987661
+Reference,Improved QCNN (notebook 15),4,49,0.5003737946656148
+Reference,Improved QCNN (notebook 15),4,50,0.5021724377032623
+Reference,Improved QCNN (notebook 15),4,51,0.4991501362125964
+Reference,Improved QCNN (notebook 15),4,52,0.4999330451741904
+Reference,Improved QCNN (notebook 15),4,53,0.4996724906443828
+Reference,Improved QCNN (notebook 15),4,54,0.5015555029148775
+Reference,Improved QCNN (notebook 15),4,55,0.4981394068920854
+Reference,Improved QCNN (notebook 15),4,56,0.49847060742352045
+A. Ablation,Min-max scaling instead of standardised,1,1,0.5874187800318862
+A. Ablation,Min-max scaling instead of standardised,1,2,0.5478003187057608
+A. Ablation,Min-max scaling instead of standardised,1,3,0.5279719565430115
+A. Ablation,Min-max scaling instead of standardised,1,4,0.5201462304008138
+A. Ablation,Min-max scaling instead of standardised,1,5,0.5086270967581265
+A. Ablation,Min-max scaling instead of standardised,1,6,0.5043821994831564
+A. Ablation,Min-max scaling instead of standardised,1,7,0.4943762595049452
+A. Ablation,Min-max scaling instead of standardised,1,8,0.49279708188785953
+A. Ablation,Min-max scaling instead of standardised,1,9,0.4929858057897967
+A. Ablation,Min-max scaling instead of standardised,1,10,0.4848414664764396
+A. Ablation,Min-max scaling instead of standardised,1,11,0.4827118003069273
+A. Ablation,Min-max scaling instead of standardised,1,12,0.4854377601015647
+A. Ablation,Min-max scaling instead of standardised,1,13,0.48309014841171566
+A. Ablation,Min-max scaling instead of standardised,1,14,0.4810329026739973
+A. Ablation,Min-max scaling instead of standardised,1,15,0.4835139984886887
+A. Ablation,Min-max scaling instead of standardised,1,16,0.47932205085501045
+A. Ablation,Min-max scaling instead of standardised,1,17,0.4862043226344035
+A. Ablation,Min-max scaling instead of standardised,1,18,0.48291849927919456
+A. Ablation,Min-max scaling instead of standardised,1,19,0.4814719517186718
+A. Ablation,Min-max scaling instead of standardised,1,20,0.4832611692418032
+A. Ablation,Min-max scaling instead of standardised,1,21,0.47741620741341206
+A. Ablation,Min-max scaling instead of standardised,1,22,0.48110615535073276
+A. Ablation,Min-max scaling instead of standardised,1,23,0.478078755541267
+A. Ablation,Min-max scaling instead of standardised,1,24,0.47728238144052765
+A. Ablation,Min-max scaling instead of standardised,1,25,0.4790855564380753
+A. Ablation,Min-max scaling instead of standardised,1,26,0.4779522032126929
+A. Ablation,Min-max scaling instead of standardised,1,27,0.48046945410191794
+A. Ablation,Min-max scaling instead of standardised,1,28,0.48540602264855653
+A. Ablation,Min-max scaling instead of standardised,1,29,0.47970438158371775
+A. Ablation,Min-max scaling instead of standardised,1,30,0.4805209336476804
+A. Ablation,Min-max scaling instead of standardised,1,31,0.48412476605681887
+A. Ablation,Min-max scaling instead of standardised,1,32,0.478357809541602
+A. Ablation,Min-max scaling instead of standardised,1,33,0.4782825657863029
+A. Ablation,Min-max scaling instead of standardised,1,34,0.4807875821674762
+A. Ablation,Min-max scaling instead of standardised,2,1,0.573968571334996
+A. Ablation,Min-max scaling instead of standardised,2,2,0.5381998556155156
+A. Ablation,Min-max scaling instead of standardised,2,3,0.5123453089967298
+A. Ablation,Min-max scaling instead of standardised,2,4,0.5013680874650283
+A. Ablation,Min-max scaling instead of standardised,2,5,0.4893377106882356
+A. Ablation,Min-max scaling instead of standardised,2,6,0.4867832263043173
+A. Ablation,Min-max scaling instead of standardised,2,7,0.48194610111175396
+A. Ablation,Min-max scaling instead of standardised,2,8,0.4737537735650441
+A. Ablation,Min-max scaling instead of standardised,2,9,0.48180589330870544
+A. Ablation,Min-max scaling instead of standardised,2,10,0.4690211484886564
+A. Ablation,Min-max scaling instead of standardised,2,11,0.4746126704636811
+A. Ablation,Min-max scaling instead of standardised,2,12,0.4751054824963254
+A. Ablation,Min-max scaling instead of standardised,2,13,0.46706248406751394
+A. Ablation,Min-max scaling instead of standardised,2,14,0.4787579236122407
+A. Ablation,Min-max scaling instead of standardised,2,15,0.46626630259642904
+A. Ablation,Min-max scaling instead of standardised,2,16,0.4695188214984597
+A. Ablation,Min-max scaling instead of standardised,2,17,0.47274037991352064
+A. Ablation,Min-max scaling instead of standardised,2,18,0.4647949746024447
+A. Ablation,Min-max scaling instead of standardised,2,19,0.47215511870037874
+A. Ablation,Min-max scaling instead of standardised,2,20,0.46396219174268777
+A. Ablation,Min-max scaling instead of standardised,2,21,0.47680120525145986
+A. Ablation,Min-max scaling instead of standardised,2,22,0.46464640570589844
+A. Ablation,Min-max scaling instead of standardised,2,23,0.46645168393727393
+A. Ablation,Min-max scaling instead of standardised,2,24,0.47135774920488493
+A. Ablation,Min-max scaling instead of standardised,2,25,0.46577164323168146
+A. Ablation,Min-max scaling instead of standardised,2,26,0.46942197546715536
+A. Ablation,Min-max scaling instead of standardised,2,27,0.4635516507901755
+A. Ablation,Min-max scaling instead of standardised,2,28,0.4815335876191165
+A. Ablation,Min-max scaling instead of standardised,2,29,0.46233266596548644
+A. Ablation,Min-max scaling instead of standardised,2,30,0.4652094261329798
+A. Ablation,Min-max scaling instead of standardised,2,31,0.4708502170012409
+A. Ablation,Min-max scaling instead of standardised,2,32,0.4658026139099848
+A. Ablation,Min-max scaling instead of standardised,2,33,0.4654366412331179
+A. Ablation,Min-max scaling instead of standardised,2,34,0.4664713589251018
+A. Ablation,Min-max scaling instead of standardised,2,35,0.4658409267285563
+A. Ablation,Min-max scaling instead of standardised,2,36,0.46277491469872845
+A. Ablation,Min-max scaling instead of standardised,2,37,0.46275027981457195
+A. Ablation,Min-max scaling instead of standardised,2,38,0.47030638758859294
+A. Ablation,Min-max scaling instead of standardised,2,39,0.46821396448834507
+A. Ablation,Min-max scaling instead of standardised,0,1,0.5872668896398889
+A. Ablation,Min-max scaling instead of standardised,0,2,0.5352713422197377
+A. Ablation,Min-max scaling instead of standardised,0,3,0.50360004378663
+A. Ablation,Min-max scaling instead of standardised,0,4,0.4774601854148124
+A. Ablation,Min-max scaling instead of standardised,0,5,0.46196897424566874
+A. Ablation,Min-max scaling instead of standardised,0,6,0.44650528537762807
+A. Ablation,Min-max scaling instead of standardised,0,7,0.43332336909754177
+A. Ablation,Min-max scaling instead of standardised,0,8,0.42962600431164066
+A. Ablation,Min-max scaling instead of standardised,0,9,0.4201948786293233
+A. Ablation,Min-max scaling instead of standardised,0,10,0.41708939911520054
+A. Ablation,Min-max scaling instead of standardised,0,11,0.4102547952798672
+A. Ablation,Min-max scaling instead of standardised,0,12,0.4071261970002553
+A. Ablation,Min-max scaling instead of standardised,0,13,0.4178813323903313
+A. Ablation,Min-max scaling instead of standardised,0,14,0.4039514916175547
+A. Ablation,Min-max scaling instead of standardised,0,15,0.40654010544295116
+A. Ablation,Min-max scaling instead of standardised,0,16,0.3999674443411397
+A. Ablation,Min-max scaling instead of standardised,0,17,0.39932066256009163
+A. Ablation,Min-max scaling instead of standardised,0,18,0.3990884534988894
+A. Ablation,Min-max scaling instead of standardised,0,19,0.39699171548049006
+A. Ablation,Min-max scaling instead of standardised,0,20,0.39815214494174744
+A. Ablation,Min-max scaling instead of standardised,0,21,0.3989766684448666
+A. Ablation,Min-max scaling instead of standardised,0,22,0.3958659763003625
+A. Ablation,Min-max scaling instead of standardised,0,23,0.39595080369768854
+A. Ablation,Min-max scaling instead of standardised,0,24,0.3949656261107921
+A. Ablation,Min-max scaling instead of standardised,0,25,0.4035887300197675
+A. Ablation,Min-max scaling instead of standardised,0,26,0.39712315596246156
+A. Ablation,Min-max scaling instead of standardised,0,27,0.3981057896075324
+A. Ablation,Min-max scaling instead of standardised,0,28,0.3983169881520542
+A. Ablation,Min-max scaling instead of standardised,0,29,0.39597854592373843
+A. Ablation,Min-max scaling instead of standardised,0,30,0.394109691335338
+A. Ablation,Min-max scaling instead of standardised,0,31,0.3973058442683018
+A. Ablation,Min-max scaling instead of standardised,0,32,0.3955699049156266
+A. Ablation,Min-max scaling instead of standardised,0,33,0.39829338455879176
+A. Ablation,Min-max scaling instead of standardised,0,34,0.3930315196643316
+A. Ablation,Min-max scaling instead of standardised,0,35,0.39331195233546185
+A. Ablation,Min-max scaling instead of standardised,0,36,0.3959634110659678
+A. Ablation,Min-max scaling instead of standardised,0,37,0.3913993782924621
+A. Ablation,Min-max scaling instead of standardised,0,38,0.3943161374211511
+A. Ablation,Min-max scaling instead of standardised,0,39,0.3934595385876583
+A. Ablation,Min-max scaling instead of standardised,0,40,0.3923111720465048
+A. Ablation,Min-max scaling instead of standardised,0,41,0.3955234836398541
+A. Ablation,Min-max scaling instead of standardised,0,42,0.3911689861110941
+A. Ablation,Min-max scaling instead of standardised,0,43,0.39804937932721224
+A. Ablation,Min-max scaling instead of standardised,0,44,0.3929602121450974
+A. Ablation,Min-max scaling instead of standardised,0,45,0.3997821514125091
+A. Ablation,Min-max scaling instead of standardised,0,46,0.3941640013347615
+A. Ablation,Min-max scaling instead of standardised,0,47,0.3902231453608113
+A. Ablation,Min-max scaling instead of standardised,0,48,0.391491717004962
+A. Ablation,Min-max scaling instead of standardised,0,49,0.3982689603073818
+A. Ablation,Min-max scaling instead of standardised,0,50,0.39225665486433375
+A. Ablation,Min-max scaling instead of standardised,0,51,0.3960737805492694
+A. Ablation,Min-max scaling instead of standardised,0,52,0.39088866542608197
+A. Ablation,Min-max scaling instead of standardised,0,53,0.39726651353664566
+A. Ablation,Min-max scaling instead of standardised,0,54,0.39763930500549444
+A. Ablation,Min-max scaling instead of standardised,0,55,0.39252862301988695
+A. Ablation,Min-max scaling instead of standardised,0,56,0.3917947070875417
+A. Ablation,Min-max scaling instead of standardised,0,57,0.3922592432732024
+Reference,Improved QCNN (notebook 15),3,1,0.5729853497144501
+Reference,Improved QCNN (notebook 15),3,2,0.5409288583426654
+Reference,Improved QCNN (notebook 15),3,3,0.5248090393111071
+Reference,Improved QCNN (notebook 15),3,4,0.502548998366961
+Reference,Improved QCNN (notebook 15),3,5,0.49337258036433046
+Reference,Improved QCNN (notebook 15),3,6,0.4787561229828004
+Reference,Improved QCNN (notebook 15),3,7,0.4689358446514859
+Reference,Improved QCNN (notebook 15),3,8,0.4627778004487734
+Reference,Improved QCNN (notebook 15),3,9,0.45843586025606253
+Reference,Improved QCNN (notebook 15),3,10,0.45685294295322015
+Reference,Improved QCNN (notebook 15),3,11,0.45090022612826575
+Reference,Improved QCNN (notebook 15),3,12,0.45034063415495856
+Reference,Improved QCNN (notebook 15),3,13,0.4560862974140985
+Reference,Improved QCNN (notebook 15),3,14,0.4459055520676747
+Reference,Improved QCNN (notebook 15),3,15,0.4494649558352953
+Reference,Improved QCNN (notebook 15),3,16,0.4424636465845389
+Reference,Improved QCNN (notebook 15),3,17,0.4429777417641697
+Reference,Improved QCNN (notebook 15),3,18,0.4464295993048626
+Reference,Improved QCNN (notebook 15),3,19,0.43955429533396917
+Reference,Improved QCNN (notebook 15),3,20,0.44278221330253204
+Reference,Improved QCNN (notebook 15),3,21,0.43951572264385136
+Reference,Improved QCNN (notebook 15),3,22,0.43982616865862734
+Reference,Improved QCNN (notebook 15),3,23,0.4446899242343777
+Reference,Improved QCNN (notebook 15),3,24,0.4380372894379921
+Reference,Improved QCNN (notebook 15),3,25,0.44165120680783976
+Reference,Improved QCNN (notebook 15),3,26,0.43828849860270347
+Reference,Improved QCNN (notebook 15),3,27,0.4390065591078862
+Reference,Improved QCNN (notebook 15),3,28,0.43888857496456285
+Reference,Improved QCNN (notebook 15),3,29,0.4390418937068337
+Reference,Improved QCNN (notebook 15),3,30,0.43741919467024226
+Reference,Improved QCNN (notebook 15),3,31,0.43449228291881337
+Reference,Improved QCNN (notebook 15),3,32,0.435573318753583
+Reference,Improved QCNN (notebook 15),3,33,0.43815383998640545
+Reference,Improved QCNN (notebook 15),3,34,0.43507534620194654
+Reference,Improved QCNN (notebook 15),3,35,0.4336103801378763
+Reference,Improved QCNN (notebook 15),3,36,0.43448176234314906
+Reference,Improved QCNN (notebook 15),3,37,0.4335640489412749
+Reference,Improved QCNN (notebook 15),3,38,0.4327183074373345
+Reference,Improved QCNN (notebook 15),3,39,0.4322786793201306
+Reference,Improved QCNN (notebook 15),3,40,0.437232323042936
+Reference,Improved QCNN (notebook 15),3,41,0.43561848537674214
+Reference,Improved QCNN (notebook 15),3,42,0.43216853862099747
+Reference,Improved QCNN (notebook 15),3,43,0.4361610074886496
+Reference,Improved QCNN (notebook 15),3,44,0.43431736105410657
+Reference,Improved QCNN (notebook 15),3,45,0.43745094325044565
+Reference,Improved QCNN (notebook 15),3,46,0.43241829954953376
+Reference,Improved QCNN (notebook 15),3,47,0.4325560218251594
+Reference,Improved QCNN (notebook 15),3,48,0.4336572250404395
+Reference,Improved QCNN (notebook 15),3,49,0.4356203653399851
+Reference,Improved QCNN (notebook 15),3,50,0.4389081455235765
+Reference,Improved QCNN (notebook 15),3,51,0.43075307528706347
+Reference,Improved QCNN (notebook 15),3,52,0.43189907726173343
+Reference,Improved QCNN (notebook 15),3,53,0.43192500334248096
+Reference,Improved QCNN (notebook 15),3,54,0.4323527899082031
+Reference,Improved QCNN (notebook 15),3,55,0.43020358536387027
+Reference,Improved QCNN (notebook 15),3,56,0.4335265381295577
+Reference,Improved QCNN (notebook 15),3,57,0.44018864909398703
+Reference,Improved QCNN (notebook 15),3,58,0.4315651419443984
+Reference,Improved QCNN (notebook 15),3,59,0.4319706707644105
+Reference,Improved QCNN (notebook 15),3,60,0.43599885108917946
+Reference,Improved QCNN (notebook 15),3,61,0.43364238061854354
+Reference,Improved QCNN (notebook 15),3,62,0.43361899525030784
+Reference,Improved QCNN (notebook 15),3,63,0.4322571106484156
+Reference,Improved QCNN (notebook 15),3,64,0.4410638665076721
+Reference,Improved QCNN (notebook 15),3,65,0.4298777575906979
+Reference,Improved QCNN (notebook 15),3,66,0.4306418604291548
+Reference,Improved QCNN (notebook 15),3,67,0.4286450628096287
+Reference,Improved QCNN (notebook 15),3,68,0.43224551110862436
+Reference,Improved QCNN (notebook 15),3,69,0.433079366112411
+Reference,Improved QCNN (notebook 15),3,70,0.43861984068235643
+Reference,Improved QCNN (notebook 15),3,71,0.4328325267724992
+Reference,Improved QCNN (notebook 15),3,72,0.4286023913301841
+Reference,Improved QCNN (notebook 15),3,73,0.4307134937890491
+Reference,Improved QCNN (notebook 15),3,74,0.42902830624602595
+Reference,Improved QCNN (notebook 15),3,75,0.43548435832765037
+Reference,Improved QCNN (notebook 15),3,76,0.4305494327253097
+Reference,Improved QCNN (notebook 15),3,77,0.4280665553843347
+Reference,Improved QCNN (notebook 15),3,78,0.43072964658064666
+Reference,Improved QCNN (notebook 15),3,79,0.44017964588864694
+Reference,Improved QCNN (notebook 15),3,80,0.42844801882180483
+Reference,Improved QCNN (notebook 15),3,81,0.42876248765198394
+Reference,Improved QCNN (notebook 15),3,82,0.43840870398745074
+Reference,Improved QCNN (notebook 15),3,83,0.43235588472813713
+Reference,Improved QCNN (notebook 15),3,84,0.4281616267272252
+Reference,Improved QCNN (notebook 15),3,85,0.4329289889981433
+Reference,Improved QCNN (notebook 15),3,86,0.4273407745325282
+Reference,Improved QCNN (notebook 15),3,87,0.43101038071533193
+Reference,Improved QCNN (notebook 15),3,88,0.433261201228272
+Reference,Improved QCNN (notebook 15),3,89,0.43404316628824074
+Reference,Improved QCNN (notebook 15),3,90,0.43228659867964503
+Reference,Improved QCNN (notebook 15),3,91,0.43029221390431044
+Reference,Improved QCNN (notebook 15),3,92,0.4401718955155265
+Reference,Improved QCNN (notebook 15),3,93,0.4294064279793021
+Reference,Improved QCNN (notebook 15),3,94,0.43016568131554744
+Reference,Improved QCNN (notebook 15),3,95,0.4342294969383567
+Reference,Improved QCNN (notebook 15),3,96,0.42911554275321184
+A. Ablation,Min-max scaling instead of standardised,3,1,0.577479902327199
+A. Ablation,Min-max scaling instead of standardised,3,2,0.5303474774253305
+A. Ablation,Min-max scaling instead of standardised,3,3,0.5098252459169127
+A. Ablation,Min-max scaling instead of standardised,3,4,0.49081478503403997
+A. Ablation,Min-max scaling instead of standardised,3,5,0.4821293318364749
+A. Ablation,Min-max scaling instead of standardised,3,6,0.470625081487051
+A. Ablation,Min-max scaling instead of standardised,3,7,0.4632954044390057
+A. Ablation,Min-max scaling instead of standardised,3,8,0.45714778681548185
+A. Ablation,Min-max scaling instead of standardised,3,9,0.45873287620154124
+A. Ablation,Min-max scaling instead of standardised,3,10,0.45664155327411143
+A. Ablation,Min-max scaling instead of standardised,3,11,0.44840769063411406
+A. Ablation,Min-max scaling instead of standardised,3,12,0.44690824527105677
+A. Ablation,Min-max scaling instead of standardised,3,13,0.46739694834260664
+A. Ablation,Min-max scaling instead of standardised,3,14,0.4465413389891819
+A. Ablation,Min-max scaling instead of standardised,3,15,0.4502110950440886
+A. Ablation,Min-max scaling instead of standardised,3,16,0.4405448134396187
+A. Ablation,Min-max scaling instead of standardised,3,17,0.44133339118190756
+A. Ablation,Min-max scaling instead of standardised,3,18,0.44730358525979214
+A. Ablation,Min-max scaling instead of standardised,3,19,0.44062400773101096
+A. Ablation,Min-max scaling instead of standardised,3,20,0.4422783670443933
+A. Ablation,Min-max scaling instead of standardised,3,21,0.44057323633854645
+A. Ablation,Min-max scaling instead of standardised,3,22,0.44089590988367033
+A. Ablation,Min-max scaling instead of standardised,3,23,0.4455674408388109
+A. Ablation,Min-max scaling instead of standardised,3,24,0.4400200740351173
+A. Ablation,Min-max scaling instead of standardised,3,25,0.443377674596281
+A. Ablation,Min-max scaling instead of standardised,3,26,0.44127277197823167
+A. Ablation,Min-max scaling instead of standardised,3,27,0.43923454809831214
+A. Ablation,Min-max scaling instead of standardised,3,28,0.4450148276040521
+A. Ablation,Min-max scaling instead of standardised,3,29,0.4392273850391501
+A. Ablation,Min-max scaling instead of standardised,3,30,0.4400378677960826
+A. Ablation,Min-max scaling instead of standardised,3,31,0.43656091858721624
+A. Ablation,Min-max scaling instead of standardised,3,32,0.44015782008088133
+A. Ablation,Min-max scaling instead of standardised,3,33,0.4414416713851933
+A. Ablation,Min-max scaling instead of standardised,3,34,0.43723182080906864
+A. Ablation,Min-max scaling instead of standardised,3,35,0.436467040525507
+A. Ablation,Min-max scaling instead of standardised,3,36,0.438348208337143
+A. Ablation,Min-max scaling instead of standardised,3,37,0.4384964830834149
+A. Ablation,Min-max scaling instead of standardised,3,38,0.43770526403924276
+A. Ablation,Min-max scaling instead of standardised,3,39,0.43778355918594547
+A. Ablation,Min-max scaling instead of standardised,3,40,0.4429540010033
+A. Ablation,Min-max scaling instead of standardised,3,41,0.43913859648569825
+A. Ablation,Min-max scaling instead of standardised,3,42,0.4361234709148224
+A. Ablation,Min-max scaling instead of standardised,3,43,0.43905670540582487
+A. Ablation,Min-max scaling instead of standardised,3,44,0.43940028642600215
+A. Ablation,Min-max scaling instead of standardised,3,45,0.44208737844412566
+A. Ablation,Min-max scaling instead of standardised,3,46,0.4367560884833307
+A. Ablation,Min-max scaling instead of standardised,3,47,0.43611853494119146
+A. Ablation,Min-max scaling instead of standardised,3,48,0.43890152219968503
+A. Ablation,Min-max scaling instead of standardised,3,49,0.44288190190721605
+A. Ablation,Min-max scaling instead of standardised,3,50,0.4452448706756044
+A. Ablation,Min-max scaling instead of standardised,3,51,0.43754302015069335
+A. Ablation,Min-max scaling instead of standardised,3,52,0.43830467041438603
+A. Ablation,Min-max scaling instead of standardised,3,53,0.43635907940473556
+A. Ablation,Min-max scaling instead of standardised,3,54,0.43689651176669236
+A. Ablation,Min-max scaling instead of standardised,3,55,0.4365304491602742
+A. Ablation,Min-max scaling instead of standardised,3,56,0.43772957206281377
+A. Ablation,Min-max scaling instead of standardised,3,57,0.4417543479771744
+A. Ablation,Fixed encoding instead of trainable,2,1,0.5906174580341356
+A. Ablation,Fixed encoding instead of trainable,2,2,0.5655682594479244
+A. Ablation,Fixed encoding instead of trainable,2,3,0.5486428882634772
+A. Ablation,Fixed encoding instead of trainable,2,4,0.536203070573594
+A. Ablation,Fixed encoding instead of trainable,2,5,0.5248636354607261
+A. Ablation,Fixed encoding instead of trainable,2,6,0.51657910779806
+A. Ablation,Fixed encoding instead of trainable,2,7,0.5076670320087424
+A. Ablation,Fixed encoding instead of trainable,2,8,0.49985931297981273
+A. Ablation,Fixed encoding instead of trainable,2,9,0.4997558846467259
+A. Ablation,Fixed encoding instead of trainable,2,10,0.49232405973618726
+A. Ablation,Fixed encoding instead of trainable,2,11,0.49333226216041354
+A. Ablation,Fixed encoding instead of trainable,2,12,0.49077059688646063
+A. Ablation,Fixed encoding instead of trainable,2,13,0.48694320764640964
+A. Ablation,Fixed encoding instead of trainable,2,14,0.4906982678614527
+A. Ablation,Fixed encoding instead of trainable,2,15,0.4879833485054776
+A. Ablation,Fixed encoding instead of trainable,2,16,0.4925951450047797
+A. Ablation,Fixed encoding instead of trainable,2,17,0.4939651911697501
+A. Ablation,Fixed encoding instead of trainable,2,18,0.4888678149161352
+A. Ablation,Fixed encoding instead of trainable,2,19,0.4956970125835735
+A. Ablation,Fixed encoding instead of trainable,2,20,0.4900021173707038
+A. Ablation,Fixed encoding instead of trainable,2,21,0.49909188789241926
+A. Ablation,Fixed encoding instead of trainable,2,22,0.492082259688795
+A. Ablation,Fixed encoding instead of trainable,2,23,0.49151324416855585
+A. Ablation,Min-max scaling instead of standardised,4,1,0.6402997064060961
+A. Ablation,Min-max scaling instead of standardised,4,2,0.6052243967994381
+A. Ablation,Min-max scaling instead of standardised,4,3,0.5793162110338256
+A. Ablation,Min-max scaling instead of standardised,4,4,0.5653868068985484
+A. Ablation,Min-max scaling instead of standardised,4,5,0.5608865886249097
+A. Ablation,Min-max scaling instead of standardised,4,6,0.5412351903198009
+A. Ablation,Min-max scaling instead of standardised,4,7,0.5340736529839604
+A. Ablation,Min-max scaling instead of standardised,4,8,0.5380564255881607
+A. Ablation,Min-max scaling instead of standardised,4,9,0.5265203002050274
+A. Ablation,Min-max scaling instead of standardised,4,10,0.524413008962374
+A. Ablation,Min-max scaling instead of standardised,4,11,0.5196108951757207
+A. Ablation,Min-max scaling instead of standardised,4,12,0.515004440720973
+A. Ablation,Min-max scaling instead of standardised,4,13,0.5420825360486127
+A. Ablation,Min-max scaling instead of standardised,4,14,0.5137506865490239
+A. Ablation,Min-max scaling instead of standardised,4,15,0.5130527370387287
+A. Ablation,Min-max scaling instead of standardised,4,16,0.5110246253148745
+A. Ablation,Min-max scaling instead of standardised,4,17,0.512574602800042
+A. Ablation,Min-max scaling instead of standardised,4,18,0.5166950204870379
+A. Ablation,Min-max scaling instead of standardised,4,19,0.5091053104413333
+A. Ablation,Min-max scaling instead of standardised,4,20,0.5103170592828041
+A. Ablation,Min-max scaling instead of standardised,4,21,0.5110893018314064
+A. Ablation,Min-max scaling instead of standardised,4,22,0.5156664492548072
+A. Ablation,Min-max scaling instead of standardised,4,23,0.5172639228189001
+A. Ablation,Min-max scaling instead of standardised,4,24,0.5062398526515572
+A. Ablation,Min-max scaling instead of standardised,4,25,0.5131978785665163
+A. Ablation,Min-max scaling instead of standardised,4,26,0.5076745381062285
+A. Ablation,Min-max scaling instead of standardised,4,27,0.5148453151731005
+A. Ablation,Min-max scaling instead of standardised,4,28,0.50983249452469
+A. Ablation,Min-max scaling instead of standardised,4,29,0.5078722022937995
+A. Ablation,Min-max scaling instead of standardised,4,30,0.5099370874518129
+A. Ablation,Min-max scaling instead of standardised,4,31,0.5046192169905621
+A. Ablation,Min-max scaling instead of standardised,4,32,0.5054961253924722
+A. Ablation,Min-max scaling instead of standardised,4,33,0.5100405607513774
+A. Ablation,Min-max scaling instead of standardised,4,34,0.5056017017008954
+A. Ablation,Min-max scaling instead of standardised,4,35,0.5058466373461717
+A. Ablation,Min-max scaling instead of standardised,4,36,0.507688389269622
+A. Ablation,Min-max scaling instead of standardised,4,37,0.5091080077905046
+A. Ablation,Min-max scaling instead of standardised,4,38,0.5042755537059387
+A. Ablation,Min-max scaling instead of standardised,4,39,0.5041082256410028
+A. Ablation,Min-max scaling instead of standardised,4,40,0.510353045553443
+A. Ablation,Min-max scaling instead of standardised,4,41,0.5032895672771266
+A. Ablation,Min-max scaling instead of standardised,4,42,0.504826782940782
+A. Ablation,Min-max scaling instead of standardised,4,43,0.5259222301660974
+A. Ablation,Min-max scaling instead of standardised,4,44,0.503086536554003
+A. Ablation,Min-max scaling instead of standardised,4,45,0.5073232317399822
+A. Ablation,Min-max scaling instead of standardised,4,46,0.5026490399352534
+A. Ablation,Min-max scaling instead of standardised,4,47,0.5046077451010291
+A. Ablation,Min-max scaling instead of standardised,4,48,0.5058722377155854
+A. Ablation,Min-max scaling instead of standardised,4,49,0.5063975699149507
+A. Ablation,Min-max scaling instead of standardised,4,50,0.5045115480693303
+A. Ablation,Min-max scaling instead of standardised,4,51,0.505737417841462
+A. Ablation,Min-max scaling instead of standardised,4,52,0.5021242660598153
+A. Ablation,Min-max scaling instead of standardised,4,53,0.5034250395152088
+A. Ablation,Min-max scaling instead of standardised,4,54,0.5080678067891681
+A. Ablation,Min-max scaling instead of standardised,4,55,0.5022402204111267
+A. Ablation,Min-max scaling instead of standardised,4,56,0.5036802573471612
+A. Ablation,Min-max scaling instead of standardised,4,57,0.5105278699766053
+A. Ablation,Min-max scaling instead of standardised,4,58,0.5016005784543772
+A. Ablation,Min-max scaling instead of standardised,4,59,0.5018772098576284
+A. Ablation,Min-max scaling instead of standardised,4,60,0.5147648678457973
+A. Ablation,Min-max scaling instead of standardised,4,61,0.5018639718311583
+A. Ablation,Min-max scaling instead of standardised,4,62,0.5049534943824976
+A. Ablation,Min-max scaling instead of standardised,4,63,0.49996629393669473
+A. Ablation,Min-max scaling instead of standardised,4,64,0.5055241975611452
+A. Ablation,Min-max scaling instead of standardised,4,65,0.5039247054754679
+A. Ablation,Min-max scaling instead of standardised,4,66,0.5036248766154732
+A. Ablation,Min-max scaling instead of standardised,4,67,0.5008659365544961
+A. Ablation,Min-max scaling instead of standardised,4,68,0.5063109023144414
+A. Ablation,Min-max scaling instead of standardised,4,69,0.5038733879865485
+A. Ablation,Min-max scaling instead of standardised,4,70,0.5063517255923251
+A. Ablation,Min-max scaling instead of standardised,4,71,0.5013808256466741
+A. Ablation,Min-max scaling instead of standardised,4,72,0.5035563976989667
+A. Ablation,Min-max scaling instead of standardised,4,73,0.5069300379973558
+A. Ablation,Fixed encoding instead of trainable,4,1,0.6490566884699421
+A. Ablation,Fixed encoding instead of trainable,4,2,0.6417544393669101
+A. Ablation,Fixed encoding instead of trainable,4,3,0.6339975515360073
+A. Ablation,Fixed encoding instead of trainable,4,4,0.62160573610579
+A. Ablation,Fixed encoding instead of trainable,4,5,0.6078946353177712
+A. Ablation,Fixed encoding instead of trainable,4,6,0.5892269868873936
+A. Ablation,Fixed encoding instead of trainable,4,7,0.5753050159745785
+A. Ablation,Fixed encoding instead of trainable,4,8,0.5662555955632229
+A. Ablation,Fixed encoding instead of trainable,4,9,0.5521657165255008
+A. Ablation,Fixed encoding instead of trainable,4,10,0.5446259518399668
+A. Ablation,Fixed encoding instead of trainable,4,11,0.5357103651206807
+A. Ablation,Fixed encoding instead of trainable,4,12,0.5296218259950454
+A. Ablation,Fixed encoding instead of trainable,4,13,0.5344724759017867
+A. Ablation,Fixed encoding instead of trainable,4,14,0.5217722362661427
+A. Ablation,Fixed encoding instead of trainable,4,15,0.5193578912317507
+A. Ablation,Fixed encoding instead of trainable,4,16,0.5142390923883818
+A. Ablation,Fixed encoding instead of trainable,4,17,0.5145981075329229
+A. Ablation,Fixed encoding instead of trainable,4,18,0.5109455466529357
+A. Ablation,Fixed encoding instead of trainable,4,19,0.5086806745809099
+A. Ablation,Fixed encoding instead of trainable,4,20,0.5105752770035089
+A. Ablation,Fixed encoding instead of trainable,4,21,0.5057534203459062
+A. Ablation,Fixed encoding instead of trainable,4,22,0.5090209443026067
+A. Ablation,Fixed encoding instead of trainable,4,23,0.508694096275086
+A. Ablation,Fixed encoding instead of trainable,4,24,0.5032560656559351
+A. Ablation,Fixed encoding instead of trainable,4,25,0.5067768474675675
+A. Ablation,Fixed encoding instead of trainable,4,26,0.5039997086892526
+A. Ablation,Fixed encoding instead of trainable,4,27,0.5086148695140654
+A. Ablation,Fixed encoding instead of trainable,4,28,0.5024491501386413
+A. Ablation,Fixed encoding instead of trainable,4,29,0.5043210646688842
+A. Ablation,Fixed encoding instead of trainable,4,30,0.5035678618136605
+A. Ablation,Fixed encoding instead of trainable,4,31,0.5042428687727772
+A. Ablation,Fixed encoding instead of trainable,4,32,0.5016658573891589
+A. Ablation,Fixed encoding instead of trainable,4,33,0.5041647911237075
+A. Ablation,Fixed encoding instead of trainable,4,34,0.501405959401684
+A. Ablation,Fixed encoding instead of trainable,4,35,0.5017969124102307
+A. Ablation,Fixed encoding instead of trainable,4,36,0.503202311137407
+A. Ablation,Fixed encoding instead of trainable,4,37,0.5006311744979796
+A. Ablation,Fixed encoding instead of trainable,4,38,0.5008862410357664
+A. Ablation,Fixed encoding instead of trainable,4,39,0.5022724694426659
+A. Ablation,Fixed encoding instead of trainable,4,40,0.5001698942030824
+A. Ablation,Fixed encoding instead of trainable,4,41,0.4995814724494426
+A. Ablation,Fixed encoding instead of trainable,4,42,0.5008857940454876
+A. Ablation,Fixed encoding instead of trainable,4,43,0.5011327368953085
+A. Ablation,Fixed encoding instead of trainable,4,44,0.5012237982565693
+A. Ablation,Fixed encoding instead of trainable,4,45,0.5023928865148692
+A. Ablation,Fixed encoding instead of trainable,4,46,0.49800736203157525
+A. Ablation,Fixed encoding instead of trainable,4,47,0.5017537766145302
+A. Ablation,Fixed encoding instead of trainable,4,48,0.5008556302511457
+A. Ablation,Fixed encoding instead of trainable,4,49,0.49708061285956195
+A. Ablation,Fixed encoding instead of trainable,4,50,0.49927602577908786
+A. Ablation,Fixed encoding instead of trainable,4,51,0.5007495505957529
+A. Ablation,Fixed encoding instead of trainable,4,52,0.5021398149984516
+A. Ablation,Fixed encoding instead of trainable,4,53,0.5004856440823428
+A. Ablation,Fixed encoding instead of trainable,4,54,0.5006949370831675
+A. Ablation,Fixed encoding instead of trainable,4,55,0.4990766051622098
+A. Ablation,Fixed encoding instead of trainable,4,56,0.4986165875835288
+A. Ablation,Fixed encoding instead of trainable,4,57,0.5034917554373657
+A. Ablation,Fixed encoding instead of trainable,4,58,0.4980339520488071
+A. Ablation,Fixed encoding instead of trainable,4,59,0.4988126446414065
+A. Ablation,Fixed encoding instead of trainable,1,1,0.5889696896447799
+A. Ablation,Fixed encoding instead of trainable,1,2,0.5657130787205505
+A. Ablation,Fixed encoding instead of trainable,1,3,0.5519571522564667
+A. Ablation,Fixed encoding instead of trainable,1,4,0.5422060159839244
+A. Ablation,Fixed encoding instead of trainable,1,5,0.531222983385367
+A. Ablation,Fixed encoding instead of trainable,1,6,0.5242091893926062
+A. Ablation,Fixed encoding instead of trainable,1,7,0.5162261523416676
+A. Ablation,Fixed encoding instead of trainable,1,8,0.5122729146800832
+A. Ablation,Fixed encoding instead of trainable,1,9,0.5043075096662287
+A. Ablation,Fixed encoding instead of trainable,1,10,0.5021557259885696
+A. Ablation,Fixed encoding instead of trainable,1,11,0.4989104049877308
+A. Ablation,Fixed encoding instead of trainable,1,12,0.4970595320754589
+A. Ablation,Fixed encoding instead of trainable,1,13,0.4967346886219857
+A. Ablation,Fixed encoding instead of trainable,1,14,0.4937345979293617
+A. Ablation,Fixed encoding instead of trainable,1,15,0.4924112622453168
+A. Ablation,Fixed encoding instead of trainable,1,16,0.49243923854597593
+A. Ablation,Fixed encoding instead of trainable,1,17,0.492012402782146
+A. Ablation,Fixed encoding instead of trainable,1,18,0.49130857084995344
+A. Ablation,Fixed encoding instead of trainable,1,19,0.4912169533203691
+A. Ablation,Fixed encoding instead of trainable,1,20,0.49101544969233885
+A. Ablation,Fixed encoding instead of trainable,1,21,0.48881673680338733
+A. Ablation,Fixed encoding instead of trainable,1,22,0.4901038565414184
+A. Ablation,Fixed encoding instead of trainable,1,23,0.4897128168623624
+A. Ablation,Fixed encoding instead of trainable,1,24,0.48807325558197506
+A. Ablation,Fixed encoding instead of trainable,1,25,0.48903925031532425
+A. Ablation,Fixed encoding instead of trainable,1,26,0.48905184274174934
+A. Ablation,Fixed encoding instead of trainable,1,27,0.48756353447988077
+A. Ablation,Fixed encoding instead of trainable,1,28,0.4891124507932837
+A. Ablation,Fixed encoding instead of trainable,1,29,0.48718433451752186
+A. Ablation,Fixed encoding instead of trainable,1,30,0.48850088471713404
+A. Ablation,Fixed encoding instead of trainable,1,31,0.48748782065944507
+A. Ablation,Fixed encoding instead of trainable,1,32,0.48807778542633823
+A. Ablation,Fixed encoding instead of trainable,1,33,0.48782059158161906
+A. Ablation,Fixed encoding instead of trainable,1,34,0.48617323602825036
+A. Ablation,Fixed encoding instead of trainable,1,35,0.4852417310163948
+A. Ablation,Fixed encoding instead of trainable,1,36,0.48726982419979276
+A. Ablation,Fixed encoding instead of trainable,1,37,0.4874205977576242
+A. Ablation,Fixed encoding instead of trainable,1,38,0.4854525834361396
+A. Ablation,Fixed encoding instead of trainable,1,39,0.48435851934957463
+A. Ablation,Fixed encoding instead of trainable,1,40,0.48426110885532586
+A. Ablation,Fixed encoding instead of trainable,1,41,0.48437049917933084
+A. Ablation,Fixed encoding instead of trainable,1,42,0.4842989443556598
+A. Ablation,Fixed encoding instead of trainable,1,43,0.48641630993693635
+A. Ablation,Fixed encoding instead of trainable,1,44,0.48501558347603774
+A. Ablation,Fixed encoding instead of trainable,1,45,0.48702991532750134
+A. Ablation,Fixed encoding instead of trainable,1,46,0.48437751812018365
+A. Ablation,Fixed encoding instead of trainable,1,47,0.48442673279141607
+A. Ablation,Fixed encoding instead of trainable,1,48,0.48454433594892726
+A. Ablation,Fixed encoding instead of trainable,1,49,0.48248639727040976
+A. Ablation,Fixed encoding instead of trainable,1,50,0.48333081042387643
+A. Ablation,Fixed encoding instead of trainable,1,51,0.48263244137077654
+A. Ablation,Fixed encoding instead of trainable,1,52,0.48135544820632176
+A. Ablation,Fixed encoding instead of trainable,1,53,0.4829127627334381
+A. Ablation,Fixed encoding instead of trainable,1,54,0.48126334725593395
+A. Ablation,Fixed encoding instead of trainable,1,55,0.4823569642519056
+A. Ablation,Fixed encoding instead of trainable,1,56,0.4836844730600526
+A. Ablation,Fixed encoding instead of trainable,1,57,0.4808143618960465
+A. Ablation,Fixed encoding instead of trainable,1,58,0.4816326364503757
+A. Ablation,Fixed encoding instead of trainable,1,59,0.48140179592709714
+A. Ablation,Fixed encoding instead of trainable,1,60,0.4817555508951041
+A. Ablation,Fixed encoding instead of trainable,1,61,0.4803180655969858
+A. Ablation,Fixed encoding instead of trainable,1,62,0.4794474933530875
+A. Ablation,Fixed encoding instead of trainable,1,63,0.48266431748371136
+A. Ablation,Fixed encoding instead of trainable,1,64,0.4803289659093329
+A. Ablation,Fixed encoding instead of trainable,1,65,0.47983296699994527
+A. Ablation,Fixed encoding instead of trainable,1,66,0.4834728566734915
+A. Ablation,Fixed encoding instead of trainable,1,67,0.4806431830274845
+A. Ablation,Fixed encoding instead of trainable,1,68,0.4802517088124915
+A. Ablation,Fixed encoding instead of trainable,1,69,0.48044673283260325
+A. Ablation,Fixed encoding instead of trainable,1,70,0.48040760774244273
+A. Ablation,Fixed encoding instead of trainable,1,71,0.48301525067192297
+A. Ablation,Fixed encoding instead of trainable,1,72,0.4788011585330048
+A. Ablation,Fixed encoding instead of trainable,1,73,0.48043548089898563
+A. Ablation,Fixed encoding instead of trainable,1,74,0.48085129744428645
+A. Ablation,Fixed encoding instead of trainable,1,75,0.4801821864044052
+A. Ablation,Fixed encoding instead of trainable,1,76,0.4792522393480091
+A. Ablation,Fixed encoding instead of trainable,1,77,0.47975403924791454
+A. Ablation,Fixed encoding instead of trainable,1,78,0.4793824861079898
+A. Ablation,Fixed encoding instead of trainable,1,79,0.47774042118692567
+A. Ablation,Fixed encoding instead of trainable,1,80,0.4837345002126529
+A. Ablation,Fixed encoding instead of trainable,1,81,0.47849252993780755
+A. Ablation,Fixed encoding instead of trainable,1,82,0.47951873910681536
+A. Ablation,Fixed encoding instead of trainable,1,83,0.4793741169803959
+A. Ablation,Fixed encoding instead of trainable,1,84,0.481648685137893
+A. Ablation,Fixed encoding instead of trainable,1,85,0.47942759935784435
+A. Ablation,Fixed encoding instead of trainable,1,86,0.4798504753461671
+A. Ablation,Fixed encoding instead of trainable,1,87,0.4785134779867134
+A. Ablation,Fixed encoding instead of trainable,1,88,0.47768073218962964
+A. Ablation,Fixed encoding instead of trainable,1,89,0.48053581399088874
+A. Ablation,Fixed encoding instead of trainable,1,90,0.4828581993218631
+A. Ablation,Fixed encoding instead of trainable,1,91,0.480618259220008
+A. Ablation,Fixed encoding instead of trainable,1,92,0.4775542833128195
+A. Ablation,Fixed encoding instead of trainable,1,93,0.4779526475297197
+A. Ablation,Fixed encoding instead of trainable,1,94,0.4795015381186586
+A. Ablation,Fixed encoding instead of trainable,1,95,0.4840596549357603
+A. Ablation,Fixed encoding instead of trainable,1,96,0.4787839564805858
+A. Ablation,Fixed encoding instead of trainable,1,97,0.47822126699839074
+A. Ablation,Fixed encoding instead of trainable,1,98,0.4808427277081312
+A. Ablation,Fixed encoding instead of trainable,1,99,0.48539797638319115
+A. Ablation,Fixed encoding instead of trainable,1,100,0.4777003672332713
+A. Ablation,Fixed encoding instead of trainable,0,1,0.5898577298111426
+A. Ablation,Fixed encoding instead of trainable,0,2,0.565788659972592
+A. Ablation,Fixed encoding instead of trainable,0,3,0.548768908259985
+A. Ablation,Fixed encoding instead of trainable,0,4,0.5337310718336301
+A. Ablation,Fixed encoding instead of trainable,0,5,0.5209173348492152
+A. Ablation,Fixed encoding instead of trainable,0,6,0.5067921107861398
+A. Ablation,Fixed encoding instead of trainable,0,7,0.49424158865572393
+A. Ablation,Fixed encoding instead of trainable,0,8,0.4860249703927421
+A. Ablation,Fixed encoding instead of trainable,0,9,0.4758108589601537
+A. Ablation,Fixed encoding instead of trainable,0,10,0.4689687371073017
+A. Ablation,Fixed encoding instead of trainable,0,11,0.46079272884940475
+A. Ablation,Fixed encoding instead of trainable,0,12,0.45639433143478847
+A. Ablation,Fixed encoding instead of trainable,0,13,0.4566820542970782
+A. Ablation,Fixed encoding instead of trainable,0,14,0.447240035839177
+A. Ablation,Fixed encoding instead of trainable,0,15,0.4500949281519221
+A. Ablation,Fixed encoding instead of trainable,0,16,0.4416285521252015
+A. Ablation,Fixed encoding instead of trainable,0,17,0.44294840889826015
+A. Ablation,Fixed encoding instead of trainable,0,18,0.4372586653721516
+A. Ablation,Fixed encoding instead of trainable,0,19,0.43357122895133476
+A. Ablation,Fixed encoding instead of trainable,0,20,0.43292133252814896
+A. Ablation,Fixed encoding instead of trainable,0,21,0.43184292989543743
+A. Ablation,Fixed encoding instead of trainable,0,22,0.4292114035658762
+A. Ablation,Fixed encoding instead of trainable,0,23,0.4344420737137461
+A. Ablation,Fixed encoding instead of trainable,0,24,0.42817017392827
+A. Ablation,Fixed encoding instead of trainable,0,25,0.43235029936001546
+A. Ablation,Fixed encoding instead of trainable,0,26,0.42456608241819127
+A. Ablation,Fixed encoding instead of trainable,0,27,0.42850325333736367
+A. Ablation,Fixed encoding instead of trainable,0,28,0.4235666119662595
+A. Ablation,Fixed encoding instead of trainable,0,29,0.42366861247010806
+A. Ablation,Fixed encoding instead of trainable,0,30,0.42245602766953405
+A. Ablation,Fixed encoding instead of trainable,0,31,0.42001161858955494
+A. Ablation,Fixed encoding instead of trainable,0,32,0.42319821415688214
+A. Ablation,Fixed encoding instead of trainable,0,33,0.4249629111333078
+A. Ablation,Fixed encoding instead of trainable,0,34,0.4203875333103923
+A. Ablation,Fixed encoding instead of trainable,0,35,0.41785345016771563
+A. Ablation,Fixed encoding instead of trainable,0,36,0.420814455628901
+A. Ablation,Fixed encoding instead of trainable,0,37,0.41826251950929705
+A. Ablation,Fixed encoding instead of trainable,0,38,0.4214349659019032
+A. Ablation,Fixed encoding instead of trainable,0,39,0.41465852043655504
+A. Ablation,Fixed encoding instead of trainable,0,40,0.41420222435958515
+A. Ablation,Fixed encoding instead of trainable,0,41,0.4190565437705115
+A. Ablation,Fixed encoding instead of trainable,0,42,0.4126611864065052
+A. Ablation,Fixed encoding instead of trainable,0,43,0.4181603518431721
+A. Ablation,Fixed encoding instead of trainable,0,44,0.41414087587680043
+A. Ablation,Fixed encoding instead of trainable,0,45,0.42005372317563416
+A. Ablation,Fixed encoding instead of trainable,0,46,0.4134667900735633
+A. Ablation,Fixed encoding instead of trainable,0,47,0.41106108096128163
+A. Ablation,Fixed encoding instead of trainable,0,48,0.4142617092851738
+A. Ablation,Fixed encoding instead of trainable,0,49,0.41417007328433914
+A. Ablation,Fixed encoding instead of trainable,0,50,0.4107835046694195
+A. Ablation,Fixed encoding instead of trainable,0,51,0.4129254772299557
+A. Ablation,Fixed encoding instead of trainable,0,52,0.4106087606575804
+A. Ablation,Fixed encoding instead of trainable,0,53,0.41756867478130044
+A. Ablation,Fixed encoding instead of trainable,0,54,0.41210315334232556
+A. Ablation,Fixed encoding instead of trainable,0,55,0.40836154568173444
+A. Ablation,Fixed encoding instead of trainable,0,56,0.40973032235902385
+A. Ablation,Fixed encoding instead of trainable,0,57,0.4103148794712442
+A. Ablation,Fixed encoding instead of trainable,0,58,0.405781055364805
+A. Ablation,Fixed encoding instead of trainable,0,59,0.41114209596921764
+A. Ablation,Fixed encoding instead of trainable,0,60,0.40857850141271335
+A. Ablation,Fixed encoding instead of trainable,0,61,0.40811860565011177
+A. Ablation,Fixed encoding instead of trainable,0,62,0.41116039147426103
+A. Ablation,Fixed encoding instead of trainable,0,63,0.4046364146761881
+A. Ablation,Fixed encoding instead of trainable,0,64,0.41234855429404166
+A. Ablation,Fixed encoding instead of trainable,0,65,0.4054848240933192
+A. Ablation,Fixed encoding instead of trainable,0,66,0.40390949470701104
+A. Ablation,Fixed encoding instead of trainable,0,67,0.4047737576609548
+A. Ablation,Fixed encoding instead of trainable,0,68,0.4065433566338958
+A. Ablation,Fixed encoding instead of trainable,0,69,0.40516368296852934
+A. Ablation,Fixed encoding instead of trainable,0,70,0.40782196762860295
+A. Ablation,Fixed encoding instead of trainable,0,71,0.4019903979733393
+A. Ablation,Fixed encoding instead of trainable,0,72,0.4033276187310794
+A. Ablation,Fixed encoding instead of trainable,0,73,0.40719439393433954
+A. Ablation,Fixed encoding instead of trainable,0,74,0.40599566860537695
+A. Ablation,Fixed encoding instead of trainable,0,75,0.402858121943917
+A. Ablation,Fixed encoding instead of trainable,0,76,0.4029840935612168
+A. Ablation,Fixed encoding instead of trainable,0,77,0.40366331070904254
+A. Ablation,Fixed encoding instead of trainable,0,78,0.4046568436470748
+A. Ablation,Fixed encoding instead of trainable,0,79,0.4025544425187142
+A. Ablation,Fixed encoding instead of trainable,0,80,0.40657090457893424
+A. Ablation,Fixed encoding instead of trainable,0,81,0.4004228452792865
+A. Ablation,Fixed encoding instead of trainable,0,82,0.39929833855839136
+A. Ablation,Fixed encoding instead of trainable,0,83,0.40566439795722703
+A. Ablation,Fixed encoding instead of trainable,0,84,0.40356916130614123
+A. Ablation,Fixed encoding instead of trainable,0,85,0.4023013022233691
+A. Ablation,Fixed encoding instead of trainable,0,86,0.402535954993506
+A. Ablation,Fixed encoding instead of trainable,0,87,0.4019363954871827
+A. Ablation,Fixed encoding instead of trainable,0,88,0.4023084308343521
+A. Ablation,Fixed encoding instead of trainable,0,89,0.40064922261674846
+A. Ablation,Fixed encoding instead of trainable,0,90,0.40115196587017576
+A. Ablation,Fixed encoding instead of trainable,0,91,0.40372688227940867
+A. Ablation,Fixed encoding instead of trainable,0,92,0.39857528020491734
+A. Ablation,Fixed encoding instead of trainable,0,93,0.4026314886248602
+A. Ablation,Fixed encoding instead of trainable,0,94,0.4010640503152976
+A. Ablation,Fixed encoding instead of trainable,0,95,0.3996368827418809
+A. Ablation,Fixed encoding instead of trainable,0,96,0.4020668579860455
+A. Ablation,Fixed encoding instead of trainable,0,97,0.4005628878134047
+A. Ablation,Fixed encoding instead of trainable,0,98,0.39856497272696156
+A. Ablation,Fixed encoding instead of trainable,0,99,0.40010827216599837
+A. Ablation,Fixed encoding instead of trainable,0,100,0.40381292024810483
+A. Ablation,Fixed encoding instead of trainable,3,1,0.5833971391797392
+A. Ablation,Fixed encoding instead of trainable,3,2,0.5563521461906202
+A. Ablation,Fixed encoding instead of trainable,3,3,0.5446446234873483
+A. Ablation,Fixed encoding instead of trainable,3,4,0.5282993506836322
+A. Ablation,Fixed encoding instead of trainable,3,5,0.5230400877791926
+A. Ablation,Fixed encoding instead of trainable,3,6,0.5120095529761399
+A. Ablation,Fixed encoding instead of trainable,3,7,0.5017466122198414
+A. Ablation,Fixed encoding instead of trainable,3,8,0.49679774113074837
+A. Ablation,Fixed encoding instead of trainable,3,9,0.4883261164167022
+A. Ablation,Fixed encoding instead of trainable,3,10,0.48769237400295523
+A. Ablation,Fixed encoding instead of trainable,3,11,0.4794653676025952
+A. Ablation,Fixed encoding instead of trainable,3,12,0.4765253036082975
+A. Ablation,Fixed encoding instead of trainable,3,13,0.48016798277716044
+A. Ablation,Fixed encoding instead of trainable,3,14,0.4715203671935443
+A. Ablation,Fixed encoding instead of trainable,3,15,0.47158815687668715
+A. Ablation,Fixed encoding instead of trainable,3,16,0.4647916264889306
+A. Ablation,Fixed encoding instead of trainable,3,17,0.46411751283154645
+A. Ablation,Fixed encoding instead of trainable,3,18,0.46680052390066085
+A. Ablation,Fixed encoding instead of trainable,3,19,0.4606821434332979
+A. Ablation,Fixed encoding instead of trainable,3,20,0.46273260567524815
+A. Ablation,Fixed encoding instead of trainable,3,21,0.4602861068546094
+A. Ablation,Fixed encoding instead of trainable,3,22,0.4590134282641295
+A. Ablation,Fixed encoding instead of trainable,3,23,0.4629992358472655
+A. Ablation,Fixed encoding instead of trainable,3,24,0.45710236016155337
+A. Ablation,Fixed encoding instead of trainable,3,25,0.4600678286248686
+A. Ablation,Fixed encoding instead of trainable,3,26,0.4560741281981968
+A. Ablation,Fixed encoding instead of trainable,3,27,0.45916884338050984
+A. Ablation,Fixed encoding instead of trainable,3,28,0.4566055054376048
+A. Ablation,Fixed encoding instead of trainable,3,29,0.45552063762069983
+A. Ablation,Fixed encoding instead of trainable,3,30,0.4556240515395155
+A. Ablation,Fixed encoding instead of trainable,3,31,0.45295171782437843
+A. Ablation,Fixed encoding instead of trainable,3,32,0.4555641719929573
+A. Ablation,Fixed encoding instead of trainable,3,33,0.45562390985467194
+A. Ablation,Fixed encoding instead of trainable,3,34,0.4534186178733148
+A. Ablation,Fixed encoding instead of trainable,3,35,0.45043564694262767
+A. Ablation,Fixed encoding instead of trainable,3,36,0.4527770031966182
+A. Ablation,Fixed encoding instead of trainable,3,37,0.4511799312251398
+A. Ablation,Fixed encoding instead of trainable,3,38,0.449829039586554
+A. Ablation,Fixed encoding instead of trainable,3,39,0.4506605175304256
+A. Ablation,Fixed encoding instead of trainable,3,40,0.4522000390666273
+A. Ablation,Fixed encoding instead of trainable,3,41,0.4500994786422817
+A. Ablation,Fixed encoding instead of trainable,3,42,0.4506499193813293
+A. Ablation,Fixed encoding instead of trainable,3,43,0.45119512687609603
+A. Ablation,Fixed encoding instead of trainable,3,44,0.452615805436897
+A. Ablation,Fixed encoding instead of trainable,3,45,0.4502611887587622
+A. Ablation,Fixed encoding instead of trainable,3,46,0.4461700042367186
+A. Ablation,Fixed encoding instead of trainable,3,47,0.4492139960322787
+A. Ablation,Fixed encoding instead of trainable,3,48,0.44949800683608393
+A. Ablation,Fixed encoding instead of trainable,3,49,0.4447147870485477
+A. Ablation,Fixed encoding instead of trainable,3,50,0.4532134161093858
+A. Ablation,Fixed encoding instead of trainable,3,51,0.4448568232431449
+A. Ablation,Fixed encoding instead of trainable,3,52,0.44821159220799495
+A. Ablation,Fixed encoding instead of trainable,3,53,0.4462896613816736
+A. Ablation,Fixed encoding instead of trainable,3,54,0.4449249854123424
+A. Ablation,Fixed encoding instead of trainable,3,55,0.44436853421271266
+A. Ablation,Fixed encoding instead of trainable,3,56,0.4484084317190682
+A. Ablation,Fixed encoding instead of trainable,3,57,0.4491467437430021
+A. Ablation,Fixed encoding instead of trainable,3,58,0.4444482717008965
+A. Ablation,Fixed encoding instead of trainable,3,59,0.4449526109323683
+A. Ablation,Fixed encoding instead of trainable,3,60,0.44561661853625967
+A. Ablation,Fixed encoding instead of trainable,3,61,0.44379163986250375
+A. Ablation,Fixed encoding instead of trainable,3,62,0.4454822688380708
+A. Ablation,Fixed encoding instead of trainable,3,63,0.4470216070944335
+A. Ablation,Fixed encoding instead of trainable,3,64,0.44828148962688913
+A. Ablation,Fixed encoding instead of trainable,3,65,0.44365304037998393
+A. Ablation,Fixed encoding instead of trainable,3,66,0.4462375446022484
+A. Ablation,Fixed encoding instead of trainable,3,67,0.4416852048209332
+A. Ablation,Fixed encoding instead of trainable,3,68,0.4448976427785336
+A. Ablation,Fixed encoding instead of trainable,3,69,0.44594443720687815
+A. Ablation,Fixed encoding instead of trainable,3,70,0.444972607918229
+A. Ablation,Fixed encoding instead of trainable,3,71,0.4433505219649497
+A. Ablation,Fixed encoding instead of trainable,3,72,0.44463451434414686
+A. Ablation,Fixed encoding instead of trainable,3,73,0.4430895580528214
+A. Ablation,Fixed encoding instead of trainable,3,74,0.44185602177495065
+A. Ablation,Fixed encoding instead of trainable,3,75,0.4456175322517184
+A. Ablation,Fixed encoding instead of trainable,3,76,0.4433300183906556
+A. Ablation,Fixed encoding instead of trainable,3,77,0.4428174898994423
+A. Ablation,Fixed-average readout instead of learned,1,1,0.5878731068177551
+A. Ablation,Fixed-average readout instead of learned,1,2,0.5709464571751127
+A. Ablation,Fixed-average readout instead of learned,1,3,0.5638278755271883
+A. Ablation,Fixed-average readout instead of learned,1,4,0.56028188553729
+A. Ablation,Fixed-average readout instead of learned,1,5,0.5574122221234002
+A. Ablation,Fixed-average readout instead of learned,1,6,0.555980875826677
+A. Ablation,Fixed-average readout instead of learned,1,7,0.5551196948261754
+A. Ablation,Fixed-average readout instead of learned,1,8,0.5538733877427126
+A. Ablation,Fixed-average readout instead of learned,1,9,0.5529260312828612
+A. Ablation,Fixed-average readout instead of learned,1,10,0.5529877989995292
+A. Ablation,Fixed-average readout instead of learned,1,11,0.5516845723821218
+A. Ablation,Fixed-average readout instead of learned,1,12,0.5517103212732312
+A. Ablation,Fixed-average readout instead of learned,1,13,0.5516265366824569
+A. Ablation,Fixed-average readout instead of learned,1,14,0.5506188829824148
+A. Ablation,Fixed-average readout instead of learned,1,15,0.5489155654994535
+A. Ablation,Fixed-average readout instead of learned,1,16,0.5486735482904754
+A. Ablation,Fixed-average readout instead of learned,1,17,0.5478361749376296
+A. Ablation,Fixed-average readout instead of learned,1,18,0.5474870080831811
+A. Ablation,Fixed-average readout instead of learned,1,19,0.5466747665069045
+A. Ablation,Fixed-average readout instead of learned,1,20,0.545644559420654
+A. Ablation,Fixed-average readout instead of learned,1,21,0.5447312906540449
+A. Ablation,Fixed-average readout instead of learned,1,22,0.5454128521394438
+A. Ablation,Fixed-average readout instead of learned,1,23,0.5440810045149478
+A. Ablation,Fixed-average readout instead of learned,1,24,0.5434294754525395
+A. Ablation,Fixed-average readout instead of learned,1,25,0.544041441066324
+A. Ablation,Fixed-average readout instead of learned,1,26,0.5443268763602921
+A. Ablation,Fixed-average readout instead of learned,1,27,0.5433061814835441
+A. Ablation,Fixed-average readout instead of learned,1,28,0.5451746376656346
+A. Ablation,Fixed-average readout instead of learned,1,29,0.5437017700347281
+A. Ablation,Fixed-average readout instead of learned,1,30,0.5443570782185165
+A. Ablation,Fixed-average readout instead of learned,1,31,0.5441065953433161
+A. Ablation,Fixed-average readout instead of learned,1,32,0.544009134007799
+A. Ablation,Fixed-average readout instead of learned,1,33,0.543904456597476
+A. Ablation,Fixed-average readout instead of learned,1,34,0.5443436520248054
+A. Ablation,Fixed-average readout instead of learned,1,35,0.5444466783156037
+A. Ablation,Fixed-average readout instead of learned,1,36,0.544092809299352
+A. Ablation,Fixed-average readout instead of learned,1,37,0.5439285677220164
+A. Ablation,Fixed-average readout instead of learned,3,1,0.5848119260661901
+A. Ablation,Fixed-average readout instead of learned,3,2,0.5679503076307008
+A. Ablation,Fixed-average readout instead of learned,3,3,0.562509236756989
+A. Ablation,Fixed-average readout instead of learned,3,4,0.5506135095750605
+A. Ablation,Fixed-average readout instead of learned,3,5,0.5460455712040979
+A. Ablation,Fixed-average readout instead of learned,3,6,0.539180198049086
+A. Ablation,Fixed-average readout instead of learned,3,7,0.5333611715941863
+A. Ablation,Fixed-average readout instead of learned,3,8,0.5330529673241919
+A. Ablation,Fixed-average readout instead of learned,3,9,0.5296562500576064
+A. Ablation,Fixed-average readout instead of learned,3,10,0.5316994138151904
+A. Ablation,Fixed-average readout instead of learned,3,11,0.530852598743241
+A. Ablation,Fixed-average readout instead of learned,3,12,0.5294056100974605
+A. Ablation,Fixed-average readout instead of learned,3,13,0.5312171948418724
+A. Ablation,Fixed-average readout instead of learned,3,14,0.5303038266081476
+A. Ablation,Fixed-average readout instead of learned,3,15,0.5254286145709557
+A. Ablation,Fixed-average readout instead of learned,3,16,0.5239210638515688
+A. Ablation,Fixed-average readout instead of learned,3,17,0.5247745736433527
+A. Ablation,Fixed-average readout instead of learned,3,18,0.5250558500777998
+A. Ablation,Fixed-average readout instead of learned,3,19,0.5217660939562851
+A. Ablation,Fixed-average readout instead of learned,3,20,0.5231860044610069
+A. Ablation,Fixed-average readout instead of learned,3,21,0.5234278343446537
+A. Ablation,Fixed-average readout instead of learned,3,22,0.5212887621406641
+A. Ablation,Fixed-average readout instead of learned,3,23,0.5233547146134718
+A. Ablation,Fixed-average readout instead of learned,3,24,0.5205392022853089
+A. Ablation,Fixed-average readout instead of learned,3,25,0.5213462536821847
+A. Ablation,Fixed-average readout instead of learned,3,26,0.5212212356839586
+A. Ablation,Fixed-average readout instead of learned,3,27,0.5219173910718339
+A. Ablation,Fixed-average readout instead of learned,3,28,0.5202884965307577
+A. Ablation,Fixed-average readout instead of learned,3,29,0.5206076240148462
+A. Ablation,Fixed-average readout instead of learned,3,30,0.5220473557602404
+A. Ablation,Fixed-average readout instead of learned,3,31,0.5210350619251557
+A. Ablation,Fixed-average readout instead of learned,3,32,0.5224190951248763
+A. Ablation,Fixed-average readout instead of learned,3,33,0.5218068947822927
+A. Ablation,Fixed-average readout instead of learned,3,34,0.5221240365053879
+A. Ablation,Fixed-average readout instead of learned,3,35,0.5213087902555432
+A. Ablation,Fixed-average readout instead of learned,3,36,0.521488175044962
+A. Ablation,Fixed-average readout instead of learned,3,37,0.520777459693465
+A. Ablation,Fixed-average readout instead of learned,3,38,0.5209673347400917
+A. Ablation,"Short training (30 epochs, patience 5)",1,1,0.5782185465042559
+A. Ablation,"Short training (30 epochs, patience 5)",1,2,0.549925376164015
+A. Ablation,"Short training (30 epochs, patience 5)",1,3,0.532246671870782
+A. Ablation,"Short training (30 epochs, patience 5)",1,4,0.5206836028776027
+A. Ablation,"Short training (30 epochs, patience 5)",1,5,0.5057434733734255
+A. Ablation,"Short training (30 epochs, patience 5)",1,6,0.49984050587876766
+A. Ablation,"Short training (30 epochs, patience 5)",1,7,0.4911731013579099
+A. Ablation,"Short training (30 epochs, patience 5)",1,8,0.48723570629414514
+A. Ablation,"Short training (30 epochs, patience 5)",1,9,0.486932363462367
+A. Ablation,"Short training (30 epochs, patience 5)",1,10,0.4835161118094254
+A. Ablation,"Short training (30 epochs, patience 5)",1,11,0.4827001212010136
+A. Ablation,"Short training (30 epochs, patience 5)",1,12,0.48415861100805546
+A. Ablation,"Short training (30 epochs, patience 5)",1,13,0.4817833287606789
+A. Ablation,"Short training (30 epochs, patience 5)",1,14,0.48500066784746027
+A. Ablation,"Short training (30 epochs, patience 5)",1,15,0.4828833375752469
+A. Ablation,"Short training (30 epochs, patience 5)",1,16,0.4824570906829077
+A. Ablation,"Short training (30 epochs, patience 5)",1,17,0.4861579491591368
+A. Ablation,"Short training (30 epochs, patience 5)",1,18,0.48325660438024587
+A. Ablation,Fixed-average readout instead of learned,0,1,0.5884242211745608
+A. Ablation,Fixed-average readout instead of learned,0,2,0.5682003504509454
+A. Ablation,Fixed-average readout instead of learned,0,3,0.5552411839053086
+A. Ablation,Fixed-average readout instead of learned,0,4,0.5457519691238638
+A. Ablation,Fixed-average readout instead of learned,0,5,0.5371849329798439
+A. Ablation,Fixed-average readout instead of learned,0,6,0.5312467165767857
+A. Ablation,Fixed-average readout instead of learned,0,7,0.5261092891127609
+A. Ablation,Fixed-average readout instead of learned,0,8,0.5238805965460235
+A. Ablation,Fixed-average readout instead of learned,0,9,0.5209709906182904
+A. Ablation,Fixed-average readout instead of learned,0,10,0.5191850214370032
+A. Ablation,Fixed-average readout instead of learned,0,11,0.5180010389364732
+A. Ablation,Fixed-average readout instead of learned,0,12,0.5169833646617564
+A. Ablation,Fixed-average readout instead of learned,0,13,0.5187239247500449
+A. Ablation,Fixed-average readout instead of learned,0,14,0.5145980559024311
+A. Ablation,Fixed-average readout instead of learned,0,15,0.5154451577358201
+A. Ablation,Fixed-average readout instead of learned,0,16,0.5128827726164777
+A. Ablation,Fixed-average readout instead of learned,0,17,0.5135650598062576
+A. Ablation,Fixed-average readout instead of learned,0,18,0.5126813429928178
+A. Ablation,Fixed-average readout instead of learned,0,19,0.5123560703232604
+A. Ablation,Fixed-average readout instead of learned,0,20,0.5118233203682578
+A. Ablation,Fixed-average readout instead of learned,0,21,0.5112714528841227
+A. Ablation,Fixed-average readout instead of learned,0,22,0.5114233673395212
+A. Ablation,Fixed-average readout instead of learned,0,23,0.5122820016771865
+A. Ablation,Fixed-average readout instead of learned,0,24,0.5096979649019544
+A. Ablation,Fixed-average readout instead of learned,0,25,0.511276853570572
+A. Ablation,Fixed-average readout instead of learned,0,26,0.5096582253550481
+A. Ablation,Fixed-average readout instead of learned,0,27,0.5103409159989282
+A. Ablation,Fixed-average readout instead of learned,0,28,0.509202049727461
+A. Ablation,Fixed-average readout instead of learned,0,29,0.5086968777652948
+A. Ablation,Fixed-average readout instead of learned,0,30,0.5090863840413599
+A. Ablation,Fixed-average readout instead of learned,0,31,0.5082668472850421
+A. Ablation,Fixed-average readout instead of learned,0,32,0.5079567453479172
+A. Ablation,Fixed-average readout instead of learned,0,33,0.5095267286549261
+A. Ablation,Fixed-average readout instead of learned,0,34,0.5079343469431635
+A. Ablation,Fixed-average readout instead of learned,0,35,0.5074885599134726
+A. Ablation,Fixed-average readout instead of learned,0,36,0.5086354197981453
+A. Ablation,Fixed-average readout instead of learned,0,37,0.5071371867890033
+A. Ablation,Fixed-average readout instead of learned,0,38,0.5084573649598676
+A. Ablation,Fixed-average readout instead of learned,0,39,0.507048643577103
+A. Ablation,Fixed-average readout instead of learned,0,40,0.5070807867979139
+A. Ablation,Fixed-average readout instead of learned,0,41,0.5076481463321557
+A. Ablation,Fixed-average readout instead of learned,0,42,0.5064035866864508
+A. Ablation,Fixed-average readout instead of learned,0,43,0.5065879794700616
+A. Ablation,Fixed-average readout instead of learned,0,44,0.5076336845451737
+A. Ablation,Fixed-average readout instead of learned,0,45,0.5066732335832305
+A. Ablation,Fixed-average readout instead of learned,0,46,0.5064138558318162
+A. Ablation,Fixed-average readout instead of learned,0,47,0.5062061102558588
+A. Ablation,Fixed-average readout instead of learned,0,48,0.5055930090669774
+A. Ablation,Fixed-average readout instead of learned,0,49,0.5056826386063865
+A. Ablation,Fixed-average readout instead of learned,0,50,0.5069864730479955
+A. Ablation,Fixed-average readout instead of learned,0,51,0.5057927785229344
+A. Ablation,Fixed-average readout instead of learned,0,52,0.5054997733191885
+A. Ablation,Fixed-average readout instead of learned,0,53,0.5066735156875944
+A. Ablation,Fixed-average readout instead of learned,0,54,0.5058428154806848
+A. Ablation,Fixed-average readout instead of learned,0,55,0.5044901214999904
+A. Ablation,Fixed-average readout instead of learned,0,56,0.5054468912683443
+A. Ablation,Fixed-average readout instead of learned,0,57,0.504525020938373
+A. Ablation,Fixed-average readout instead of learned,0,58,0.5032630182304297
+A. Ablation,Fixed-average readout instead of learned,0,59,0.5041489902817818
+A. Ablation,Fixed-average readout instead of learned,0,60,0.5047012641888914
+A. Ablation,Fixed-average readout instead of learned,0,61,0.5045053219143925
+A. Ablation,Fixed-average readout instead of learned,0,62,0.5044250106631541
+A. Ablation,Fixed-average readout instead of learned,0,63,0.503728993331692
+A. Ablation,Fixed-average readout instead of learned,0,64,0.5037044433461108
+A. Ablation,Fixed-average readout instead of learned,0,65,0.5042156195235314
+A. Ablation,Fixed-average readout instead of learned,0,66,0.5025567568391969
+A. Ablation,Fixed-average readout instead of learned,0,67,0.5031718443231666
+A. Ablation,Fixed-average readout instead of learned,0,68,0.5027910568654859
+A. Ablation,Fixed-average readout instead of learned,0,69,0.5023944412301243
+A. Ablation,Fixed-average readout instead of learned,0,70,0.5024562197500869
+A. Ablation,Fixed-average readout instead of learned,0,71,0.5017759136575949
+A. Ablation,Fixed-average readout instead of learned,0,72,0.5020028442977549
+A. Ablation,Fixed-average readout instead of learned,0,73,0.5019440979417801
+A. Ablation,Fixed-average readout instead of learned,0,74,0.5017877873925518
+A. Ablation,Fixed-average readout instead of learned,0,75,0.5010942615187844
+A. Ablation,Fixed-average readout instead of learned,0,76,0.5013598949194712
+A. Ablation,Fixed-average readout instead of learned,0,77,0.5011983948475207
+A. Ablation,Fixed-average readout instead of learned,0,78,0.5012702432265314
+A. Ablation,Fixed-average readout instead of learned,0,79,0.5001539183359412
+A. Ablation,Fixed-average readout instead of learned,0,80,0.5008014120729046
+A. Ablation,Fixed-average readout instead of learned,0,81,0.4995627889546919
+A. Ablation,Fixed-average readout instead of learned,0,82,0.4993189048699788
+A. Ablation,Fixed-average readout instead of learned,0,83,0.4994140772175917
+A. Ablation,Fixed-average readout instead of learned,0,84,0.4996654078316024
+A. Ablation,Fixed-average readout instead of learned,0,85,0.49916980104020686
+A. Ablation,Fixed-average readout instead of learned,0,86,0.4980909100590285
+A. Ablation,Fixed-average readout instead of learned,0,87,0.49815097911591344
+A. Ablation,Fixed-average readout instead of learned,0,88,0.49848469123541983
+A. Ablation,Fixed-average readout instead of learned,0,89,0.4974331075518983
+A. Ablation,Fixed-average readout instead of learned,0,90,0.4970302967935943
+A. Ablation,Fixed-average readout instead of learned,0,91,0.4972642143190332
+A. Ablation,Fixed-average readout instead of learned,0,92,0.4964984410166335
+A. Ablation,Fixed-average readout instead of learned,0,93,0.497626793392737
+A. Ablation,Fixed-average readout instead of learned,0,94,0.4968444276533121
+A. Ablation,Fixed-average readout instead of learned,0,95,0.4954899867834893
+A. Ablation,Fixed-average readout instead of learned,0,96,0.4948564995605848
+A. Ablation,Fixed-average readout instead of learned,0,97,0.49555725581266113
+A. Ablation,Fixed-average readout instead of learned,0,98,0.49522124576136806
+A. Ablation,Fixed-average readout instead of learned,0,99,0.4947647345337232
+A. Ablation,Fixed-average readout instead of learned,0,100,0.4951937661089229
+A. Ablation,"Short training (30 epochs, patience 5)",0,1,0.5761698677525651
+A. Ablation,"Short training (30 epochs, patience 5)",0,2,0.5413141438321523
+A. Ablation,"Short training (30 epochs, patience 5)",0,3,0.5129999272345145
+A. Ablation,"Short training (30 epochs, patience 5)",0,4,0.48521563667067624
+A. Ablation,"Short training (30 epochs, patience 5)",0,5,0.4645823888786875
+A. Ablation,"Short training (30 epochs, patience 5)",0,6,0.4385789917944119
+A. Ablation,"Short training (30 epochs, patience 5)",0,7,0.4247396362013417
+A. Ablation,"Short training (30 epochs, patience 5)",0,8,0.41741744185470225
+A. Ablation,"Short training (30 epochs, patience 5)",0,9,0.4078496391703426
+A. Ablation,"Short training (30 epochs, patience 5)",0,10,0.40561584878326695
+A. Ablation,"Short training (30 epochs, patience 5)",0,11,0.3986977394856466
+A. Ablation,"Short training (30 epochs, patience 5)",0,12,0.39628697515740846
+A. Ablation,"Short training (30 epochs, patience 5)",0,13,0.40584207285000706
+A. Ablation,"Short training (30 epochs, patience 5)",0,14,0.39219415191952567
+A. Ablation,"Short training (30 epochs, patience 5)",0,15,0.3999213645567337
+A. Ablation,"Short training (30 epochs, patience 5)",0,16,0.38907447300651654
+A. Ablation,"Short training (30 epochs, patience 5)",0,17,0.3928922624219281
+A. Ablation,"Short training (30 epochs, patience 5)",0,18,0.3903648467471299
+A. Ablation,"Short training (30 epochs, patience 5)",0,19,0.38957473514921187
+A. Ablation,"Short training (30 epochs, patience 5)",0,20,0.38890950603848273
+A. Ablation,"Short training (30 epochs, patience 5)",0,21,0.39025039595374517
+A. Ablation,"Short training (30 epochs, patience 5)",0,22,0.3890619367376344
+A. Ablation,"Short training (30 epochs, patience 5)",0,23,0.39070159538853333
+A. Ablation,"Short training (30 epochs, patience 5)",0,24,0.38777821857126
+A. Ablation,"Short training (30 epochs, patience 5)",0,25,0.39674296001761733
+A. Ablation,"Short training (30 epochs, patience 5)",0,26,0.38762694754527827
+A. Ablation,"Short training (30 epochs, patience 5)",0,27,0.3882030576512918
+A. Ablation,"Short training (30 epochs, patience 5)",0,28,0.38742246867829977
+A. Ablation,"Short training (30 epochs, patience 5)",0,29,0.3873933800465319
+A. Ablation,"Short training (30 epochs, patience 5)",0,30,0.38785890602759815
+A. Ablation,"Short training (30 epochs, patience 5)",2,1,0.576750931524327
+A. Ablation,"Short training (30 epochs, patience 5)",2,2,0.5492647615333901
+A. Ablation,"Short training (30 epochs, patience 5)",2,3,0.5315207582097057
+A. Ablation,"Short training (30 epochs, patience 5)",2,4,0.5198150336161167
+A. Ablation,"Short training (30 epochs, patience 5)",2,5,0.5062676666208664
+A. Ablation,"Short training (30 epochs, patience 5)",2,6,0.49995480404369474
+A. Ablation,"Short training (30 epochs, patience 5)",2,7,0.49129542506574664
+A. Ablation,"Short training (30 epochs, patience 5)",2,8,0.4822503031069005
+A. Ablation,"Short training (30 epochs, patience 5)",2,9,0.4887272535972567
+A. Ablation,"Short training (30 epochs, patience 5)",2,10,0.477037210966873
+A. Ablation,"Short training (30 epochs, patience 5)",2,11,0.48304218018797923
+A. Ablation,"Short training (30 epochs, patience 5)",2,12,0.48140549212510875
+A. Ablation,"Short training (30 epochs, patience 5)",2,13,0.4754219077972065
+A. Ablation,"Short training (30 epochs, patience 5)",2,14,0.48709829530513876
+A. Ablation,"Short training (30 epochs, patience 5)",2,15,0.476626199765001
+A. Ablation,"Short training (30 epochs, patience 5)",2,16,0.48284623211143946
+A. Ablation,"Short training (30 epochs, patience 5)",2,17,0.4841436037479097
+A. Ablation,"Short training (30 epochs, patience 5)",2,18,0.4775021406576242
+A. Ablation,Fixed-average readout instead of learned,2,1,0.5906088421274225
+A. Ablation,Fixed-average readout instead of learned,2,2,0.5753949925811647
+A. Ablation,Fixed-average readout instead of learned,2,3,0.5689148581691539
+A. Ablation,Fixed-average readout instead of learned,2,4,0.5664833228278862
+A. Ablation,Fixed-average readout instead of learned,2,5,0.5643101863991941
+A. Ablation,Fixed-average readout instead of learned,2,6,0.563354375344712
+A. Ablation,Fixed-average readout instead of learned,2,7,0.5621048584365334
+A. Ablation,Fixed-average readout instead of learned,2,8,0.5589916399338762
+A. Ablation,Fixed-average readout instead of learned,2,9,0.5603705188850536
+A. Ablation,Fixed-average readout instead of learned,2,10,0.5583252552759546
+A. Ablation,Fixed-average readout instead of learned,2,11,0.5573060547332488
+A. Ablation,Fixed-average readout instead of learned,2,12,0.5568208838747221
+A. Ablation,Fixed-average readout instead of learned,2,13,0.5556610176769967
+A. Ablation,Fixed-average readout instead of learned,2,14,0.555564032173805
+A. Ablation,Fixed-average readout instead of learned,2,15,0.5548573096431019
+A. Ablation,Fixed-average readout instead of learned,2,16,0.5555546648407913
+A. Ablation,Fixed-average readout instead of learned,2,17,0.5535927504550938
+A. Ablation,Fixed-average readout instead of learned,2,18,0.5529636319269722
+A. Ablation,Fixed-average readout instead of learned,2,19,0.5526902164619603
+A. Ablation,Fixed-average readout instead of learned,2,20,0.5511107951710528
+A. Ablation,Fixed-average readout instead of learned,2,21,0.5516809151194049
+A. Ablation,Fixed-average readout instead of learned,2,22,0.5503353117926408
+A. Ablation,Fixed-average readout instead of learned,2,23,0.5490281253277797
+A. Ablation,Fixed-average readout instead of learned,2,24,0.5515668532621435
+A. Ablation,Fixed-average readout instead of learned,2,25,0.547722120493274
+A. Ablation,Fixed-average readout instead of learned,2,26,0.550640341931616
+A. Ablation,Fixed-average readout instead of learned,2,27,0.5467870513732281
+A. Ablation,Fixed-average readout instead of learned,2,28,0.5513117339846861
+A. Ablation,Fixed-average readout instead of learned,2,29,0.5471443248441578
+A. Ablation,Fixed-average readout instead of learned,2,30,0.5472432014387564
+A. Ablation,Fixed-average readout instead of learned,2,31,0.546810454323909
+A. Ablation,Fixed-average readout instead of learned,2,32,0.5488022053902457
+A. Ablation,Fixed-average readout instead of learned,2,33,0.5452018050850012
+A. Ablation,Fixed-average readout instead of learned,2,34,0.5465833260025265
+A. Ablation,Fixed-average readout instead of learned,2,35,0.5447835969840719
+A. Ablation,Fixed-average readout instead of learned,2,36,0.5442430388607605
+A. Ablation,Fixed-average readout instead of learned,2,37,0.5458893734666481
+A. Ablation,Fixed-average readout instead of learned,2,38,0.5440657729927697
+A. Ablation,Fixed-average readout instead of learned,2,39,0.5441861695447935
+A. Ablation,Fixed-average readout instead of learned,2,40,0.5439440257999596
+A. Ablation,Fixed-average readout instead of learned,2,41,0.5432393319177196
+A. Ablation,Fixed-average readout instead of learned,2,42,0.5421518934032074
+A. Ablation,Fixed-average readout instead of learned,2,43,0.5442122882500131
+A. Ablation,Fixed-average readout instead of learned,2,44,0.5408683794576192
+A. Ablation,Fixed-average readout instead of learned,2,45,0.5419712766674929
+A. Ablation,Fixed-average readout instead of learned,2,46,0.540149064619526
+A. Ablation,Fixed-average readout instead of learned,2,47,0.5411721161239585
+A. Ablation,Fixed-average readout instead of learned,2,48,0.540263028461754
+A. Ablation,Fixed-average readout instead of learned,2,49,0.5394436792978413
+A. Ablation,Fixed-average readout instead of learned,2,50,0.5368901429575947
+A. Ablation,Fixed-average readout instead of learned,2,51,0.5373647373357298
+A. Ablation,Fixed-average readout instead of learned,2,52,0.5344886069807906
+A. Ablation,Fixed-average readout instead of learned,2,53,0.5341408123540848
+A. Ablation,Fixed-average readout instead of learned,2,54,0.5349728076285313
+A. Ablation,Fixed-average readout instead of learned,2,55,0.5323021152118461
+A. Ablation,Fixed-average readout instead of learned,2,56,0.5319389113660955
+A. Ablation,Fixed-average readout instead of learned,2,57,0.5322928465150537
+A. Ablation,Fixed-average readout instead of learned,2,58,0.5319663408167179
+A. Ablation,Fixed-average readout instead of learned,2,59,0.5320923625108643
+A. Ablation,Fixed-average readout instead of learned,2,60,0.5327840618442925
+A. Ablation,Fixed-average readout instead of learned,2,61,0.5305282141743702
+A. Ablation,Fixed-average readout instead of learned,2,62,0.5322672118036331
+A. Ablation,Fixed-average readout instead of learned,2,63,0.5313131969562834
+A. Ablation,Fixed-average readout instead of learned,2,64,0.5307405362907603
+A. Ablation,Fixed-average readout instead of learned,2,65,0.5322330620839791
+A. Ablation,Fixed-average readout instead of learned,2,66,0.5303985884454717
+A. Ablation,Fixed-average readout instead of learned,2,67,0.5314591938021673
+A. Ablation,Fixed-average readout instead of learned,2,68,0.5304568669877594
+A. Ablation,Fixed-average readout instead of learned,2,69,0.5317073191204126
+A. Ablation,Fixed-average readout instead of learned,2,70,0.5315557974843974
+A. Ablation,Fixed-average readout instead of learned,2,71,0.5309347444430895
+A. Ablation,Fixed-average readout instead of learned,2,72,0.5310207460924151
+A. Ablation,Fixed-average readout instead of learned,2,73,0.5303078336488856
+A. Ablation,Fixed-average readout instead of learned,2,74,0.5316386972220919
+A. Ablation,Fixed-average readout instead of learned,2,75,0.5327108189357584
+A. Ablation,Fixed-average readout instead of learned,2,76,0.5291057735119848
+A. Ablation,Fixed-average readout instead of learned,2,77,0.5315845191273613
+A. Ablation,Fixed-average readout instead of learned,2,78,0.5326041076309501
+A. Ablation,Fixed-average readout instead of learned,2,79,0.530027049339129
+A. Ablation,Fixed-average readout instead of learned,2,80,0.5302645024594176
+A. Ablation,Fixed-average readout instead of learned,2,81,0.5311043065593672
+A. Ablation,Fixed-average readout instead of learned,2,82,0.5306594957906289
+A. Ablation,Fixed-average readout instead of learned,2,83,0.5315219054309402
+A. Ablation,Fixed-average readout instead of learned,2,84,0.5306983235804351
+A. Ablation,Fixed-average readout instead of learned,2,85,0.5319129843137894
+A. Ablation,Fixed-average readout instead of learned,2,86,0.5302348013680753
+A. Ablation,"Short training (30 epochs, patience 5)",3,1,0.5729853497144501
+A. Ablation,"Short training (30 epochs, patience 5)",3,2,0.5409288583426654
+A. Ablation,"Short training (30 epochs, patience 5)",3,3,0.5248090393111071
+A. Ablation,"Short training (30 epochs, patience 5)",3,4,0.502548998366961
+A. Ablation,"Short training (30 epochs, patience 5)",3,5,0.49337258036433046
+A. Ablation,"Short training (30 epochs, patience 5)",3,6,0.4787561229828004
+A. Ablation,"Short training (30 epochs, patience 5)",3,7,0.4689358446514859
+A. Ablation,"Short training (30 epochs, patience 5)",3,8,0.4627778004487734
+A. Ablation,"Short training (30 epochs, patience 5)",3,9,0.45843586025606253
+A. Ablation,"Short training (30 epochs, patience 5)",3,10,0.45685294295322015
+A. Ablation,"Short training (30 epochs, patience 5)",3,11,0.45090022612826575
+A. Ablation,"Short training (30 epochs, patience 5)",3,12,0.45034063415495856
+A. Ablation,"Short training (30 epochs, patience 5)",3,13,0.4560862974140985
+A. Ablation,"Short training (30 epochs, patience 5)",3,14,0.4459055520676747
+A. Ablation,"Short training (30 epochs, patience 5)",3,15,0.4494649558352953
+A. Ablation,"Short training (30 epochs, patience 5)",3,16,0.4424636465845389
+A. Ablation,"Short training (30 epochs, patience 5)",3,17,0.4429777417641697
+A. Ablation,"Short training (30 epochs, patience 5)",3,18,0.4464295993048626
+A. Ablation,"Short training (30 epochs, patience 5)",3,19,0.43955429533396917
+A. Ablation,"Short training (30 epochs, patience 5)",3,20,0.44278221330253204
+A. Ablation,"Short training (30 epochs, patience 5)",3,21,0.43951572264385136
+A. Ablation,"Short training (30 epochs, patience 5)",3,22,0.43982616865862734
+A. Ablation,"Short training (30 epochs, patience 5)",3,23,0.4446899242343777
+A. Ablation,"Short training (30 epochs, patience 5)",3,24,0.4380372894379921
+A. Ablation,"Short training (30 epochs, patience 5)",3,25,0.44165120680783976
+A. Ablation,"Short training (30 epochs, patience 5)",3,26,0.43828849860270347
+A. Ablation,"Short training (30 epochs, patience 5)",3,27,0.4390065591078862
+A. Ablation,"Short training (30 epochs, patience 5)",3,28,0.43888857496456285
+A. Ablation,"Short training (30 epochs, patience 5)",3,29,0.4390418937068337
+A. Ablation,"Short training (30 epochs, patience 5)",4,1,0.6456370866431046
+A. Ablation,"Short training (30 epochs, patience 5)",4,2,0.6291449767413716
+A. Ablation,"Short training (30 epochs, patience 5)",4,3,0.6075080780861842
+A. Ablation,"Short training (30 epochs, patience 5)",4,4,0.5841730944625042
+A. Ablation,"Short training (30 epochs, patience 5)",4,5,0.5654114345904838
+A. Ablation,"Short training (30 epochs, patience 5)",4,6,0.5448732100789149
+A. Ablation,"Short training (30 epochs, patience 5)",4,7,0.5326053474508228
+A. Ablation,"Short training (30 epochs, patience 5)",4,8,0.5266213317060948
+A. Ablation,"Short training (30 epochs, patience 5)",4,9,0.5161824152322816
+A. Ablation,"Short training (30 epochs, patience 5)",4,10,0.5133944568912798
+A. Ablation,"Short training (30 epochs, patience 5)",4,11,0.5087533714504138
+A. Ablation,"Short training (30 epochs, patience 5)",4,12,0.5065557618716525
+A. Ablation,"Short training (30 epochs, patience 5)",4,13,0.5184905274820519
+A. Ablation,"Short training (30 epochs, patience 5)",4,14,0.5052331804403907
+A. Ablation,"Short training (30 epochs, patience 5)",4,15,0.5034091660181244
+A. Ablation,"Short training (30 epochs, patience 5)",4,16,0.5019872139157991
+A. Ablation,"Short training (30 epochs, patience 5)",4,17,0.5036625533921293
+A. Ablation,"Short training (30 epochs, patience 5)",4,18,0.5061654223004542
+A. Ablation,"Short training (30 epochs, patience 5)",4,19,0.5002138739752753
+A. Ablation,"Short training (30 epochs, patience 5)",4,20,0.5045283405451375
+A. Ablation,"Short training (30 epochs, patience 5)",4,21,0.5009034842921761
+A. Ablation,"Short training (30 epochs, patience 5)",4,22,0.5021368340569292
+A. Ablation,"Short training (30 epochs, patience 5)",4,23,0.5045373406486379
+A. Ablation,"Short training (30 epochs, patience 5)",4,24,0.498561898797606
+A. Ablation,"Short training (30 epochs, patience 5)",4,25,0.5065301462205051
+A. Ablation,"Short training (30 epochs, patience 5)",4,26,0.5002086871374163
+A. Ablation,"Short training (30 epochs, patience 5)",4,27,0.5070639482957059
+A. Ablation,"Short training (30 epochs, patience 5)",4,28,0.5002726050928779
+A. Ablation,"Short training (30 epochs, patience 5)",4,29,0.5010191253546414
+A. Ablation,Fixed-average readout instead of learned,4,1,0.6492226950652411
+A. Ablation,Fixed-average readout instead of learned,4,2,0.6450739979077136
+A. Ablation,Fixed-average readout instead of learned,4,3,0.6399447429500242
+A. Ablation,Fixed-average readout instead of learned,4,4,0.6348861697749729
+A. Ablation,Fixed-average readout instead of learned,4,5,0.6282884206354304
+A. Ablation,Fixed-average readout instead of learned,4,6,0.6221895979103778
+A. Ablation,Fixed-average readout instead of learned,4,7,0.6157609700921765
+A. Ablation,Fixed-average readout instead of learned,4,8,0.6109358777991057
+A. Ablation,Fixed-average readout instead of learned,4,9,0.6066134097665243
+A. Ablation,Fixed-average readout instead of learned,4,10,0.6029962880999447
+A. Ablation,Fixed-average readout instead of learned,4,11,0.6011955671518033
+A. Ablation,Fixed-average readout instead of learned,4,12,0.598494013279529
+A. Ablation,Fixed-average readout instead of learned,4,13,0.5974552856322994
+A. Ablation,Fixed-average readout instead of learned,4,14,0.595312271109577
+A. Ablation,Fixed-average readout instead of learned,4,15,0.5934023321168838
+A. Ablation,Fixed-average readout instead of learned,4,16,0.5914606220242693
+A. Ablation,Fixed-average readout instead of learned,4,17,0.5905579143024219
+A. Ablation,Fixed-average readout instead of learned,4,18,0.5885284205192252
+A. Ablation,Fixed-average readout instead of learned,4,19,0.5880341824465736
+A. Ablation,Fixed-average readout instead of learned,4,20,0.5869909598957344
+A. Ablation,Fixed-average readout instead of learned,4,21,0.5851404850046071
+A. Ablation,Fixed-average readout instead of learned,4,22,0.5844078349337508
+A. Ablation,Fixed-average readout instead of learned,4,23,0.5846536132417135
+A. Ablation,Fixed-average readout instead of learned,4,24,0.5826531665837835
+A. Ablation,Fixed-average readout instead of learned,4,25,0.5823719728477911
+A. Ablation,Fixed-average readout instead of learned,4,26,0.5827487669076608
+A. Ablation,Fixed-average readout instead of learned,4,27,0.5824730834389804
+A. Ablation,Fixed-average readout instead of learned,4,28,0.5814859934572789
+A. Ablation,Fixed-average readout instead of learned,4,29,0.5804553071157453
+A. Ablation,Fixed-average readout instead of learned,4,30,0.5802532291716801
+A. Ablation,Fixed-average readout instead of learned,4,31,0.5793821675886591
+A. Ablation,Fixed-average readout instead of learned,4,32,0.5799629075504662
+A. Ablation,Fixed-average readout instead of learned,4,33,0.5791323003068866
+A. Ablation,Fixed-average readout instead of learned,4,34,0.5785132940528136
+A. Ablation,Fixed-average readout instead of learned,4,35,0.5778915535407851
+A. Ablation,Fixed-average readout instead of learned,4,36,0.577610736229444
+A. Ablation,Fixed-average readout instead of learned,4,37,0.5773802681310227
+A. Ablation,Fixed-average readout instead of learned,4,38,0.5771714671921738
+A. Ablation,Fixed-average readout instead of learned,4,39,0.5775774129009016
+A. Ablation,Fixed-average readout instead of learned,4,40,0.5768296789510219
+A. Ablation,Fixed-average readout instead of learned,4,41,0.5759305334864572
+A. Ablation,Fixed-average readout instead of learned,4,42,0.5758741561119225
+A. Ablation,Fixed-average readout instead of learned,4,43,0.5754370427896509
+A. Ablation,Fixed-average readout instead of learned,4,44,0.5760844860840024
+A. Ablation,Fixed-average readout instead of learned,4,45,0.5760334290379656
+A. Ablation,Fixed-average readout instead of learned,4,46,0.5750434274583333
+A. Ablation,Fixed-average readout instead of learned,4,47,0.5750590282379316
+A. Ablation,Fixed-average readout instead of learned,4,48,0.5748153016924356
+A. Ablation,Fixed-average readout instead of learned,4,49,0.5740213817359618
+A. Ablation,Fixed-average readout instead of learned,4,50,0.5733769183212619
+A. Ablation,Fixed-average readout instead of learned,4,51,0.5729515765277181
+A. Ablation,Fixed-average readout instead of learned,4,52,0.5734889345002353
+A. Ablation,Fixed-average readout instead of learned,4,53,0.5725306040064708
+A. Ablation,Fixed-average readout instead of learned,4,54,0.572385654940579
+A. Ablation,Fixed-average readout instead of learned,4,55,0.5718885711355847
+A. Ablation,Fixed-average readout instead of learned,4,56,0.5707363196889181
+A. Ablation,Fixed-average readout instead of learned,4,57,0.5707422924526102
+A. Ablation,Fixed-average readout instead of learned,4,58,0.5706588227598199
+A. Ablation,Fixed-average readout instead of learned,4,59,0.5692690418836598
+A. Ablation,Fixed-average readout instead of learned,4,60,0.569045651765551
+A. Ablation,Fixed-average readout instead of learned,4,61,0.5690430497577389
+A. Ablation,Fixed-average readout instead of learned,4,62,0.5672293609536878
+A. Ablation,Fixed-average readout instead of learned,4,63,0.5663644678974763
+A. Ablation,Fixed-average readout instead of learned,4,64,0.5666725087420988
+A. Ablation,Fixed-average readout instead of learned,4,65,0.5657633780503412
+A. Ablation,Fixed-average readout instead of learned,4,66,0.5658506541139413
+A. Ablation,Fixed-average readout instead of learned,4,67,0.5640842381421454
+A. Ablation,Fixed-average readout instead of learned,4,68,0.5635823530633508
+A. Ablation,Fixed-average readout instead of learned,4,69,0.5619479593276038
+A. Ablation,Fixed-average readout instead of learned,4,70,0.5628131344584805
+A. Ablation,Fixed-average readout instead of learned,4,71,0.5618547024325755
+A. Ablation,Fixed-average readout instead of learned,4,72,0.5604616035682353
+A. Ablation,Fixed-average readout instead of learned,4,73,0.5601406545372898
+A. Ablation,Fixed-average readout instead of learned,4,74,0.5602575469629187
+A. Ablation,Fixed-average readout instead of learned,4,75,0.5589470832286839
+A. Ablation,Fixed-average readout instead of learned,4,76,0.5591450816582135
+A. Ablation,Fixed-average readout instead of learned,4,77,0.5596163253149191
+A. Ablation,Fixed-average readout instead of learned,4,78,0.5579071796325725
+A. Ablation,Fixed-average readout instead of learned,4,79,0.5580903780690843
+A. Ablation,Fixed-average readout instead of learned,4,80,0.558134431280727
+A. Ablation,Fixed-average readout instead of learned,4,81,0.5578175047512451
+A. Ablation,Fixed-average readout instead of learned,4,82,0.5569160294978879
+A. Ablation,Fixed-average readout instead of learned,4,83,0.558215156160325
+A. Ablation,Fixed-average readout instead of learned,4,84,0.5583967624738732
+A. Ablation,Fixed-average readout instead of learned,4,85,0.5577275643978358
+A. Ablation,Fixed-average readout instead of learned,4,86,0.5579883616043662
+A. Ablation,Fixed-average readout instead of learned,4,87,0.5575205830936356
+A. Ablation,Fixed-average readout instead of learned,4,88,0.5585600991848849
+A. Ablation,Fixed-average readout instead of learned,4,89,0.5579802559606871
+A. Ablation,Fixed-average readout instead of learned,4,90,0.5589952077383642
+A. Ablation,Fixed-average readout instead of learned,4,91,0.5581514861806988
+A. Ablation,Fixed-average readout instead of learned,4,92,0.5579866405320727
+B. Learning rate,0.005,2,1,0.6026450099399338
+B. Learning rate,0.005,2,2,0.5783399293253795
+B. Learning rate,0.005,2,3,0.5614576036490715
+B. Learning rate,0.005,2,4,0.5483562672052177
+B. Learning rate,0.005,2,5,0.5384593803264637
+B. Learning rate,0.005,2,6,0.5296577232531358
+B. Learning rate,0.005,2,7,0.5228122257082004
+B. Learning rate,0.005,2,8,0.515111596772855
+B. Learning rate,0.005,2,9,0.5095496105449328
+B. Learning rate,0.005,2,10,0.5058449086737299
+B. Learning rate,0.005,2,11,0.49830085563662024
+B. Learning rate,0.005,2,12,0.49485623023092146
+B. Learning rate,0.005,2,13,0.49153579923051344
+B. Learning rate,0.005,2,14,0.4869858561428548
+B. Learning rate,0.005,2,15,0.485696095756897
+B. Learning rate,0.005,2,16,0.48452785488290256
+B. Learning rate,0.005,2,17,0.4819272201037822
+B. Learning rate,0.005,2,18,0.4820644890605609
+B. Learning rate,0.005,2,19,0.4806292799539233
+B. Learning rate,0.005,2,20,0.4800020414468979
+B. Learning rate,0.005,2,21,0.48014883779741874
+B. Learning rate,0.005,2,22,0.48070236900774416
+B. Learning rate,0.005,2,23,0.4771153579130454
+B. Learning rate,0.005,2,24,0.48204028281876954
+B. Learning rate,0.005,2,25,0.48040126682519796
+B. Learning rate,0.005,2,26,0.48044109712461724
+B. Learning rate,0.005,2,27,0.4768757065882561
+B. Learning rate,0.005,2,28,0.4837332673777545
+B. Learning rate,0.005,2,29,0.4801175775325829
+B. Learning rate,0.005,2,30,0.4793312076680976
+B. Learning rate,0.005,2,31,0.4791223819447408
+B. Learning rate,0.005,2,32,0.4846765893843404
+B. Learning rate,0.005,2,33,0.47801331667581637
+B. Learning rate,0.005,2,34,0.4829476334767117
+B. Learning rate,0.005,2,35,0.47965385504159885
+B. Learning rate,0.005,2,36,0.47930466739212535
+B. Learning rate,0.005,2,37,0.4829003370622993
+B. Learning rate,0.005,1,1,0.5975955391934017
+B. Learning rate,0.005,1,2,0.5765287465671617
+B. Learning rate,0.005,1,3,0.560951678335632
+B. Learning rate,0.005,1,4,0.5512659435849686
+B. Learning rate,0.005,1,5,0.5414421691092517
+B. Learning rate,0.005,1,6,0.5337283523628198
+B. Learning rate,0.005,1,7,0.5258682959400363
+B. Learning rate,0.005,1,8,0.5190374507192737
+B. Learning rate,0.005,1,9,0.5120569831547814
+B. Learning rate,0.005,1,10,0.5080602278908318
+B. Learning rate,0.005,1,11,0.5016190418171032
+B. Learning rate,0.005,1,12,0.497332671208514
+B. Learning rate,0.005,1,13,0.493945971770833
+B. Learning rate,0.005,1,14,0.4911422875994798
+B. Learning rate,0.005,1,15,0.48875253059676277
+B. Learning rate,0.005,1,16,0.48923737928813577
+B. Learning rate,0.005,1,17,0.48590905421320413
+B. Learning rate,0.005,1,18,0.48630481246228413
+B. Learning rate,0.005,1,19,0.48709517401118785
+B. Learning rate,0.005,1,20,0.486109475713276
+B. Learning rate,0.005,1,21,0.48432349220239107
+B. Learning rate,0.005,1,22,0.4865939846542329
+B. Learning rate,0.005,1,23,0.4833094118246417
+B. Learning rate,0.005,1,24,0.4844855292049382
+B. Learning rate,0.005,1,25,0.48335710438735047
+B. Learning rate,0.005,1,26,0.4866163527590585
+B. Learning rate,0.005,1,27,0.48332252962280575
+B. Learning rate,0.005,1,28,0.48503730097223513
+B. Learning rate,0.005,1,29,0.4846396363602343
+B. Learning rate,0.005,1,30,0.48604946803563903
+B. Learning rate,0.005,1,31,0.4830347258776854
+B. Learning rate,0.005,1,32,0.485334730796566
+B. Learning rate,0.005,1,33,0.4832202449788455
+B. Learning rate,0.005,1,34,0.4831907639217816
+B. Learning rate,0.005,1,35,0.48406430791932853
+B. Learning rate,0.005,1,36,0.4852387976224524
+B. Learning rate,0.005,1,37,0.48351900800833736
+B. Learning rate,0.005,1,38,0.4835422453553528
+B. Learning rate,0.005,1,39,0.4828551168120433
+B. Learning rate,0.005,1,40,0.48402725321470874
+B. Learning rate,0.005,1,41,0.48264262197725194
+B. Learning rate,0.005,1,42,0.48315152331670846
+B. Learning rate,0.005,1,43,0.48457620083392844
+B. Learning rate,0.005,1,44,0.4820047099262283
+B. Learning rate,0.005,1,45,0.4820019520527897
+B. Learning rate,0.005,1,46,0.48312963867325504
+B. Learning rate,0.005,1,47,0.4831803888581889
+B. Learning rate,0.005,1,48,0.48527114413184685
+B. Learning rate,0.005,1,49,0.48248937224258204
+B. Learning rate,0.005,1,50,0.4831438790221871
+B. Learning rate,0.005,1,51,0.48411581516241253
+B. Learning rate,0.005,1,52,0.48206074826554673
+B. Learning rate,0.005,1,53,0.4826727160940235
+B. Learning rate,0.005,1,54,0.48231716803975994
+B. Learning rate,0.005,1,55,0.48343493749292277
+B. Learning rate,0.005,0,1,0.6002189475600616
+B. Learning rate,0.005,0,2,0.5769454358911207
+B. Learning rate,0.005,0,3,0.556848572224716
+B. Learning rate,0.005,0,4,0.5415264204814493
+B. Learning rate,0.005,0,5,0.524863665063262
+B. Learning rate,0.005,0,6,0.5105994284333639
+B. Learning rate,0.005,0,7,0.4958068368407986
+B. Learning rate,0.005,0,8,0.4827193281707715
+B. Learning rate,0.005,0,9,0.46983922820181007
+B. Learning rate,0.005,0,10,0.4564177149522719
+B. Learning rate,0.005,0,11,0.44524502069004634
+B. Learning rate,0.005,0,12,0.43681678612370045
+B. Learning rate,0.005,0,13,0.4294920022491717
+B. Learning rate,0.005,0,14,0.42319151462097393
+B. Learning rate,0.005,0,15,0.41754956258576686
+B. Learning rate,0.005,0,16,0.41295009598236176
+B. Learning rate,0.005,0,17,0.4107249621331153
+B. Learning rate,0.005,0,18,0.4082827432689629
+B. Learning rate,0.005,0,19,0.4046720258884558
+B. Learning rate,0.005,0,20,0.4036034322303266
+B. Learning rate,0.005,0,21,0.40261642727551455
+B. Learning rate,0.005,0,22,0.39998041602239925
+B. Learning rate,0.005,0,23,0.4014181193699152
+B. Learning rate,0.005,0,24,0.39803826115742696
+B. Learning rate,0.005,0,25,0.398294326613885
+B. Learning rate,0.005,0,26,0.395029993238787
+B. Learning rate,0.005,0,27,0.39716463166248245
+B. Learning rate,0.005,0,28,0.39412910615947305
+B. Learning rate,0.005,0,29,0.39362483053846725
+B. Learning rate,0.005,0,30,0.3931254519193224
+B. Learning rate,0.005,0,31,0.3928061096599609
+B. Learning rate,0.005,0,32,0.39141340771975247
+B. Learning rate,0.005,0,33,0.39524881555589103
+B. Learning rate,0.005,0,34,0.39295685694606225
+B. Learning rate,0.005,0,35,0.3904054999777312
+B. Learning rate,0.005,0,36,0.39283383476253547
+B. Learning rate,0.005,0,37,0.38988598436940197
+B. Learning rate,0.005,0,38,0.39204990409823987
+B. Learning rate,0.005,0,39,0.3894531012697972
+B. Learning rate,0.005,0,40,0.3889585620380621
+B. Learning rate,0.005,0,41,0.39151792173960914
+B. Learning rate,0.005,0,42,0.3894370222157879
+B. Learning rate,0.005,0,43,0.3893829616367993
+B. Learning rate,0.005,0,44,0.3921848412050549
+B. Learning rate,0.005,0,45,0.3914897422695704
+B. Learning rate,0.005,0,46,0.39015236004987885
+B. Learning rate,0.005,0,47,0.38887194839149225
+B. Learning rate,0.005,0,48,0.38887758083370866
+B. Learning rate,0.005,0,49,0.3884661727609437
+B. Learning rate,0.005,0,50,0.39011722976214086
+B. Learning rate,0.005,0,51,0.38810920349195427
+B. Learning rate,0.005,0,52,0.38873299262034555
+B. Learning rate,0.005,0,53,0.39226570634186814
+B. Learning rate,0.005,0,54,0.3905985377175865
+B. Learning rate,0.005,0,55,0.38825587996600003
+B. Learning rate,0.005,0,56,0.38958998457195704
+B. Learning rate,0.005,0,57,0.38910671375647327
+B. Learning rate,0.005,0,58,0.38513336088546346
+B. Learning rate,0.005,0,59,0.38811363831880025
+B. Learning rate,0.005,0,60,0.38871439212938147
+B. Learning rate,0.005,0,61,0.38818748905046124
+B. Learning rate,0.005,0,62,0.38995563529602606
+B. Learning rate,0.005,0,63,0.3887078208582126
+B. Learning rate,0.005,0,64,0.3897316218363293
+B. Learning rate,0.005,0,65,0.38979335493079187
+B. Learning rate,0.005,0,66,0.3864174224225197
+B. Learning rate,0.005,0,67,0.38695713167123635
+B. Learning rate,0.005,0,68,0.38890938425030047
+B. Learning rate,0.02,0,1,0.5431430179607297
+B. Learning rate,0.02,0,2,0.486522882881449
+B. Learning rate,0.02,0,3,0.4578794374528796
+B. Learning rate,0.02,0,4,0.4216711924383432
+B. Learning rate,0.02,0,5,0.40655184760773766
+B. Learning rate,0.02,0,6,0.40286475476599704
+B. Learning rate,0.02,0,7,0.3997730961620658
+B. Learning rate,0.02,0,8,0.40154187403789526
+B. Learning rate,0.02,0,9,0.3929178778656857
+B. Learning rate,0.02,0,10,0.3936008388992642
+B. Learning rate,0.02,0,11,0.390212235759068
+B. Learning rate,0.02,0,12,0.3877929431410765
+B. Learning rate,0.02,0,13,0.4004640957718997
+B. Learning rate,0.02,0,14,0.38698915659708855
+B. Learning rate,0.02,0,15,0.3998160054038255
+B. Learning rate,0.02,0,16,0.38337377140170714
+B. Learning rate,0.02,0,17,0.38947394642084215
+B. Learning rate,0.02,0,18,0.3892220804055024
+B. Learning rate,0.02,0,19,0.39065422050723886
+B. Learning rate,0.02,0,20,0.39199418569482325
+B. Learning rate,0.02,0,21,0.39471153736314735
+B. Learning rate,0.02,0,22,0.39575782632394324
+B. Learning rate,0.02,0,23,0.3936335538936344
+B. Learning rate,0.02,0,24,0.3949554545421527
+B. Learning rate,0.02,0,25,0.4089700132647462
+B. Learning rate,0.02,0,26,0.4056731000440984
+B. Learning rate,0.005,4,1,0.652723863098561
+B. Learning rate,0.005,4,2,0.6452758547071473
+B. Learning rate,0.005,4,3,0.6374923623549547
+B. Learning rate,0.005,4,4,0.6295319622490563
+B. Learning rate,0.005,4,5,0.616416821215961
+B. Learning rate,0.005,4,6,0.606167056419536
+B. Learning rate,0.005,4,7,0.5933987901113518
+B. Learning rate,0.005,4,8,0.5825087193741975
+B. Learning rate,0.005,4,9,0.5727895359898398
+B. Learning rate,0.005,4,10,0.560063520846776
+B. Learning rate,0.005,4,11,0.5529344516784378
+B. Learning rate,0.005,4,12,0.54480648369398
+B. Learning rate,0.005,4,13,0.5380568413872515
+B. Learning rate,0.005,4,14,0.5342206464395614
+B. Learning rate,0.005,4,15,0.5265780307842861
+B. Learning rate,0.005,4,16,0.5223491713437217
+B. Learning rate,0.005,4,17,0.5202799694118478
+B. Learning rate,0.005,4,18,0.5165641972757075
+B. Learning rate,0.005,4,19,0.51358752266984
+B. Learning rate,0.005,4,20,0.5134097234305917
+B. Learning rate,0.005,4,21,0.5111520862944207
+B. Learning rate,0.005,4,22,0.5085546267151393
+B. Learning rate,0.005,4,23,0.5102148206966597
+B. Learning rate,0.005,4,24,0.5063619511245832
+B. Learning rate,0.005,4,25,0.5068012715137625
+B. Learning rate,0.005,4,26,0.5056508338732492
+B. Learning rate,0.005,4,27,0.50747908533605
+B. Learning rate,0.005,4,28,0.5042690171947852
+B. Learning rate,0.005,4,29,0.504400748345968
+B. Learning rate,0.005,4,30,0.5053760095639789
+B. Learning rate,0.005,4,31,0.5043754751704651
+B. Learning rate,0.005,4,32,0.5031935740332404
+B. Learning rate,0.005,4,33,0.5046324435034765
+B. Learning rate,0.005,4,34,0.5031698741536029
+B. Learning rate,0.005,4,35,0.5027665295904906
+B. Learning rate,0.005,4,36,0.5032252852151713
+B. Learning rate,0.005,4,37,0.5033558762209457
+B. Learning rate,0.005,4,38,0.5015230665644427
+B. Learning rate,0.005,4,39,0.5021397949682327
+B. Learning rate,0.005,4,40,0.5017009722473463
+B. Learning rate,0.005,4,41,0.5029267900319759
+B. Learning rate,0.005,4,42,0.5028705551899976
+B. Learning rate,0.005,4,43,0.5002255810268168
+B. Learning rate,0.005,4,44,0.5046524823622516
+B. Learning rate,0.005,4,45,0.5005871835375223
+B. Learning rate,0.005,4,46,0.5004025780425495
+B. Learning rate,0.005,4,47,0.5021203342517515
+B. Learning rate,0.005,4,48,0.5008180255532084
+B. Learning rate,0.005,4,49,0.4988316057875883
+B. Learning rate,0.005,4,50,0.5011205114236187
+B. Learning rate,0.005,4,51,0.5002940772039763
+B. Learning rate,0.005,4,52,0.5018254057467488
+B. Learning rate,0.005,4,53,0.5003016961993221
+B. Learning rate,0.005,4,54,0.5004298118629593
+B. Learning rate,0.005,4,55,0.5004346561931603
+B. Learning rate,0.005,4,56,0.49994211737477284
+B. Learning rate,0.005,4,57,0.501387042557042
+B. Learning rate,0.005,4,58,0.4998243740702413
+B. Learning rate,0.005,4,59,0.49984792868942235
+B. Learning rate,0.02,2,1,0.5595148026610269
+B. Learning rate,0.02,2,2,0.5305344298765586
+B. Learning rate,0.02,2,3,0.5040697647585777
+B. Learning rate,0.02,2,4,0.49023434082899564
+B. Learning rate,0.02,2,5,0.4791127827738181
+B. Learning rate,0.02,2,6,0.475324863743582
+B. Learning rate,0.02,2,7,0.48465168581958823
+B. Learning rate,0.02,2,8,0.47667979118900583
+B. Learning rate,0.02,2,9,0.49421608866332056
+B. Learning rate,0.02,2,10,0.47981039147362753
+B. Learning rate,0.02,2,11,0.4802542947520577
+B. Learning rate,0.02,2,12,0.497833267553365
+B. Learning rate,0.02,2,13,0.4798362142993614
+B. Learning rate,0.02,2,14,0.48280023409082873
+B. Learning rate,0.02,2,15,0.4777545349419853
+B. Learning rate,0.02,2,16,0.4830956654353744
+B. Learning rate,0.005,3,1,0.5946717728364129
+B. Learning rate,0.005,3,2,0.5714364003691229
+B. Learning rate,0.005,3,3,0.5557215713449646
+B. Learning rate,0.005,3,4,0.54125497257794
+B. Learning rate,0.005,3,5,0.5294480539574109
+B. Learning rate,0.005,3,6,0.5203372482990387
+B. Learning rate,0.005,3,7,0.5106259483461179
+B. Learning rate,0.005,3,8,0.5030036398829527
+B. Learning rate,0.005,3,9,0.49744337433574565
+B. Learning rate,0.005,3,10,0.48822112770402787
+B. Learning rate,0.005,3,11,0.4831886150407679
+B. Learning rate,0.005,3,12,0.4778233205460206
+B. Learning rate,0.005,3,13,0.4729220090495562
+B. Learning rate,0.005,3,14,0.47179194989891854
+B. Learning rate,0.005,3,15,0.4646299770674265
+B. Learning rate,0.005,3,16,0.4612905132722247
+B. Learning rate,0.005,3,17,0.4595181264931723
+B. Learning rate,0.005,3,18,0.45860589677082214
+B. Learning rate,0.005,3,19,0.4542388490576689
+B. Learning rate,0.005,3,20,0.4523909011169249
+B. Learning rate,0.005,3,21,0.4528577097760136
+B. Learning rate,0.005,3,22,0.45013014610902546
+B. Learning rate,0.005,3,23,0.45026849225782006
+B. Learning rate,0.005,3,24,0.4477948113078636
+B. Learning rate,0.005,3,25,0.44724169265494707
+B. Learning rate,0.005,3,26,0.44493511515317424
+B. Learning rate,0.005,3,27,0.44665303963116965
+B. Learning rate,0.005,3,28,0.4430752150199583
+B. Learning rate,0.005,3,29,0.44342003198005797
+B. Learning rate,0.005,3,30,0.4444433765203379
+B. Learning rate,0.005,3,31,0.44166046314747204
+B. Learning rate,0.005,3,32,0.4409848212874026
+B. Learning rate,0.005,3,33,0.4413729163080164
+B. Learning rate,0.005,3,34,0.4407543299519713
+B. Learning rate,0.005,3,35,0.4389804980246505
+B. Learning rate,0.005,3,36,0.43925214194402307
+B. Learning rate,0.005,3,37,0.43831787348194445
+B. Learning rate,0.005,3,38,0.43717841727825496
+B. Learning rate,0.005,3,39,0.43802488130762546
+B. Learning rate,0.005,3,40,0.43698921027648624
+B. Learning rate,0.005,3,41,0.43902325818612936
+B. Learning rate,0.005,3,42,0.4369675819321543
+B. Learning rate,0.005,3,43,0.4353315500710503
+B. Learning rate,0.005,3,44,0.4399158292718405
+B. Learning rate,0.005,3,45,0.43564814301529226
+B. Learning rate,0.005,3,46,0.43697755904931723
+B. Learning rate,0.005,3,47,0.4350588028691746
+B. Learning rate,0.005,3,48,0.43564817533059236
+B. Learning rate,0.005,3,49,0.43438401689762274
+B. Learning rate,0.005,3,50,0.43619161660889566
+B. Learning rate,0.005,3,51,0.43403531938584167
+B. Learning rate,0.005,3,52,0.43456912685532556
+B. Learning rate,0.005,3,53,0.43486267456808636
+B. Learning rate,0.005,3,54,0.432643213065496
+B. Learning rate,0.005,3,55,0.43423247434571294
+B. Learning rate,0.005,3,56,0.43445266365572227
+B. Learning rate,0.005,3,57,0.4350929854043198
+B. Learning rate,0.005,3,58,0.43356380111397436
+B. Learning rate,0.005,3,59,0.4335883756296999
+B. Learning rate,0.005,3,60,0.43273443582788473
+B. Learning rate,0.005,3,61,0.4346052955558027
+B. Learning rate,0.005,3,62,0.4325965365508774
+B. Learning rate,0.005,3,63,0.43468999388948565
+B. Learning rate,0.005,3,64,0.43416159050714387
+B. Learning rate,0.005,3,65,0.4337776506100198
+B. Learning rate,0.005,3,66,0.43338857608413944
+B. Learning rate,0.005,3,67,0.43124523913617796
+B. Learning rate,0.005,3,68,0.4333902228841817
+B. Learning rate,0.005,3,69,0.4326987555811567
+B. Learning rate,0.005,3,70,0.43399121828129045
+B. Learning rate,0.005,3,71,0.43181451710620045
+B. Learning rate,0.005,3,72,0.4326671014704099
+B. Learning rate,0.005,3,73,0.43200163288784854
+B. Learning rate,0.005,3,74,0.43128042500602265
+B. Learning rate,0.005,3,75,0.43224481310184804
+B. Learning rate,0.005,3,76,0.43405945819436076
+B. Learning rate,0.005,3,77,0.43164589334013875
+B. Learning rate,0.02,1,1,0.5640666820743564
+B. Learning rate,0.02,1,2,0.5275548829442038
+B. Learning rate,0.02,1,3,0.508044043350619
+B. Learning rate,0.02,1,4,0.499657385478746
+B. Learning rate,0.02,1,5,0.48937654281970505
+B. Learning rate,0.02,1,6,0.4892950640079501
+B. Learning rate,0.02,1,7,0.48084880867407165
+B. Learning rate,0.02,1,8,0.48775940765665265
+B. Learning rate,0.02,1,9,0.4833643146651012
+B. Learning rate,0.02,1,10,0.48195847323127544
+B. Learning rate,0.02,1,11,0.4792592055791843
+B. Learning rate,0.02,1,12,0.48233948550110345
+B. Learning rate,0.02,1,13,0.48170604092925456
+B. Learning rate,0.02,1,14,0.4805947146737924
+B. Learning rate,0.02,1,15,0.4881078895406233
+B. Learning rate,0.02,1,16,0.4810923858971874
+B. Learning rate,0.02,1,17,0.4927435440533892
+B. Learning rate,0.02,1,18,0.4906493671817183
+B. Learning rate,0.02,1,19,0.4854429551622257
+B. Learning rate,0.02,1,20,0.4897294757562111
+B. Learning rate,0.02,1,21,0.47888907488979077
+B. Learning rate,0.02,1,22,0.48532028433786867
+B. Learning rate,0.02,1,23,0.4829096238215939
+B. Learning rate,0.02,1,24,0.47852607760581567
+B. Learning rate,0.02,1,25,0.48521070443754644
+B. Learning rate,0.02,1,26,0.4817134898258144
+B. Learning rate,0.02,1,27,0.48604839328537586
+B. Learning rate,0.02,1,28,0.49878941418765893
+B. Learning rate,0.02,1,29,0.48502753728908027
+B. Learning rate,0.02,1,30,0.4854405654273776
+B. Learning rate,0.02,1,31,0.49462296232330744
+B. Learning rate,0.02,1,32,0.48464973591575994
+B. Learning rate,0.02,1,33,0.48375749249572253
+B. Learning rate,0.02,1,34,0.4887131425960026
+B. Learning rate,0.02,3,1,0.547201595967592
+B. Learning rate,0.02,3,2,0.506174549342923
+B. Learning rate,0.02,3,3,0.4940373395120763
+B. Learning rate,0.02,3,4,0.4687106873977751
+B. Learning rate,0.02,3,5,0.4611716978822328
+B. Learning rate,0.02,3,6,0.4548413658398954
+B. Learning rate,0.02,3,7,0.45060007804015084
+B. Learning rate,0.02,3,8,0.44518776616712125
+B. Learning rate,0.02,3,9,0.45539209628039923
+B. Learning rate,0.02,3,10,0.45147357076864597
+B. Learning rate,0.02,3,11,0.4417634682107604
+B. Learning rate,0.02,3,12,0.4412660384208036
+B. Learning rate,0.02,3,13,0.4775426544040297
+B. Learning rate,0.02,3,14,0.44206129670315886
+B. Learning rate,0.02,3,15,0.44946432681642295
+B. Learning rate,0.02,3,16,0.4406931646611658
+B. Learning rate,0.02,3,17,0.4444772335432859
+B. Learning rate,0.02,3,18,0.4442313564957169
+B. Learning rate,0.02,3,19,0.43726216384524497
+B. Learning rate,0.02,3,20,0.4454219198578801
+B. Learning rate,0.02,3,21,0.44053520913972166
+B. Learning rate,0.02,3,22,0.4411449084247304
+B. Learning rate,0.02,3,23,0.4449523480166596
+B. Learning rate,0.02,3,24,0.4418483972298657
+B. Learning rate,0.02,3,25,0.4514465214365728
+B. Learning rate,0.02,3,26,0.4603004062302441
+B. Learning rate,0.02,3,27,0.44124788341661164
+B. Learning rate,0.02,3,28,0.4488468567619609
+B. Learning rate,0.02,3,29,0.4417254946820659
+B. Learning rate,0.02,4,1,0.631869434534976
+B. Learning rate,0.02,4,2,0.5846541877814512
+B. Learning rate,0.02,4,3,0.5481382913811192
+B. Learning rate,0.02,4,4,0.5328400003215285
+B. Learning rate,0.02,4,5,0.5297435451281904
+B. Learning rate,0.02,4,6,0.508772327135176
+B. Learning rate,0.02,4,7,0.504711474767695
+B. Learning rate,0.02,4,8,0.5112169230714632
+B. Learning rate,0.02,4,9,0.5058482958809359
+B. Learning rate,0.02,4,10,0.498153388930335
+B. Learning rate,0.02,4,11,0.5074050212231541
+B. Learning rate,0.02,4,12,0.49933277157270195
+B. Learning rate,0.02,4,13,0.5254222674661054
+B. Learning rate,0.02,4,14,0.5044806671713747
+B. Learning rate,0.02,4,15,0.4974587840562202
+B. Learning rate,0.02,4,16,0.500573497823921
+B. Learning rate,0.02,4,17,0.503106782792152
+B. Learning rate,0.02,4,18,0.505721965506558
+B. Learning rate,0.02,4,19,0.5004072489678876
+B. Learning rate,0.02,4,20,0.5003146687435259
+B. Learning rate,0.02,4,21,0.4997553312220196
+B. Learning rate,0.02,4,22,0.5020465111373715
+B. Learning rate,0.02,4,23,0.5171452593892115
+B. Learning rate,0.02,4,24,0.49876029357089197
+B. Learning rate,0.02,4,25,0.511321733423816
+C. Batch size,16,2,1,0.5558447024163172
+C. Batch size,16,2,2,0.5278092712673355
+C. Batch size,16,2,3,0.5039583310780201
+C. Batch size,16,2,4,0.4942593860590609
+C. Batch size,16,2,5,0.48092571089638675
+C. Batch size,16,2,6,0.4778026080124333
+C. Batch size,16,2,7,0.48093938850906587
+C. Batch size,16,2,8,0.47913355375826355
+C. Batch size,16,2,9,0.49229437749419164
+C. Batch size,16,2,10,0.485652789359981
+C. Batch size,16,2,11,0.48089368920410785
+C. Batch size,16,2,12,0.49506547779555304
+C. Batch size,16,2,13,0.47660438858533133
+C. Batch size,16,2,14,0.4816196364398981
+C. Batch size,16,2,15,0.4786214227438063
+C. Batch size,16,2,16,0.4820787636798627
+C. Batch size,16,2,17,0.5029437944769429
+C. Batch size,16,2,18,0.48111243039228435
+C. Batch size,16,2,19,0.48389665886464917
+C. Batch size,16,2,20,0.4840423533352385
+C. Batch size,16,2,21,0.4933027303118034
+C. Batch size,16,2,22,0.48503268714862124
+C. Batch size,16,2,23,0.4878155829468619
+C. Batch size,16,0,1,0.5512914135625879
+C. Batch size,16,0,2,0.5019172246572222
+C. Batch size,16,0,3,0.46663983230166023
+C. Batch size,16,0,4,0.4337806591661018
+C. Batch size,16,0,5,0.41604368401962083
+C. Batch size,16,0,6,0.4063328546183737
+C. Batch size,16,0,7,0.4024829787263264
+C. Batch size,16,0,8,0.4010668757938019
+C. Batch size,16,0,9,0.3953866890795802
+C. Batch size,16,0,10,0.39406692034407576
+C. Batch size,16,0,11,0.39455651172497297
+C. Batch size,16,0,12,0.3898640778375434
+C. Batch size,16,0,13,0.3984021649163668
+C. Batch size,16,0,14,0.38825595453401296
+C. Batch size,16,0,15,0.39271423440711556
+C. Batch size,16,0,16,0.38917193706812453
+C. Batch size,16,0,17,0.3911007235979634
+C. Batch size,16,0,18,0.3878371681584975
+C. Batch size,16,0,19,0.3900083810388987
+C. Batch size,16,0,20,0.387720101087244
+C. Batch size,16,0,21,0.389214897433642
+C. Batch size,16,0,22,0.3892849916463053
+C. Batch size,16,0,23,0.3873605414302073
+C. Batch size,16,0,24,0.3868569024050447
+C. Batch size,16,0,25,0.39059464857986465
+C. Batch size,16,0,26,0.40074416546008373
+C. Batch size,16,0,27,0.3929849002219151
+C. Batch size,16,0,28,0.39335536255566284
+C. Batch size,16,0,29,0.39371166323825585
+C. Batch size,16,0,30,0.39626023890310164
+C. Batch size,16,0,31,0.39489728702068655
+C. Batch size,16,0,32,0.39745478819729274
+C. Batch size,16,0,33,0.4037849118905342
+C. Batch size,16,0,34,0.3974648467085684
+C. Batch size,16,1,1,0.5621030796822486
+C. Batch size,16,1,2,0.5294600898461854
+C. Batch size,16,1,3,0.5074121269355464
+C. Batch size,16,1,4,0.5025413720095238
+C. Batch size,16,1,5,0.48949697153364796
+C. Batch size,16,1,6,0.4859744730826434
+C. Batch size,16,1,7,0.48150660184107874
+C. Batch size,16,1,8,0.4838295319586995
+C. Batch size,16,1,9,0.4860525156998004
+C. Batch size,16,1,10,0.48313983585690484
+C. Batch size,16,1,11,0.48079367343640667
+C. Batch size,16,1,12,0.4844854029229964
+C. Batch size,16,1,13,0.48070660986362945
+C. Batch size,16,1,14,0.4823377685923329
+C. Batch size,16,1,15,0.48526706105405515
+C. Batch size,16,1,16,0.48041807275506165
+C. Batch size,16,1,17,0.4891381398933598
+C. Batch size,16,1,18,0.49104190499906
+C. Batch size,16,1,19,0.4908818660638973
+C. Batch size,16,1,20,0.49613861341476634
+C. Batch size,16,1,21,0.482104726252163
+C. Batch size,16,1,22,0.48196183393520325
+C. Batch size,16,1,23,0.4816106706868619
+C. Batch size,16,1,24,0.47871266385845584
+C. Batch size,16,1,25,0.4896090161270199
+C. Batch size,16,1,26,0.48236956727278724
+C. Batch size,16,1,27,0.4804804904512801
+C. Batch size,16,1,28,0.4883851003223431
+C. Batch size,16,1,29,0.4905682223696838
+C. Batch size,16,1,30,0.4844167311916312
+C. Batch size,16,1,31,0.49136319804383016
+C. Batch size,16,1,32,0.48582879175715127
+C. Batch size,16,1,33,0.4817945610982278
+C. Batch size,16,1,34,0.4895682340917573
+C. Batch size,16,3,1,0.5482477533618891
+C. Batch size,16,3,2,0.5109927665309857
+C. Batch size,16,3,3,0.4978311652979586
+C. Batch size,16,3,4,0.47352790317525045
+C. Batch size,16,3,5,0.46318941690493354
+C. Batch size,16,3,6,0.45705813776351567
+C. Batch size,16,3,7,0.4561490559303091
+C. Batch size,16,3,8,0.4496902563190872
+C. Batch size,16,3,9,0.45231140310775353
+C. Batch size,16,3,10,0.44634053115541156
+C. Batch size,16,3,11,0.4451971011848488
+C. Batch size,16,3,12,0.44345154074294
+C. Batch size,16,3,13,0.46004010865291334
+C. Batch size,16,3,14,0.44393471302496945
+C. Batch size,16,3,15,0.44757302884890304
+C. Batch size,16,3,16,0.4422836538711981
+C. Batch size,16,3,17,0.4430705042350331
+C. Batch size,16,3,18,0.44310457620176075
+C. Batch size,16,3,19,0.43985744554116546
+C. Batch size,16,3,20,0.44490837631645624
+C. Batch size,16,3,21,0.4405605981230543
+C. Batch size,16,3,22,0.4405168005529439
+C. Batch size,16,3,23,0.4453907737710767
+C. Batch size,16,3,24,0.4419234407650301
+C. Batch size,16,3,25,0.4480335945616702
+C. Batch size,16,3,26,0.4625167932970842
+C. Batch size,16,3,27,0.43990658492009976
+C. Batch size,16,3,28,0.44398699309170886
+C. Batch size,16,3,29,0.44000863531528944
+C. Batch size,64,0,1,0.5970627869699292
+C. Batch size,64,0,2,0.5714076300271147
+C. Batch size,64,0,3,0.5502744714263444
+C. Batch size,64,0,4,0.5333043731679884
+C. Batch size,64,0,5,0.5129694994853851
+C. Batch size,64,0,6,0.496510891356784
+C. Batch size,64,0,7,0.47965967122372083
+C. Batch size,64,0,8,0.4626426698652305
+C. Batch size,64,0,9,0.4476273231939989
+C. Batch size,64,0,10,0.4334628251808022
+C. Batch size,64,0,11,0.42755070646719673
+C. Batch size,64,0,12,0.41912266775739937
+C. Batch size,64,0,13,0.4152517184453178
+C. Batch size,64,0,14,0.4118474580243887
+C. Batch size,64,0,15,0.40700279304081716
+C. Batch size,64,0,16,0.4057608167044588
+C. Batch size,64,0,17,0.40317967584280673
+C. Batch size,64,0,18,0.404057976435487
+C. Batch size,64,0,19,0.3991418296814465
+C. Batch size,64,0,20,0.39977584027929003
+C. Batch size,64,0,21,0.39775819409321617
+C. Batch size,64,0,22,0.3948764455212766
+C. Batch size,64,0,23,0.3983311007299237
+C. Batch size,64,0,24,0.39202095917165786
+C. Batch size,64,0,25,0.39305004892635637
+C. Batch size,64,0,26,0.3935552698550234
+C. Batch size,64,0,27,0.3963771349687605
+C. Batch size,64,0,28,0.3918386524467368
+C. Batch size,64,0,29,0.3904338893007872
+C. Batch size,64,0,30,0.3903290720026988
+C. Batch size,64,0,31,0.38938584153394346
+C. Batch size,64,0,32,0.3878430674758548
+C. Batch size,64,0,33,0.39545880816050927
+C. Batch size,64,0,34,0.39123906175872664
+C. Batch size,64,0,35,0.38920055701891365
+C. Batch size,64,0,36,0.39195445872747
+C. Batch size,64,0,37,0.388352576767097
+C. Batch size,64,0,38,0.3912079733447826
+C. Batch size,64,0,39,0.38833849172451984
+C. Batch size,64,0,40,0.38808522484724123
+C. Batch size,64,0,41,0.3931541224591538
+C. Batch size,64,0,42,0.3893416619133714
+C. Batch size,16,4,1,0.6326162747500816
+C. Batch size,16,4,2,0.596369836364376
+C. Batch size,16,4,3,0.564568367632278
+C. Batch size,16,4,4,0.5453499397494106
+C. Batch size,16,4,5,0.53207108616962
+C. Batch size,16,4,6,0.5162477840561801
+C. Batch size,16,4,7,0.5097664080936455
+C. Batch size,16,4,8,0.5152449738864365
+C. Batch size,16,4,9,0.5060315121678741
+C. Batch size,16,4,10,0.5009161012286211
+C. Batch size,16,4,11,0.5099417761922411
+C. Batch size,16,4,12,0.5007472080010654
+C. Batch size,16,4,13,0.5120651052837378
+C. Batch size,16,4,14,0.5019383073110675
+C. Batch size,16,4,15,0.4993862175800086
+C. Batch size,16,4,16,0.5008313073570114
+C. Batch size,16,4,17,0.5024927182172609
+C. Batch size,16,4,18,0.5019354233818722
+C. Batch size,16,4,19,0.5037195970732765
+C. Batch size,16,4,20,0.5005255932767287
+C. Batch size,16,4,21,0.4995711559572702
+C. Batch size,16,4,22,0.49826610897812346
+C. Batch size,16,4,23,0.5107300904893478
+C. Batch size,16,4,24,0.4984597145184919
+C. Batch size,16,4,25,0.5136635120405783
+C. Batch size,16,4,26,0.5097747230341853
+C. Batch size,16,4,27,0.5135145993963173
+C. Batch size,16,4,28,0.499891442803138
+C. Batch size,16,4,29,0.4984688928450507
+C. Batch size,16,4,30,0.5012976786556541
+C. Batch size,16,4,31,0.49890006422858163
+C. Batch size,16,4,32,0.5021725229924103
+C. Batch size,64,2,1,0.5982451200244999
+C. Batch size,64,2,2,0.5727784721150891
+C. Batch size,64,2,3,0.5575112221475836
+C. Batch size,64,2,4,0.5438906851372259
+C. Batch size,64,2,5,0.5352589067665862
+C. Batch size,64,2,6,0.5259771833674802
+C. Batch size,64,2,7,0.5182532053003109
+C. Batch size,64,2,8,0.5103999613510398
+C. Batch size,64,2,9,0.5018966943620196
+C. Batch size,64,2,10,0.5009251960554539
+C. Batch size,64,2,11,0.48985275192624
+C. Batch size,64,2,12,0.4878251589842114
+C. Batch size,64,2,13,0.4854721023991311
+C. Batch size,64,2,14,0.48048278439773057
+C. Batch size,64,2,15,0.4815835687500205
+C. Batch size,64,2,16,0.4811485879755378
+C. Batch size,64,2,17,0.4774178645423079
+C. Batch size,64,2,18,0.480892606698263
+C. Batch size,64,2,19,0.47840892439787175
+C. Batch size,64,2,20,0.4786368106378659
+C. Batch size,64,2,21,0.47798910156442515
+C. Batch size,64,2,22,0.4850607764320278
+C. Batch size,64,2,23,0.47577586579159686
+C. Batch size,64,2,24,0.4843175393379124
+C. Batch size,64,2,25,0.4807669037786746
+C. Batch size,64,2,26,0.47886552248131214
+C. Batch size,64,2,27,0.4796744913456633
+C. Batch size,64,2,28,0.48445365283385494
+C. Batch size,64,2,29,0.47996349286616763
+C. Batch size,64,2,30,0.47940127675461003
+C. Batch size,64,2,31,0.48069343184605723
+C. Batch size,64,2,32,0.4897951866222673
+C. Batch size,64,2,33,0.47883599223868034
+C. Batch size,64,1,1,0.5936444383248239
+C. Batch size,64,1,2,0.5698022255521893
+C. Batch size,64,1,3,0.5547954968617612
+C. Batch size,64,1,4,0.5454604907042898
+C. Batch size,64,1,5,0.5371144420972334
+C. Batch size,64,1,6,0.5278859948839688
+C. Batch size,64,1,7,0.5188686402026174
+C. Batch size,64,1,8,0.5116011900940761
+C. Batch size,64,1,9,0.5041199090751658
+C. Batch size,64,1,10,0.5025418948600905
+C. Batch size,64,1,11,0.49524777256436364
+C. Batch size,64,1,12,0.4925924544978899
+C. Batch size,64,1,13,0.490222596093819
+C. Batch size,64,1,14,0.4890168147000759
+C. Batch size,64,1,15,0.48712304175872645
+C. Batch size,64,1,16,0.4876394186660954
+C. Batch size,64,1,17,0.48580428309937024
+C. Batch size,64,1,18,0.4883160499264168
+C. Batch size,64,1,19,0.49057656762277696
+C. Batch size,64,1,20,0.4873347041117702
+C. Batch size,64,1,21,0.4851089672359163
+C. Batch size,64,1,22,0.48699183531957246
+C. Batch size,64,1,23,0.4842525617823014
+C. Batch size,64,1,24,0.48719677179354187
+C. Batch size,64,1,25,0.48586506906514365
+C. Batch size,64,1,26,0.4888674150337054
+C. Batch size,64,1,27,0.483695534858075
+C. Batch size,64,1,28,0.48502577969053506
+C. Batch size,64,1,29,0.48679862623228476
+C. Batch size,64,1,30,0.4867537923899599
+C. Batch size,64,1,31,0.483267782254428
+C. Batch size,64,1,32,0.48658110920151015
+C. Batch size,64,1,33,0.48358747994721096
+C. Batch size,64,1,34,0.4829777667266951
+C. Batch size,64,1,35,0.4835925911271292
+C. Batch size,64,1,36,0.4855351254205059
+C. Batch size,64,1,37,0.4837386598169901
+C. Batch size,64,1,38,0.4843382277174362
+C. Batch size,64,1,39,0.482453325394019
+C. Batch size,64,1,40,0.4851295682993657
+C. Batch size,64,1,41,0.4809788209437669
+C. Batch size,64,1,42,0.4827806016906126
+C. Batch size,64,1,43,0.4867664019919401
+C. Batch size,64,1,44,0.4826722115394255
+C. Batch size,64,1,45,0.48287449346319145
+C. Batch size,64,1,46,0.48406416836708377
+C. Batch size,64,1,47,0.482648120587367
+C. Batch size,64,1,48,0.4859576857900136
+C. Batch size,64,1,49,0.4808223568685773
+C. Batch size,64,1,50,0.48062624160063355
+C. Batch size,64,1,51,0.48406682482506336
+C. Batch size,64,1,52,0.4807325036173037
+C. Batch size,64,1,53,0.4820661197359232
+C. Batch size,64,1,54,0.4818021038565838
+C. Batch size,64,1,55,0.4824089820488353
+C. Batch size,64,1,56,0.4813579329352103
+C. Batch size,64,1,57,0.4867876470663925
+C. Batch size,64,1,58,0.48117453979522
+C. Batch size,64,1,59,0.4854503178269709
+C. Batch size,64,1,60,0.4832291001975558
+D. Convolution layers,1,1,1,0.6234974746671513
+D. Convolution layers,1,1,2,0.5820940677976826
+D. Convolution layers,1,1,3,0.5539260394069137
+D. Convolution layers,1,1,4,0.5328761308234848
+D. Convolution layers,1,1,5,0.5110627648704218
+D. Convolution layers,1,1,6,0.505630795405192
+D. Convolution layers,1,1,7,0.49643880982776895
+D. Convolution layers,1,1,8,0.49387065730468327
+D. Convolution layers,1,1,9,0.4950044665088664
+D. Convolution layers,1,1,10,0.4933882852106294
+D. Convolution layers,1,1,11,0.491719361097697
+D. Convolution layers,1,1,12,0.49442003457945677
+D. Convolution layers,1,1,13,0.49189720372878254
+D. Convolution layers,1,1,14,0.49352411667671153
+D. Convolution layers,1,1,15,0.49136367581473345
+D. Convolution layers,1,1,16,0.49304452158664597
+D. Convolution layers,1,1,17,0.4954864088583944
+D. Convolution layers,1,1,18,0.49480874362703997
+D. Convolution layers,1,1,19,0.4958473568358362
+D. Convolution layers,1,1,20,0.49243091958457336
+D. Convolution layers,1,1,21,0.49084491066371355
+D. Convolution layers,1,1,22,0.49541815411503176
+D. Convolution layers,1,1,23,0.49277046436998356
+D. Convolution layers,1,1,24,0.4912045936937135
+D. Convolution layers,1,1,25,0.4941526380485247
+D. Convolution layers,1,1,26,0.4933797103338857
+D. Convolution layers,1,1,27,0.4923728681325099
+D. Convolution layers,1,1,28,0.5011428998249532
+D. Convolution layers,1,1,29,0.4931401516966397
+D. Convolution layers,1,1,30,0.49570678111665833
+D. Convolution layers,1,1,31,0.4962082517827507
+C. Batch size,64,3,1,0.5905650212631832
+C. Batch size,64,3,2,0.5659236694368586
+C. Batch size,64,3,3,0.549202802915587
+C. Batch size,64,3,4,0.5364854482107163
+C. Batch size,64,3,5,0.523037607916018
+C. Batch size,64,3,6,0.5134305349123527
+C. Batch size,64,3,7,0.5050314789346025
+C. Batch size,64,3,8,0.4951000962397422
+C. Batch size,64,3,9,0.48865315436897766
+C. Batch size,64,3,10,0.47708382382358583
+C. Batch size,64,3,11,0.47235521150988563
+C. Batch size,64,3,12,0.46659983819520273
+C. Batch size,64,3,13,0.4620055067217297
+C. Batch size,64,3,14,0.46455344909480567
+C. Batch size,64,3,15,0.4564147701328139
+C. Batch size,64,3,16,0.454438635921737
+C. Batch size,64,3,17,0.45493144467260344
+C. Batch size,64,3,18,0.45209519479627164
+C. Batch size,64,3,19,0.4483545046352571
+C. Batch size,64,3,20,0.4468854212324846
+C. Batch size,64,3,21,0.44941649358546004
+C. Batch size,64,3,22,0.444973164962804
+C. Batch size,64,3,23,0.445706296102466
+C. Batch size,64,3,24,0.44419233288219434
+C. Batch size,64,3,25,0.4432155650603267
+C. Batch size,64,3,26,0.4418422414377845
+C. Batch size,64,3,27,0.44443247941765945
+C. Batch size,64,3,28,0.4404526297928072
+C. Batch size,64,3,29,0.44180973737162643
+C. Batch size,64,3,30,0.44113001173150174
+C. Batch size,64,3,31,0.43797988679473715
+C. Batch size,64,3,32,0.4375567769406588
+C. Batch size,64,3,33,0.4383891385932344
+C. Batch size,64,3,34,0.4371674465552895
+C. Batch size,64,3,35,0.4363756180340748
+C. Batch size,64,3,36,0.436077152363238
+C. Batch size,64,3,37,0.43571968081120466
+C. Batch size,64,3,38,0.4346920044510313
+C. Batch size,64,3,39,0.43709320082817
+C. Batch size,64,3,40,0.4355002103638548
+C. Batch size,64,3,41,0.43731817302664133
+C. Batch size,64,3,42,0.43393345097265473
+C. Batch size,64,3,43,0.4328041031685979
+C. Batch size,64,3,44,0.43853172823046926
+C. Batch size,64,3,45,0.43351366813728104
+C. Batch size,64,3,46,0.4362571377722276
+C. Batch size,64,3,47,0.4322336837094064
+C. Batch size,64,3,48,0.43340323235956596
+C. Batch size,64,3,49,0.4331741241414017
+C. Batch size,64,3,50,0.4330921981460204
+C. Batch size,64,3,51,0.43234189345415425
+C. Batch size,64,3,52,0.43166647643631806
+C. Batch size,64,3,53,0.43095768405596
+C. Batch size,64,3,54,0.4298058106202446
+C. Batch size,64,3,55,0.43377463196911653
+C. Batch size,64,3,56,0.4323410684169696
+C. Batch size,64,3,57,0.43248840088927243
+C. Batch size,64,3,58,0.43201216569457884
+C. Batch size,64,3,59,0.4305058635749399
+C. Batch size,64,3,60,0.43223279976771095
+C. Batch size,64,3,61,0.4361470210227229
+C. Batch size,64,3,62,0.4314194913318602
+C. Batch size,64,3,63,0.4375464060786344
+C. Batch size,64,3,64,0.4326681705358865
+C. Batch size,64,4,1,0.6521139266536011
+C. Batch size,64,4,2,0.6457561532623018
+C. Batch size,64,4,3,0.6374592404975474
+C. Batch size,64,4,4,0.6284079726690824
+C. Batch size,64,4,5,0.6106843066661108
+C. Batch size,64,4,6,0.5962402083345694
+C. Batch size,64,4,7,0.5796356634552925
+C. Batch size,64,4,8,0.5646343059601528
+C. Batch size,64,4,9,0.5550423254639933
+C. Batch size,64,4,10,0.5395737970005392
+C. Batch size,64,4,11,0.5340889112745808
+C. Batch size,64,4,12,0.5255790452351511
+C. Batch size,64,4,13,0.519273429917283
+C. Batch size,64,4,14,0.519101440718821
+C. Batch size,64,4,15,0.5119982461216557
+C. Batch size,64,4,16,0.5109466149459694
+C. Batch size,64,4,17,0.5109660304763537
+C. Batch size,64,4,18,0.5092974008881413
+C. Batch size,64,4,19,0.5076064496620717
+C. Batch size,64,4,20,0.5092779909615884
+C. Batch size,64,4,21,0.507245608538216
+C. Batch size,64,4,22,0.5043332483107186
+C. Batch size,64,4,23,0.5077035029607615
+C. Batch size,64,4,24,0.5044737837159258
+C. Batch size,64,4,25,0.5053461183090676
+C. Batch size,64,4,26,0.5054345530394355
+C. Batch size,64,4,27,0.5063155905195001
+C. Batch size,64,4,28,0.5031919489108433
+C. Batch size,64,4,29,0.5031304181217958
+C. Batch size,64,4,30,0.5046845379610824
+C. Batch size,64,4,31,0.5030607887558814
+C. Batch size,64,4,32,0.5022750163554351
+C. Batch size,64,4,33,0.5043383325602655
+C. Batch size,64,4,34,0.5026637968944236
+C. Batch size,64,4,35,0.501735212642426
+C. Batch size,64,4,36,0.50310434701828
+C. Batch size,64,4,37,0.5036711123384185
+C. Batch size,64,4,38,0.50056920789678
+C. Batch size,64,4,39,0.5014028451449238
+C. Batch size,64,4,40,0.5018631322789804
+C. Batch size,64,4,41,0.5062870703115645
+C. Batch size,64,4,42,0.5022869784270437
+C. Batch size,64,4,43,0.4998878934045745
+C. Batch size,64,4,44,0.5066454523034802
+C. Batch size,64,4,45,0.5007905980720363
+C. Batch size,64,4,46,0.5021130768952841
+C. Batch size,64,4,47,0.5042162505763181
+C. Batch size,64,4,48,0.5022197507831836
+C. Batch size,64,4,49,0.49978338273816025
+C. Batch size,64,4,50,0.5015901263457405
+C. Batch size,64,4,51,0.5006995884056035
+C. Batch size,64,4,52,0.5029210510447458
+C. Batch size,64,4,53,0.5006149330727476
+C. Batch size,64,4,54,0.5029056044128831
+C. Batch size,64,4,55,0.5043645243133101
+C. Batch size,64,4,56,0.5039708747216582
+C. Batch size,64,4,57,0.5037981843017512
+C. Batch size,64,4,58,0.502599008675549
+C. Batch size,64,4,59,0.5005844706024541
+D. Convolution layers,1,3,1,0.6380113893986921
+D. Convolution layers,1,3,2,0.5769580828166403
+D. Convolution layers,1,3,3,0.5451823415964906
+D. Convolution layers,1,3,4,0.5130341215272356
+D. Convolution layers,1,3,5,0.49676898465636515
+D. Convolution layers,1,3,6,0.4750572333694736
+D. Convolution layers,1,3,7,0.4665405755190032
+D. Convolution layers,1,3,8,0.46105922382962994
+D. Convolution layers,1,3,9,0.4593166822808777
+D. Convolution layers,1,3,10,0.4593527722172734
+D. Convolution layers,1,3,11,0.45322074392235473
+D. Convolution layers,1,3,12,0.45498689603916237
+D. Convolution layers,1,3,13,0.46232338122706834
+D. Convolution layers,1,3,14,0.45191487822306425
+D. Convolution layers,1,3,15,0.4600573408438553
+D. Convolution layers,1,3,16,0.45026894159265096
+D. Convolution layers,1,3,17,0.4520791079671162
+D. Convolution layers,1,3,18,0.45849917282455555
+D. Convolution layers,1,3,19,0.449799001329527
+D. Convolution layers,1,3,20,0.45378273179927003
+D. Convolution layers,1,3,21,0.4545410889217594
+D. Convolution layers,1,3,22,0.45659483020773073
+D. Convolution layers,1,3,23,0.45893688729852805
+D. Convolution layers,1,3,24,0.4523369883291344
+D. Convolution layers,1,3,25,0.45864782182078145
+D. Convolution layers,1,3,26,0.45388791876513573
+D. Convolution layers,1,3,27,0.4528314260490813
+D. Convolution layers,1,3,28,0.45736396170958243
+D. Convolution layers,1,3,29,0.4559301767237883
+D. Convolution layers,1,0,1,0.6211026449712018
+D. Convolution layers,1,0,2,0.563258157157304
+D. Convolution layers,1,0,3,0.5203126093539141
+D. Convolution layers,1,0,4,0.4852809581984605
+D. Convolution layers,1,0,5,0.4558192493975082
+D. Convolution layers,1,0,6,0.43653709659591383
+D. Convolution layers,1,0,7,0.4254482204878501
+D. Convolution layers,1,0,8,0.4192249429825109
+D. Convolution layers,1,0,9,0.4122679357908268
+D. Convolution layers,1,0,10,0.40973692758018954
+D. Convolution layers,1,0,11,0.40402764080140896
+D. Convolution layers,1,0,12,0.40389385393856436
+D. Convolution layers,1,0,13,0.4079705438145636
+D. Convolution layers,1,0,14,0.39838217619190036
+D. Convolution layers,1,0,15,0.40449223423666925
+D. Convolution layers,1,0,16,0.39767022283876274
+D. Convolution layers,1,0,17,0.39921175209511106
+D. Convolution layers,1,0,18,0.3974598924963179
+D. Convolution layers,1,0,19,0.39627585572535584
+D. Convolution layers,1,0,20,0.3949469302959716
+D. Convolution layers,1,0,21,0.3953059490854135
+D. Convolution layers,1,0,22,0.39457681006184486
+D. Convolution layers,1,0,23,0.39619268230161536
+D. Convolution layers,1,0,24,0.3936727606864658
+D. Convolution layers,1,0,25,0.39990893842391445
+D. Convolution layers,1,0,26,0.39200448023788287
+D. Convolution layers,1,0,27,0.3928469178400238
+D. Convolution layers,1,0,28,0.39277450703946765
+D. Convolution layers,1,0,29,0.39151618849687286
+D. Convolution layers,1,0,30,0.3909251388857096
+D. Convolution layers,1,0,31,0.3902528994463057
+D. Convolution layers,1,0,32,0.39125788743775064
+D. Convolution layers,1,0,33,0.3941372203522129
+D. Convolution layers,1,0,34,0.390276205853088
+D. Convolution layers,1,0,35,0.38983639811760584
+D. Convolution layers,1,0,36,0.39493349021935986
+D. Convolution layers,1,0,37,0.3873734562512111
+D. Convolution layers,1,0,38,0.39144525682202713
+D. Convolution layers,1,0,39,0.38815530705071244
+D. Convolution layers,1,0,40,0.38906946233374334
+D. Convolution layers,1,0,41,0.3935522124094023
+D. Convolution layers,1,0,42,0.3870509054500734
+D. Convolution layers,1,0,43,0.39386486282314526
+D. Convolution layers,1,0,44,0.3880937333438589
+D. Convolution layers,1,0,45,0.39626825801462845
+D. Convolution layers,1,0,46,0.38885954066781525
+D. Convolution layers,1,0,47,0.3861203483436338
+D. Convolution layers,1,0,48,0.3865905109141735
+D. Convolution layers,1,0,49,0.39293512819524384
+D. Convolution layers,1,0,50,0.3853263462851323
+D. Convolution layers,1,0,51,0.39136686593833897
+D. Convolution layers,1,0,52,0.3864378525519854
+D. Convolution layers,1,0,53,0.3930980929530659
+D. Convolution layers,1,0,54,0.39070716076767603
+D. Convolution layers,1,0,55,0.3885781316463325
+D. Convolution layers,1,0,56,0.38589924656184993
+D. Convolution layers,1,0,57,0.38908031569474444
+D. Convolution layers,1,0,58,0.38482887363865453
+D. Convolution layers,1,0,59,0.38928607553903183
+D. Convolution layers,1,0,60,0.3892586256603587
+D. Convolution layers,1,0,61,0.3844685789960719
+D. Convolution layers,1,0,62,0.39572591206154534
+D. Convolution layers,1,0,63,0.38632969882773394
+D. Convolution layers,1,0,64,0.3943140942016288
+D. Convolution layers,1,0,65,0.3854038973647267
+D. Convolution layers,1,0,66,0.38531894637344766
+D. Convolution layers,1,0,67,0.3843700192748096
+D. Convolution layers,1,0,68,0.39132340812870536
+D. Convolution layers,1,0,69,0.3869508571904741
+D. Convolution layers,1,0,70,0.39116894233332
+D. Convolution layers,1,0,71,0.38451157905724986
+D. Convolution layers,1,0,72,0.385725143276926
+D. Convolution layers,1,0,73,0.39035157745066407
+D. Convolution layers,1,0,74,0.3896356807027679
+D. Convolution layers,1,0,75,0.3859230150233263
+D. Convolution layers,1,0,76,0.3854648206814586
+D. Convolution layers,1,0,77,0.3919518075196103
+D. Convolution layers,1,2,1,0.6235932239007341
+D. Convolution layers,1,2,2,0.5770409150027468
+D. Convolution layers,1,2,3,0.5447605038871831
+D. Convolution layers,1,2,4,0.5258114283083165
+D. Convolution layers,1,2,5,0.5092049895794141
+D. Convolution layers,1,2,6,0.506809326092817
+D. Convolution layers,1,2,7,0.4987152039903628
+D. Convolution layers,1,2,8,0.4958429704454092
+D. Convolution layers,1,2,9,0.5023070086035811
+D. Convolution layers,1,2,10,0.49599694335804606
+D. Convolution layers,1,2,11,0.4983540167339405
+D. Convolution layers,1,2,12,0.49622907812093503
+D. Convolution layers,1,2,13,0.49577148164956847
+D. Convolution layers,1,2,14,0.5013296993613001
+D. Convolution layers,1,2,15,0.49326153828182395
+D. Convolution layers,1,2,16,0.49378207265605245
+D. Convolution layers,1,2,17,0.49713529113588384
+D. Convolution layers,1,2,18,0.4926771443803853
+D. Convolution layers,1,2,19,0.4969333547008809
+D. Convolution layers,1,2,20,0.49122917371401675
+D. Convolution layers,1,2,21,0.4983842205151142
+D. Convolution layers,1,2,22,0.4908637436916014
+D. Convolution layers,1,2,23,0.4921635337500004
+D. Convolution layers,1,2,24,0.4942807508118012
+D. Convolution layers,1,2,25,0.49158944545136635
+D. Convolution layers,1,2,26,0.49591077911631626
+D. Convolution layers,1,2,27,0.4899633737041927
+D. Convolution layers,1,2,28,0.5022196292913319
+D. Convolution layers,1,2,29,0.4900436966291396
+D. Convolution layers,1,2,30,0.49066053786163055
+D. Convolution layers,1,2,31,0.4941976044994168
+D. Convolution layers,1,2,32,0.49139061892462105
+D. Convolution layers,1,2,33,0.4903332153477251
+D. Convolution layers,1,2,34,0.4923699734821977
+D. Convolution layers,1,2,35,0.489446560296147
+D. Convolution layers,1,2,36,0.4893905614129797
+D. Convolution layers,1,2,37,0.4894645204443268
+D. Convolution layers,1,2,38,0.4912884639498873
+D. Convolution layers,1,2,39,0.4906444458934322
+D. Convolution layers,1,2,40,0.4916167730525045
+D. Convolution layers,1,2,41,0.4888358085503049
+D. Convolution layers,1,2,42,0.4915761334836805
+D. Convolution layers,1,2,43,0.4882622369187645
+D. Convolution layers,1,2,44,0.49324302814207566
+D. Convolution layers,1,2,45,0.48847117347638763
+D. Convolution layers,1,2,46,0.4920012982767724
+D. Convolution layers,1,2,47,0.49044452178186015
+D. Convolution layers,1,2,48,0.4928877287912911
+D. Convolution layers,1,2,49,0.509874275540064
+D. Convolution layers,1,2,50,0.48758614381147397
+D. Convolution layers,1,2,51,0.48883923089441245
+D. Convolution layers,1,2,52,0.4907556175067632
+D. Convolution layers,1,2,53,0.48838835778207423
+D. Convolution layers,1,2,54,0.48773762528903997
+D. Convolution layers,1,2,55,0.489290392256546
+D. Convolution layers,1,2,56,0.4948162173235561
+D. Convolution layers,1,2,57,0.48677659711787424
+D. Convolution layers,1,2,58,0.4959886475166185
+D. Convolution layers,1,2,59,0.48865704487306466
+D. Convolution layers,1,2,60,0.4877648052796339
+D. Convolution layers,1,2,61,0.5098930412178607
+D. Convolution layers,1,2,62,0.4870195878875376
+D. Convolution layers,1,2,63,0.49910769903407454
+D. Convolution layers,1,2,64,0.4908989024824832
+D. Convolution layers,1,2,65,0.4882842169959394
+D. Convolution layers,1,2,66,0.49268119975294505
+D. Convolution layers,1,2,67,0.4880033886266868
+D. Convolution layers,1,4,1,0.6616600013504423
+D. Convolution layers,1,4,2,0.6301329887103
+D. Convolution layers,1,4,3,0.6075619921999439
+D. Convolution layers,1,4,4,0.5803801053455109
+D. Convolution layers,1,4,5,0.553739153539142
+D. Convolution layers,1,4,6,0.5376843977208728
+D. Convolution layers,1,4,7,0.5267782750190609
+D. Convolution layers,1,4,8,0.5229725050418346
+D. Convolution layers,1,4,9,0.5179180357233922
+D. Convolution layers,1,4,10,0.5137413630091686
+D. Convolution layers,1,4,11,0.5118470260388595
+D. Convolution layers,1,4,12,0.5102003307105277
+D. Convolution layers,1,4,13,0.5181362204715261
+D. Convolution layers,1,4,14,0.5098059645641732
+D. Convolution layers,1,4,15,0.5088365597304313
+D. Convolution layers,1,4,16,0.5081141352530166
+D. Convolution layers,1,4,17,0.5102000054340973
+D. Convolution layers,1,4,18,0.5082153790832754
+D. Convolution layers,1,4,19,0.5053883798566722
+D. Convolution layers,1,4,20,0.5071856824964118
+D. Convolution layers,1,4,21,0.5051174942607171
+D. Convolution layers,1,4,22,0.5067416601302542
+D. Convolution layers,1,4,23,0.5080208497982398
+D. Convolution layers,1,4,24,0.5047917283788189
+D. Convolution layers,1,4,25,0.5075462218317266
+D. Convolution layers,1,4,26,0.5069822647292834
+D. Convolution layers,1,4,27,0.5101492454441523
+D. Convolution layers,1,4,28,0.5066836975474732
+D. Convolution layers,1,4,29,0.5058201249533871
+D. Convolution layers,1,4,30,0.5051170678293933
+D. Convolution layers,1,4,31,0.5038657402626664
+D. Convolution layers,1,4,32,0.5046214519686051
+D. Convolution layers,1,4,33,0.5077506247432542
+D. Convolution layers,1,4,34,0.5021852849080789
+D. Convolution layers,1,4,35,0.5042031384766494
+D. Convolution layers,1,4,36,0.5051431451434838
+D. Convolution layers,1,4,37,0.5041444126648785
+D. Convolution layers,1,4,38,0.5033722057734576
+D. Convolution layers,1,4,39,0.5045750736854211
+D. Convolution layers,1,4,40,0.504540131711206
+D. Convolution layers,1,4,41,0.5014457367534098
+D. Convolution layers,1,4,42,0.5035876411735841
+D. Convolution layers,1,4,43,0.508340702919585
+D. Convolution layers,1,4,44,0.5040931014072548
+D. Convolution layers,1,4,45,0.5064920519361995
+D. Convolution layers,1,4,46,0.5016098746805521
+D. Convolution layers,1,4,47,0.5068916946893841
+D. Convolution layers,1,4,48,0.5045505216586174
+D. Convolution layers,1,4,49,0.5024982874860294
+D. Convolution layers,1,4,50,0.5036282663336947
+D. Convolution layers,1,4,51,0.5040759576816354
+D. Convolution layers,3,1,1,0.6170756415502842
+D. Convolution layers,3,1,2,0.5611413632225867
+D. Convolution layers,3,1,3,0.5185661317540352
+D. Convolution layers,3,1,4,0.5032710111285581
+D. Convolution layers,3,1,5,0.49376384646605714
+D. Convolution layers,3,1,6,0.49696007930598673
+D. Convolution layers,3,1,7,0.491422023726464
+D. Convolution layers,3,1,8,0.4917755909329746
+D. Convolution layers,3,1,9,0.49296122290429356
+D. Convolution layers,3,1,10,0.49183475246423525
+D. Convolution layers,3,1,11,0.49185394167729524
+D. Convolution layers,3,1,12,0.4926258040687969
+D. Convolution layers,3,1,13,0.4908598692851802
+D. Convolution layers,3,1,14,0.49412891885820276
+D. Convolution layers,3,1,15,0.4914670455250964
+D. Convolution layers,3,1,16,0.49330537514630096
+D. Convolution layers,3,1,17,0.49660247270052904
+D. Convolution layers,3,1,18,0.49593169695411615
+D. Convolution layers,3,1,19,0.5050974512090332
+D. Convolution layers,3,1,20,0.4950803538960542
+D. Convolution layers,3,1,21,0.49215254970718103
+D. Convolution layers,3,1,22,0.49816824126870296
+D. Convolution layers,3,1,23,0.4928096726049417
+D. Convolution layers,3,0,1,0.6084765923348612
+D. Convolution layers,3,0,2,0.5407777598229233
+D. Convolution layers,3,0,3,0.4775036507725232
+D. Convolution layers,3,0,4,0.4380518902588373
+D. Convolution layers,3,0,5,0.4175390722197242
+D. Convolution layers,3,0,6,0.4121955259839753
+D. Convolution layers,3,0,7,0.4032446221352043
+D. Convolution layers,3,0,8,0.4055755785761047
+D. Convolution layers,3,0,9,0.40398219224750437
+D. Convolution layers,3,0,10,0.40230567335174267
+D. Convolution layers,3,0,11,0.3964527192149224
+D. Convolution layers,3,0,12,0.40116403067002154
+D. Convolution layers,3,0,13,0.40278303506177815
+D. Convolution layers,3,0,14,0.3980219875026931
+D. Convolution layers,3,0,15,0.40284875938902825
+D. Convolution layers,3,0,16,0.4009731343286223
+D. Convolution layers,3,0,17,0.40676004914947267
+D. Convolution layers,3,0,18,0.4001723681811154
+D. Convolution layers,3,0,19,0.39802298484508863
+D. Convolution layers,3,0,20,0.39602580584332864
+D. Convolution layers,3,0,21,0.40331764882406324
+D. Convolution layers,3,0,22,0.3985867177248304
+D. Convolution layers,3,0,23,0.3989421479072961
+D. Convolution layers,3,0,24,0.3982622847686181
+D. Convolution layers,3,0,25,0.4026487523458386
+D. Convolution layers,3,0,26,0.39791862243983317
+D. Convolution layers,3,0,27,0.40052922890895215
+D. Convolution layers,3,0,28,0.4011208376150323
+D. Convolution layers,3,0,29,0.4005718847225111
+D. Convolution layers,3,0,30,0.3984488205980062
+D. Convolution layers,3,2,1,0.6134794590544813
+D. Convolution layers,3,2,2,0.5544694523008019
+D. Convolution layers,3,2,3,0.5037720943113724
+D. Convolution layers,3,2,4,0.4817528793633241
+D. Convolution layers,3,2,5,0.46724598094472125
+D. Convolution layers,3,2,6,0.46926066425012997
+D. Convolution layers,3,2,7,0.4685251746989923
+D. Convolution layers,3,2,8,0.46674370573102836
+D. Convolution layers,3,2,9,0.46980737896568175
+D. Convolution layers,3,2,10,0.46227747567726457
+D. Convolution layers,3,2,11,0.46774227689783365
+D. Convolution layers,3,2,12,0.46597541495252004
+D. Convolution layers,3,2,13,0.4621324041660379
+D. Convolution layers,3,2,14,0.4685976759533543
+D. Convolution layers,3,2,15,0.46211050884453886
+D. Convolution layers,3,2,16,0.46475151526555686
+D. Convolution layers,3,2,17,0.4682167175900563
+D. Convolution layers,3,2,18,0.4649680541488699
+D. Convolution layers,3,2,19,0.4681436195175645
+D. Convolution layers,3,2,20,0.46375017307321276
+D. Convolution layers,3,2,21,0.4711777986016577
+D. Convolution layers,3,2,22,0.4665404073910505
+D. Convolution layers,3,2,23,0.4677105124532849
+D. Convolution layers,3,2,24,0.47266277369149756
+D. Convolution layers,3,2,25,0.46973398842366104
+D. Convolution layers,3,4,1,0.656270017269271
+D. Convolution layers,3,4,2,0.6150517296124136
+D. Convolution layers,3,4,3,0.5593250842767977
+D. Convolution layers,3,4,4,0.5219684424804862
+D. Convolution layers,3,4,5,0.5098543179622895
+D. Convolution layers,3,4,6,0.5078594344931021
+D. Convolution layers,3,4,7,0.5090453420323001
+D. Convolution layers,3,4,8,0.5098926607614522
+D. Convolution layers,3,4,9,0.5125109871194964
+D. Convolution layers,3,4,10,0.510733798491398
+D. Convolution layers,3,4,11,0.5074183449538419
+D. Convolution layers,3,4,12,0.5057289162062291
+D. Convolution layers,3,4,13,0.5169778169919369
+D. Convolution layers,3,4,14,0.5092178437169325
+D. Convolution layers,3,4,15,0.5092388143111672
+D. Convolution layers,3,4,16,0.5063473365275769
+D. Convolution layers,3,4,17,0.5111035608378961
+D. Convolution layers,3,4,18,0.5122704735840591
+D. Convolution layers,3,4,19,0.5060765873084537
+D. Convolution layers,3,4,20,0.5126056248140681
+D. Convolution layers,3,4,21,0.5105402511533781
+D. Convolution layers,3,4,22,0.5112048256064126
+D. Convolution layers,3,3,1,0.6232427223941645
+D. Convolution layers,3,3,2,0.5497377829356442
+D. Convolution layers,3,3,3,0.4941562948865402
+D. Convolution layers,3,3,4,0.4501034408319599
+D. Convolution layers,3,3,5,0.4405856732720308
+D. Convolution layers,3,3,6,0.43201751349399226
+D. Convolution layers,3,3,7,0.42939255579469604
+D. Convolution layers,3,3,8,0.4277470664675914
+D. Convolution layers,3,3,9,0.4310159068216556
+D. Convolution layers,3,3,10,0.43126397254617865
+D. Convolution layers,3,3,11,0.4267789115156493
+D. Convolution layers,3,3,12,0.42790420914177324
+D. Convolution layers,3,3,13,0.4341439186616286
+D. Convolution layers,3,3,14,0.4273854168868456
+D. Convolution layers,3,3,15,0.43085165373385587
+D. Convolution layers,3,3,16,0.42688368713209085
+D. Convolution layers,3,3,17,0.4303565943972008
+D. Convolution layers,3,3,18,0.4363573435214981
+D. Convolution layers,3,3,19,0.4261725602752926
+D. Convolution layers,3,3,20,0.42953144880761834
+D. Convolution layers,3,3,21,0.4313582264340529
+D. Convolution layers,3,3,22,0.4316658452869828
+D. Convolution layers,3,3,23,0.437956538078145
+D. Convolution layers,3,3,24,0.4305612473472302
+D. Convolution layers,3,3,25,0.43366934207758934
+D. Convolution layers,3,3,26,0.43518467426721874
+D. Convolution layers,3,3,27,0.43511912306164585
+D. Convolution layers,3,3,28,0.4327649309747094
+D. Convolution layers,3,3,29,0.43484929893157503
+E. Random seed,123,1,1,0.57190674495831
+E. Random seed,123,1,2,0.5475347425998185
+E. Random seed,123,1,3,0.5327441152210468
+E. Random seed,123,1,4,0.519356455785384
+E. Random seed,123,1,5,0.5084751606134026
+E. Random seed,123,1,6,0.49838476718817
+E. Random seed,123,1,7,0.49327942372952505
+E. Random seed,123,1,8,0.48607236443176094
+E. Random seed,123,1,9,0.4882094212610921
+E. Random seed,123,1,10,0.48306606468692803
+E. Random seed,123,1,11,0.4831777454607723
+E. Random seed,123,1,12,0.4808583967211802
+E. Random seed,123,1,13,0.48094629090120844
+E. Random seed,123,1,14,0.4831644768990968
+E. Random seed,123,1,15,0.48274587611047404
+E. Random seed,123,1,16,0.4807895387126804
+E. Random seed,123,1,17,0.4834171560246723
+E. Random seed,123,1,18,0.4799893078537469
+E. Random seed,123,1,19,0.4857565736807075
+E. Random seed,123,1,20,0.48071067273599943
+E. Random seed,123,1,21,0.48897540345796175
+E. Random seed,123,1,22,0.4823262134118538
+E. Random seed,123,1,23,0.48350738233269835
+E. Random seed,123,1,24,0.4808298580350638
+E. Random seed,123,1,25,0.4839607980834901
+E. Random seed,123,1,26,0.48308663547198766
+E. Random seed,123,1,27,0.48372756522641613
+E. Random seed,123,1,28,0.4818522075247331
+E. Random seed,123,2,1,0.5830159275450321
+E. Random seed,123,2,2,0.5499756334509793
+E. Random seed,123,2,3,0.5301925192020067
+E. Random seed,123,2,4,0.5173666863831046
+E. Random seed,123,2,5,0.5084447010484762
+E. Random seed,123,2,6,0.4942161325443072
+E. Random seed,123,2,7,0.4961391937973752
+E. Random seed,123,2,8,0.4846180966107453
+E. Random seed,123,2,9,0.4894297375624744
+E. Random seed,123,2,10,0.47983199693873707
+E. Random seed,123,2,11,0.4773155860999158
+E. Random seed,123,2,12,0.4811003600625303
+E. Random seed,123,2,13,0.4778111587487176
+E. Random seed,123,2,14,0.4853550439577003
+E. Random seed,123,2,15,0.4836193645169933
+E. Random seed,123,2,16,0.4763773113924079
+E. Random seed,123,2,17,0.4777898175319819
+E. Random seed,123,2,18,0.48461123523007577
+E. Random seed,123,2,19,0.48881229213866567
+E. Random seed,123,2,20,0.477530701789522
+E. Random seed,123,2,21,0.48323131382577794
+E. Random seed,123,2,22,0.48257555215549325
+E. Random seed,123,2,23,0.4817770634311341
+E. Random seed,123,2,24,0.48139077191364565
+E. Random seed,123,2,25,0.476660785684608
+E. Random seed,123,2,26,0.5005113875016169
+E. Random seed,123,0,1,0.5805124581225344
+E. Random seed,123,0,2,0.5454099476715163
+E. Random seed,123,0,3,0.5203863480165388
+E. Random seed,123,0,4,0.49145409254112105
+E. Random seed,123,0,5,0.4698534331911631
+E. Random seed,123,0,6,0.44684311474170535
+E. Random seed,123,0,7,0.4313793311088532
+E. Random seed,123,0,8,0.42683820808348405
+E. Random seed,123,0,9,0.411017928576917
+E. Random seed,123,0,10,0.41308318083995504
+E. Random seed,123,0,11,0.4037041595174227
+E. Random seed,123,0,12,0.398674704091874
+E. Random seed,123,0,13,0.39775186710060634
+E. Random seed,123,0,14,0.39681249828789084
+E. Random seed,123,0,15,0.39747618027284076
+E. Random seed,123,0,16,0.394873025665668
+E. Random seed,123,0,17,0.39429059531147603
+E. Random seed,123,0,18,0.3952089661615084
+E. Random seed,123,0,19,0.38806127063593054
+E. Random seed,123,0,20,0.3921121343859085
+E. Random seed,123,0,21,0.39435267484035563
+E. Random seed,123,0,22,0.3882801044330108
+E. Random seed,123,0,23,0.38868405793843647
+E. Random seed,123,0,24,0.3903538197061596
+E. Random seed,123,0,25,0.38789794185642057
+E. Random seed,123,0,26,0.3934351765919088
+E. Random seed,123,0,27,0.3891283601816034
+E. Random seed,123,0,28,0.39399262644421595
+E. Random seed,123,0,29,0.3897933047513468
+E. Random seed,123,0,30,0.39190166644908564
+E. Random seed,123,0,31,0.39096522112082305
+E. Random seed,123,0,32,0.3962051870215467
+E. Random seed,123,0,33,0.3944621800964004
+E. Random seed,123,0,34,0.38509922546857017
+E. Random seed,123,0,35,0.38649710662477227
+E. Random seed,123,0,36,0.3926718005043054
+E. Random seed,123,0,37,0.38778050534216785
+E. Random seed,123,0,38,0.38768728529744434
+E. Random seed,123,0,39,0.3937251971996294
+E. Random seed,123,0,40,0.39030519517428497
+E. Random seed,123,0,41,0.3894721410691237
+E. Random seed,123,0,42,0.3890449567619958
+E. Random seed,123,0,43,0.3931795083795693
+E. Random seed,123,0,44,0.4012478176212536
+E. Random seed,123,3,1,0.5752195320438644
+E. Random seed,123,3,2,0.5375742861465136
+E. Random seed,123,3,3,0.520452395448341
+E. Random seed,123,3,4,0.5011876507845562
+E. Random seed,123,3,5,0.4894200436686448
+E. Random seed,123,3,6,0.4787486255050819
+E. Random seed,123,3,7,0.46790344011822194
+E. Random seed,123,3,8,0.4620953569687067
+E. Random seed,123,3,9,0.4568962310466464
+E. Random seed,123,3,10,0.4576026932184779
+E. Random seed,123,3,11,0.4517162153774005
+E. Random seed,123,3,12,0.45059004145572634
+E. Random seed,123,3,13,0.449283241632707
+E. Random seed,123,3,14,0.44588844598425215
+E. Random seed,123,3,15,0.4448729620493764
+E. Random seed,123,3,16,0.4525321344280933
+E. Random seed,123,3,17,0.4479457385784539
+E. Random seed,123,3,18,0.4484724246312752
+E. Random seed,123,3,19,0.4465035575976608
+E. Random seed,123,3,20,0.44843180363794294
+E. Random seed,123,3,21,0.4437321838593629
+E. Random seed,123,3,22,0.44458760531915953
+E. Random seed,123,3,23,0.4457902650363621
+E. Random seed,123,3,24,0.4465440395627597
+E. Random seed,123,3,25,0.44475656552388676
+E. Random seed,123,3,26,0.44360031145171336
+E. Random seed,123,3,27,0.4421995696765368
+E. Random seed,123,3,28,0.4491268005959836
+E. Random seed,123,3,29,0.4426393800693437
+E. Random seed,123,3,30,0.4444183707795539
+E. Random seed,123,3,31,0.4475028038168492
+E. Random seed,123,3,32,0.44712363557676016
+E. Random seed,123,3,33,0.4427452808824485
+E. Random seed,123,3,34,0.44281241486138007
+E. Random seed,123,3,35,0.4474435217539816
+E. Random seed,123,3,36,0.44505340120692294
+E. Random seed,123,3,37,0.44338450477240043
+E. Random seed,2026,2,1,0.5940627072261725
+E. Random seed,2026,2,2,0.5610622097099944
+E. Random seed,2026,2,3,0.5410160146609713
+E. Random seed,2026,2,4,0.5259055371064392
+E. Random seed,2026,2,5,0.5133543549077677
+E. Random seed,2026,2,6,0.500317740231118
+E. Random seed,2026,2,7,0.4975840182341683
+E. Random seed,2026,2,8,0.4865101603672097
+E. Random seed,2026,2,9,0.4798066655990542
+E. Random seed,2026,2,10,0.4868042090890828
+E. Random seed,2026,2,11,0.4745847021860014
+E. Random seed,2026,2,12,0.4772484802946781
+E. Random seed,2026,2,13,0.4778639355407391
+E. Random seed,2026,2,14,0.4857880105322591
+E. Random seed,2026,2,15,0.476112069634038
+E. Random seed,2026,2,16,0.4756686327547003
+E. Random seed,2026,2,17,0.49025962982340954
+E. Random seed,2026,2,18,0.4786860663871149
+E. Random seed,2026,2,19,0.49173262523382544
+E. Random seed,2026,2,20,0.47623043661456976
+E. Random seed,2026,2,21,0.47597181110587344
+E. Random seed,2026,1,1,0.5808137422215768
+E. Random seed,2026,1,2,0.5560678543542884
+E. Random seed,2026,1,3,0.5387040827293246
+E. Random seed,2026,1,4,0.5273599630070603
+E. Random seed,2026,1,5,0.5178080075415118
+E. Random seed,2026,1,6,0.508361879062914
+E. Random seed,2026,1,7,0.5017575188064446
+E. Random seed,2026,1,8,0.4928814004695095
+E. Random seed,2026,1,9,0.48884938928493443
+E. Random seed,2026,1,10,0.4845374047111734
+E. Random seed,2026,1,11,0.482418346385176
+E. Random seed,2026,1,12,0.48115122854716375
+E. Random seed,2026,1,13,0.4783785403547893
+E. Random seed,2026,1,14,0.48149484507517176
+E. Random seed,2026,1,15,0.4802718539310183
+E. Random seed,2026,1,16,0.47856082737316696
+E. Random seed,2026,1,17,0.48557364419060267
+E. Random seed,2026,1,18,0.4807874634843772
+E. Random seed,2026,1,19,0.4820807556757475
+E. Random seed,2026,1,20,0.4797194596105051
+E. Random seed,2026,1,21,0.48090323609340446
+E. Random seed,2026,1,22,0.4810061714722155
+E. Random seed,2026,1,23,0.47795626779603567
+E. Random seed,2026,1,24,0.4815793366924507
+E. Random seed,2026,1,25,0.48434306324523424
+E. Random seed,2026,1,26,0.48049164552711776
+E. Random seed,2026,1,27,0.4964278410785652
+E. Random seed,2026,1,28,0.47857822677213835
+E. Random seed,2026,1,29,0.4814964607070763
+E. Random seed,2026,1,30,0.480995779166733
+E. Random seed,2026,1,31,0.4820653207172283
+E. Random seed,2026,1,32,0.4843957919644611
+E. Random seed,2026,1,33,0.48007194743077275
+E. Random seed,2026,0,1,0.5833171655197128
+E. Random seed,2026,0,2,0.5508960820793385
+E. Random seed,2026,0,3,0.5258329704480261
+E. Random seed,2026,0,4,0.5014207948536096
+E. Random seed,2026,0,5,0.47827146022912614
+E. Random seed,2026,0,6,0.4609922749348909
+E. Random seed,2026,0,7,0.4407880622530483
+E. Random seed,2026,0,8,0.42988584836141464
+E. Random seed,2026,0,9,0.4239158021081642
+E. Random seed,2026,0,10,0.41294541672856927
+E. Random seed,2026,0,11,0.4113552319634047
+E. Random seed,2026,0,12,0.40629100251145017
+E. Random seed,2026,0,13,0.40112214244239924
+E. Random seed,2026,0,14,0.39758453436348823
+E. Random seed,2026,0,15,0.3993242501928296
+E. Random seed,2026,0,16,0.39423022632291155
+E. Random seed,2026,0,17,0.3926940658056465
+E. Random seed,2026,0,18,0.3951924195101888
+E. Random seed,2026,0,19,0.39096526496231937
+E. Random seed,2026,0,20,0.39399805037824587
+E. Random seed,2026,0,21,0.3886176767784867
+E. Random seed,2026,0,22,0.3865754809736894
+E. Random seed,2026,0,23,0.38759019853251653
+E. Random seed,2026,0,24,0.387378848542438
+E. Random seed,2026,0,25,0.38881639047066613
+E. Random seed,2026,0,26,0.38954316850415466
+E. Random seed,2026,0,27,0.3856786149622239
+E. Random seed,2026,0,28,0.38666017919196033
+E. Random seed,2026,0,29,0.38259024736689584
+E. Random seed,2026,0,30,0.3830760707116082
+E. Random seed,2026,0,31,0.3852862138306245
+E. Random seed,2026,0,32,0.3829761727530166
+E. Random seed,2026,0,33,0.38414502241077886
+E. Random seed,2026,0,34,0.3845715442725746
+E. Random seed,2026,0,35,0.3919372394829962
+E. Random seed,2026,0,36,0.382467428801462
+E. Random seed,2026,0,37,0.3869799923777265
+E. Random seed,2026,0,38,0.3832898242832076
+E. Random seed,2026,0,39,0.38682182049948577
+E. Random seed,2026,0,40,0.3865983691258775
+E. Random seed,2026,0,41,0.38493878921365554
+E. Random seed,2026,0,42,0.3883781639679659
+E. Random seed,2026,0,43,0.38396583352670727
+E. Random seed,2026,0,44,0.38875899224671195
+E. Random seed,2026,0,45,0.38735810177410895
+E. Random seed,2026,0,46,0.3865982725239157
+E. Random seed,123,4,1,0.6457460372244513
+E. Random seed,123,4,2,0.6265372516095603
+E. Random seed,123,4,3,0.6067443259310058
+E. Random seed,123,4,4,0.5854671978667811
+E. Random seed,123,4,5,0.5636863385032733
+E. Random seed,123,4,6,0.5495103442970164
+E. Random seed,123,4,7,0.5347145600393963
+E. Random seed,123,4,8,0.5265975488716135
+E. Random seed,123,4,9,0.5202246981654076
+E. Random seed,123,4,10,0.51602103515536
+E. Random seed,123,4,11,0.511424279830683
+E. Random seed,123,4,12,0.511743020573499
+E. Random seed,123,4,13,0.5068520036438077
+E. Random seed,123,4,14,0.5043422299199171
+E. Random seed,123,4,15,0.503512249079488
+E. Random seed,123,4,16,0.5048045015195906
+E. Random seed,123,4,17,0.5006952995884474
+E. Random seed,123,4,18,0.5022422333994895
+E. Random seed,123,4,19,0.4995659674330758
+E. Random seed,123,4,20,0.5011555022548899
+E. Random seed,123,4,21,0.5011226824064682
+E. Random seed,123,4,22,0.49635704127103303
+E. Random seed,123,4,23,0.50100620525848
+E. Random seed,123,4,24,0.4965368213447099
+E. Random seed,123,4,25,0.4963647765916033
+E. Random seed,123,4,26,0.49654433636523915
+E. Random seed,123,4,27,0.4949307457945513
+E. Random seed,123,4,28,0.5053501363086732
+E. Random seed,123,4,29,0.49333657848692497
+E. Random seed,123,4,30,0.4946224012876226
+E. Random seed,123,4,31,0.4949011937348631
+E. Random seed,123,4,32,0.5031893992230366
+E. Random seed,123,4,33,0.49345063652418886
+E. Random seed,123,4,34,0.4976647302359006
+E. Random seed,123,4,35,0.4921257078395887
+E. Random seed,123,4,36,0.4952015508717914
+E. Random seed,123,4,37,0.49462845621913315
+E. Random seed,123,4,38,0.4932522930621973
+E. Random seed,123,4,39,0.5018504474579916
+E. Random seed,123,4,40,0.49340855668074585
+E. Random seed,123,4,41,0.49272060578357735
+E. Random seed,123,4,42,0.49114749945264835
+E. Random seed,123,4,43,0.4918436497749459
+E. Random seed,123,4,44,0.49317961761183887
+E. Random seed,123,4,45,0.4919215029393385
+E. Random seed,123,4,46,0.4911232590894937
+E. Random seed,123,4,47,0.4952234470512497
+E. Random seed,123,4,48,0.48963637249040315
+E. Random seed,123,4,49,0.4907387463733159
+E. Random seed,123,4,50,0.4937065685489564
+E. Random seed,123,4,51,0.48963127476751234
+E. Random seed,123,4,52,0.48691085051785654
+E. Random seed,123,4,53,0.4952274420392851
+E. Random seed,123,4,54,0.4895368853557526
+E. Random seed,123,4,55,0.4876087895869433
+E. Random seed,123,4,56,0.49015158655049856
+E. Random seed,123,4,57,0.4929909244331569
+E. Random seed,123,4,58,0.4873064831893949
+E. Random seed,123,4,59,0.4920978964883651
+E. Random seed,123,4,60,0.48765060279372724
+E. Random seed,123,4,61,0.48976625201089974
+E. Random seed,123,4,62,0.4876096321752458
+E. Random seed,2026,3,1,0.572696451150337
+E. Random seed,2026,3,2,0.5451534679760571
+E. Random seed,2026,3,3,0.5223599960472475
+E. Random seed,2026,3,4,0.5040368684679619
+E. Random seed,2026,3,5,0.48769556924216234
+E. Random seed,2026,3,6,0.4779145248770148
+E. Random seed,2026,3,7,0.46501326159566775
+E. Random seed,2026,3,8,0.4608184737598004
+E. Random seed,2026,3,9,0.45905587709701734
+E. Random seed,2026,3,10,0.45310543695188316
+E. Random seed,2026,3,11,0.4526413968704021
+E. Random seed,2026,3,12,0.44991046848707705
+E. Random seed,2026,3,13,0.4461743231609096
+E. Random seed,2026,3,14,0.44495926597894925
+E. Random seed,2026,3,15,0.44389928211308327
+E. Random seed,2026,3,16,0.44503529559076865
+E. Random seed,2026,3,17,0.4429066524748278
+E. Random seed,2026,3,18,0.4415010137723298
+E. Random seed,2026,3,19,0.4417160761981018
+E. Random seed,2026,3,20,0.446896716056684
+E. Random seed,2026,3,21,0.4453006568912383
+E. Random seed,2026,3,22,0.4432309432951946
+E. Random seed,2026,3,23,0.440885147188738
+E. Random seed,2026,3,24,0.440260794969072
+E. Random seed,2026,3,25,0.4398553316605155
+E. Random seed,2026,3,26,0.4464302876166502
+E. Random seed,2026,3,27,0.4406342223395831
+E. Random seed,2026,3,28,0.44356501861298636
+E. Random seed,2026,3,29,0.44057292199344433
+E. Random seed,2026,3,30,0.44370901779107025
+E. Random seed,2026,3,31,0.43996750596074385
+E. Random seed,2026,3,32,0.4397377688195958
+E. Random seed,2026,3,33,0.4393793874163339
+E. Random seed,2026,3,34,0.43889259561952654
+E. Random seed,2026,3,35,0.4389377710916976
+E. Random seed,2026,3,36,0.4391257540374219
+E. Random seed,2026,3,37,0.4443578243084152
+E. Random seed,2026,3,38,0.43885054093306103
+E. Random seed,2026,3,39,0.43799436785699836
+E. Random seed,2026,3,40,0.43770555470939737
+E. Random seed,2026,3,41,0.43882922883775843
+E. Random seed,2026,3,42,0.43803160571939026
+E. Random seed,2026,3,43,0.4391356996516955
+E. Random seed,2026,3,44,0.4380718760077493
+E. Random seed,2026,3,45,0.4367613737301476
+E. Random seed,2026,3,46,0.4417064939556762
+E. Random seed,2026,3,47,0.43673189114160205
+E. Random seed,2026,3,48,0.43823830570088235
+E. Random seed,2026,3,49,0.44009869586403094
+E. Random seed,2026,3,50,0.44370852474861
+E. Random seed,2026,3,51,0.43849993403767323
+E. Random seed,2026,3,52,0.44064437288137803
+E. Random seed,2026,3,53,0.43863507914658456
+E. Random seed,2026,3,54,0.4384787963511738
+E. Random seed,2026,3,55,0.43813189832143135
+E. Random seed,2026,3,56,0.4371046104465584
+E. Random seed,2026,3,57,0.44010963685316024
+E. Random seed,2026,4,1,0.6442765937123921
+E. Random seed,2026,4,2,0.6277418415777467
+E. Random seed,2026,4,3,0.6101841960185012
+E. Random seed,2026,4,4,0.5926904464465655
+E. Random seed,2026,4,5,0.5718758194323246
+E. Random seed,2026,4,6,0.5603100678719521
+E. Random seed,2026,4,7,0.5427459015434384
+E. Random seed,2026,4,8,0.5341063701898046
+E. Random seed,2026,4,9,0.5272561944759854
+E. Random seed,2026,4,10,0.5202097557976222
+E. Random seed,2026,4,11,0.5174154477585582
+E. Random seed,2026,4,12,0.5103526439219167
+E. Random seed,2026,4,13,0.5083890231435239
+E. Random seed,2026,4,14,0.5054839587841754
+E. Random seed,2026,4,15,0.5051200733303327
+E. Random seed,2026,4,16,0.5058874879880907
+E. Random seed,2026,4,17,0.5005557595050197
+E. Random seed,2026,4,18,0.5023474165432272
+E. Random seed,2026,4,19,0.49940270602652376
+E. Random seed,2026,4,20,0.5047108207294988
+E. Random seed,2026,4,21,0.49751354384177693
+E. Random seed,2026,4,22,0.4962332081691943
+E. Random seed,2026,4,23,0.4983889011660022
+E. Random seed,2026,4,24,0.496303890560702
+E. Random seed,2026,4,25,0.49507450342723064
+E. Random seed,2026,4,26,0.5028166265822762
+E. Random seed,2026,4,27,0.4906697914203796
+E. Random seed,2026,4,28,0.49217779206303014
+E. Random seed,2026,4,29,0.49182672883523887
+E. Random seed,2026,4,30,0.49422554727726864
+E. Random seed,2026,4,31,0.49235656240884046
+E. Random seed,2026,4,32,0.49160877308643963
+E. Random seed,2026,4,33,0.49276056725522654
+E. Random seed,2026,4,34,0.4913764411334818
+E. Random seed,2026,4,35,0.49023046056989494
+E. Random seed,2026,4,36,0.4897820351897981
+E. Random seed,2026,4,37,0.49310850643437876
+E. Random seed,2026,4,38,0.4893277964303936
+E. Random seed,2026,4,39,0.49480689976560194
+E. Random seed,2026,4,40,0.48983426334130414
+E. Random seed,2026,4,41,0.4885267540161233
+E. Random seed,2026,4,42,0.4877451639050458
+E. Random seed,2026,4,43,0.49117173720952834
+E. Random seed,2026,4,44,0.48900707725296366
+E. Random seed,2026,4,45,0.48783088437138244
+E. Random seed,2026,4,46,0.48845741199475706
+E. Random seed,2026,4,47,0.48761868194057933
+E. Random seed,2026,4,48,0.4874562089198702
+E. Random seed,2026,4,49,0.4883359568981708
+E. Random seed,2026,4,50,0.4933807469861866
+E. Random seed,2026,4,51,0.48644956469027106
+E. Random seed,2026,4,52,0.48701232318615445
+E. Random seed,2026,4,53,0.48907733440865997
+E. Random seed,2026,4,54,0.4865692947439273
+E. Random seed,2026,4,55,0.48766690411152247
+E. Random seed,2026,4,56,0.48564130811349027
+E. Random seed,2026,4,57,0.4917358499194298
+E. Random seed,2026,4,58,0.484969412045076
+E. Random seed,2026,4,59,0.4927070449623217
+E. Random seed,2026,4,60,0.48652145664301494
+E. Random seed,2026,4,61,0.49210045157062915
+E. Random seed,2026,4,62,0.4870249319565997
+E. Random seed,2026,4,63,0.4857677851987017
+E. Random seed,2026,4,64,0.4880262264144859
+E. Random seed,2026,4,65,0.48606164913613553
+E. Random seed,2026,4,66,0.4903972715968998
+E. Random seed,2026,4,67,0.488165220568826
+E. Random seed,2026,4,68,0.4843005979020623
+E. Random seed,2026,4,69,0.4868467305342266
+E. Random seed,2026,4,70,0.4849555520074715
+E. Random seed,2026,4,71,0.48944721988344214
+E. Random seed,2026,4,72,0.48374269724451785
+E. Random seed,2026,4,73,0.4988610162044779
+E. Random seed,2026,4,74,0.485820131083736
+E. Random seed,2026,4,75,0.4845454764761537
+E. Random seed,2026,4,76,0.4867810908343575
+E. Random seed,2026,4,77,0.48576251456052044
+E. Random seed,2026,4,78,0.48683749263027576
+E. Random seed,2026,4,79,0.4890945252943578
+E. Random seed,2026,4,80,0.48754308307264377
+E. Random seed,2026,4,81,0.48709353796682564
+E. Random seed,2026,4,82,0.4883605155492901

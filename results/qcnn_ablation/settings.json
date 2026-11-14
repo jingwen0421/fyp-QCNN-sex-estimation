@@ -1,0 +1,118 @@
+{
+  "dataset_sha256": "767a3388ea38ddd04501c4bd4a838a32ee0f0f77fc649f27e03b6695b824c93b",
+  "features": [
+    "Ec-Dc Orbital Width",
+    "REc-RDc Right Orbital Width",
+    "LEc-LDc Left Orbital Width",
+    "UMo-Lmo Orbital Height",
+    "RUMo-RLMo Right Orbital Height",
+    "LUMo-LLMo Left Orbital Height",
+    "RAI-LAI Nasal Width",
+    "Rh-Ns Nasal Height"
+  ],
+  "reference": {
+    "scaling": "standard",
+    "trainable_encoding": true,
+    "readout": "sigmoid",
+    "layers": 2,
+    "learning_rate": 0.01,
+    "batch_size": 32,
+    "max_epochs": 100,
+    "patience": 10,
+    "seed": 42
+  },
+  "experiments": [
+    {
+      "experiment": "Reference",
+      "setting": "Improved QCNN (notebook 15)",
+      "change": {}
+    },
+    {
+      "experiment": "A. Ablation",
+      "setting": "Min-max scaling instead of standardised",
+      "change": {
+        "scaling": "minmax"
+      }
+    },
+    {
+      "experiment": "A. Ablation",
+      "setting": "Fixed encoding instead of trainable",
+      "change": {
+        "trainable_encoding": false
+      }
+    },
+    {
+      "experiment": "A. Ablation",
+      "setting": "Fixed-average readout instead of learned",
+      "change": {
+        "readout": "average"
+      }
+    },
+    {
+      "experiment": "A. Ablation",
+      "setting": "Short training (30 epochs, patience 5)",
+      "change": {
+        "max_epochs": 30,
+        "patience": 5
+      }
+    },
+    {
+      "experiment": "B. Learning rate",
+      "setting": "0.005",
+      "change": {
+        "learning_rate": 0.005
+      }
+    },
+    {
+      "experiment": "B. Learning rate",
+      "setting": "0.02",
+      "change": {
+        "learning_rate": 0.02
+      }
+    },
+    {
+      "experiment": "C. Batch size",
+      "setting": "16",
+      "change": {
+        "batch_size": 16
+      }
+    },
+    {
+      "experiment": "C. Batch size",
+      "setting": "64",
+      "change": {
+        "batch_size": 64
+      }
+    },
+    {
+      "experiment": "D. Convolution layers",
+      "setting": "1",
+      "change": {
+        "layers": 1
+      }
+    },
+    {
+      "experiment": "D. Convolution layers",
+      "setting": "3",
+      "change": {
+        "layers": 3
+      }
+    },
+    {
+      "experiment": "E. Random seed",
+      "setting": "123",
+      "change": {
+        "seed": 123
+      }
+    },
+    {
+      "experiment": "E. Random seed",
+      "setting": "2026",
+      "change": {
+        "seed": 2026
+      }
+    }
+  ],
+  "splits": "inner validation split of each notebook 14 training fold; test folds unused",
+  "decision_rule": "adopt an alternative only if mean validation macro F1 is higher and it is better in at least 4 of 5 folds"
+}

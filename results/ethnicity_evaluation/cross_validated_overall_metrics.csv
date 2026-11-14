@@ -1,0 +1,3 @@
+Model,Recorded ethnicity,Test records,Correct,Accuracy,Female records,Female correct,Female recall,Male records,Male correct,Male recall,Macro F1
+Initial QCNN,ALL,1042,718,0.6890595009596929,455,258,0.567032967032967,587,460,0.7836456558773425,0.6769177767570052
+Logistic regression,ALL,1042,802,0.7696737044145874,455,329,0.7230769230769231,587,473,0.8057921635434412,0.7651892720191393

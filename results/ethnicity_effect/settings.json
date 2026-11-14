@@ -1,0 +1,24 @@
+{
+  "dataset_sha256": "767a3388ea38ddd04501c4bd4a838a32ee0f0f77fc649f27e03b6695b824c93b",
+  "features": [
+    "Ec-Dc Orbital Width",
+    "REc-RDc Right Orbital Width",
+    "LEc-LDc Left Orbital Width",
+    "UMo-Lmo Orbital Height",
+    "RUMo-RLMo Right Orbital Height",
+    "LUMo-LLMo Left Orbital Height",
+    "RAI-LAI Nasal Width",
+    "Rh-Ns Nasal Height"
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    7,
+    99
+  ],
+  "folds": 5,
+  "method": "StratifiedGroupKFold, strata sex x ethnicity, groups of identical measurements",
+  "model": "StandardScaler + LogisticRegression(C=1.0)",
+  "sklearn_version": "1.8.0"
+}

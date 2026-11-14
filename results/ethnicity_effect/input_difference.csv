@@ -1,0 +1,3 @@
+Comparison,Mean macro F1 difference,Std of difference,Folds improved,Folds worse,Folds
+Measurements + ethnicity minus measurements only,0.00030577272544904496,0.013931821842057416,11,10,25
+Measurements + ethnicity + interactions minus measurements only,0.007995689120757947,0.015943571300495816,18,6,25

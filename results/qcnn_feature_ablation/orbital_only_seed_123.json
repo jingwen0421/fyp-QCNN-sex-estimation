@@ -1,0 +1,14 @@
+{
+  "Readout": "Sigmoid",
+  "Seed": 123,
+  "Best epoch": 17,
+  "Epochs run": 22,
+  "Validation macro F1": 0.6183950847142059,
+  "Validation accuracy": 0.6369047619047619,
+  "Validation loss": 0.6285886186748607,
+  "Runtime (s)": 100.56865889998153,
+  "Female recall": 0.4794520547945205,
+  "Male recall": 0.7578947368421053,
+  "Feature set": "Orbital only",
+  "Learning rate": 0.01
+}

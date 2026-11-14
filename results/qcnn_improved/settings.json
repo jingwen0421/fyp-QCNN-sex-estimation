@@ -1,0 +1,24 @@
+{
+  "dataset_sha256": "767a3388ea38ddd04501c4bd4a838a32ee0f0f77fc649f27e03b6695b824c93b",
+  "features": [
+    "Ec-Dc Orbital Width",
+    "REc-RDc Right Orbital Width",
+    "LEc-LDc Left Orbital Width",
+    "UMo-Lmo Orbital Height",
+    "RUMo-RLMo Right Orbital Height",
+    "LUMo-LLMo Left Orbital Height",
+    "RAI-LAI Nasal Width",
+    "Rh-Ns Nasal Height"
+  ],
+  "folds_from": "notebook 14",
+  "architecture": "Standardised inputs, RY(w*x + b), two shared Rot-Rot-CNOT layers, CRY pooling, sigmoid of weighted Z on odd wires",
+  "parameters": 34,
+  "seed": 42,
+  "learning_rate": 0.01,
+  "batch_size": 32,
+  "max_epochs": 100,
+  "patience": 10,
+  "threshold": 0.5,
+  "inner_validation": "first fold of StratifiedGroupKFold(5) within each training fold",
+  "pennylane_version": "0.45.1"
+}

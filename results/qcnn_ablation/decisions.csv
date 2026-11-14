@@ -1,0 +1,11 @@
+Experiment,Alternative,Difference from reference,Folds better,Folds worse,Decision
+A. Ablation,Min-max scaling instead of standardised,0.01135425411358446,4,1,Adopt the alternative
+A. Ablation,Fixed encoding instead of trainable,-0.0007717740027650466,1,3,Keep reference (Keep the change from notebook 15)
+A. Ablation,Fixed-average readout instead of learned,-0.009089784581702353,2,3,Keep reference (Keep the change from notebook 15)
+A. Ablation,"Short training (30 epochs, patience 5)",0.0009515517238724902,2,2,Keep reference (Keep the change from notebook 15)
+B. Learning rate,0.005,-0.0002519809100300474,1,4,Keep reference (0.01)
+B. Learning rate,0.02,0.005513875636423626,2,3,Keep reference (0.01)
+C. Batch size,16,-0.004637838390160298,2,3,Keep reference (32)
+C. Batch size,64,0.0016925141986850578,3,2,Keep reference (32)
+D. Convolution layers,1,0.008919568201289252,4,1,Adopt the alternative
+D. Convolution layers,3,-0.0031614669937966022,2,3,Keep reference (2)

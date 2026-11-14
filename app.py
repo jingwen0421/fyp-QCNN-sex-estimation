@@ -17,10 +17,22 @@ MEASUREMENTS = {
     "Rh-Ns Nasal Height": "Nasal height",
 }
 RESULTS = Path(__file__).resolve().parent / "results" / "qcnn_baseline"
+ETHNICITY_RESULTS = RESULTS.parent / "ethnicity_evaluation"
+LIVE_MODEL = "Initial QCNN"
 
 
 def measurement_columns(data):
     return {" ".join(str(column).split()).casefold(): column for column in data.columns}
+
+
+def ethnicity_metrics():
+    """Subgroup results and whether they are cross-validated (notebook 14) or one split (notebook 11)."""
+    for name, cross_validated in (("cross_validated_subgroup_metrics.csv", True), ("subgroup_metrics.csv", False)):
+        if (ETHNICITY_RESULTS / name).is_file():
+            metrics = pd.read_csv(ETHNICITY_RESULTS / name)
+            metrics["Recorded ethnicity"] = metrics["Recorded ethnicity"].astype(str).str.title()
+            return metrics, cross_validated
+    return None, False
 
 # =========================
 # Page Configuration
@@ -246,6 +258,10 @@ if page == "Dashboard":
         dataset_status = "Uploaded" if data is not None else "Awaiting upload"
         model_status = "Saved" if comparison is not None else "No saved results"
         model_count = f"{len(comparison)} saved models" if comparison is not None else "No saved results"
+        subgroups, _ = ethnicity_metrics()
+        scope = f"{len(MEASUREMENTS)} measurements"
+        if subgroups is not None:
+            scope += f" · {subgroups['Recorded ethnicity'].nunique()} ethnicity groups evaluated"
         st.markdown(f"""
 <div class="cranio-pair">
     <section class="cranio-panel cranio-mint">
@@ -271,7 +287,7 @@ if page == "Dashboard":
 <div class="cranio-summary">
     <section class="cranio-panel"><h3>Model evaluation</h3><p>{model_count}</p></section>
     <section class="cranio-panel"><h3>Input quality</h3><p>{"See upload checks" if data is not None else "Check after upload"}</p></section>
-    <section class="cranio-panel"><h3>Research scope</h3><p>{len(MEASUREMENTS)} measurements</p></section>
+    <section class="cranio-panel"><h3>Research scope</h3><p>{scope}</p></section>
 </div>
 """, unsafe_allow_html=True)
 
@@ -455,6 +471,13 @@ elif page == "Upload Dataset":
 
                     st.altair_chart(ethnicity_chart, use_container_width=True)
 
+                if {"Gender", "Ethnicity"} <= set(cleaned_df.columns):
+                    st.markdown("#### Sex by Ethnicity")
+                    st.dataframe(
+                        pd.crosstab(cleaned_df["Ethnicity"], cleaned_df["Gender"], margins=True, margins_name="Total"),
+                        use_container_width=True,
+                    )
+
             with summary:
 
                 numeric_df = cleaned_df.select_dtypes(include=["int64", "float64"])
@@ -480,8 +503,14 @@ elif page == "QCNN Workflow":
         from qcnn_inference import load_qcnn
         return load_qcnn(RESULTS)
 
+    subgroups, cross_validated = ethnicity_metrics()
+    if subgroups is not None:
+        subgroups = subgroups[subgroups["Model"] == LIVE_MODEL].set_index("Recorded ethnicity")
+    groups = sorted(subgroups.index) if subgroups is not None else []
+
     sample, result = st.columns([1.5, 1], gap="medium")
     values = {}
+    ethnicity = None
     submitted = False
     source = (mode, None)
 
@@ -498,6 +527,11 @@ elif page == "QCNN Workflow":
                                 label, value=None, min_value=0.0, step=0.01,
                                 format="%.2f", placeholder="mm", key=f"manual_{index}",
                             )
+                    if groups:
+                        ethnicity = st.selectbox(
+                            "Recorded ethnicity (optional)", groups, index=None, placeholder="Not recorded",
+                            help="Not used by the model. It selects which saved test results are shown with the prediction.",
+                        )
                     submitted = st.form_submit_button("Predict", type="primary", width="stretch")
             elif data is None or data.empty:
                 st.info("Upload a dataset first or choose Manual entry.")
@@ -514,6 +548,10 @@ elif page == "QCNN Workflow":
                     for heading in MEASUREMENTS:
                         column = columns.get(heading.casefold())
                         values[heading] = pd.to_numeric(selected[column], errors="coerce") if column is not None else None
+                    recorded = columns.get("ethnicity")
+                    if recorded is not None and pd.notna(selected[recorded]):
+                        recorded = str(selected[recorded]).strip().title()
+                        ethnicity = recorded if recorded in groups else None
                     st.dataframe(pd.DataFrame([
                         {"Measurement": label, "Value": f"{values[heading]:.2f}" if pd.notna(values[heading]) else "—"}
                         for heading, label in MEASUREMENTS.items()
@@ -528,7 +566,9 @@ elif page == "QCNN Workflow":
             try:
                 from qcnn_inference import predict_measurements
                 label, clipped = predict_measurements(values, saved_qcnn())
-                st.session_state.prediction = {"source": source, "label": label, "clipped": clipped}
+                st.session_state.prediction = {
+                    "source": source, "label": label, "clipped": clipped, "ethnicity": ethnicity,
+                }
             except (ValueError, KeyError, OSError, ImportError) as error:
                 st.error(f"Prediction unavailable: {error}")
 
@@ -543,6 +583,22 @@ elif page == "QCNN Workflow":
                 if prediction["clipped"]:
                     names = ", ".join(MEASUREMENTS[name] for name in prediction["clipped"])
                     st.warning(f"Outside the training range and clipped: {names}.")
+                if subgroups is not None:
+                    group = prediction.get("ethnicity")
+                    tested = subgroups.loc[[group]] if group else subgroups
+                    correct, total = int(tested["Correct"].sum()), int(tested["Test records"].sum())
+                    st.markdown("#### Cross-validated results" if cross_validated else "#### Saved test results")
+                    st.write(
+                        f"{group if group else 'All'} records: {correct} of {total} correct "
+                        f"({correct / total:.1%})."
+                    )
+                    if group:
+                        row = tested.iloc[0]
+                        st.caption(
+                            f"Female {int(row['Female correct'])} of {int(row['Female records'])} · "
+                            f"Male {int(row['Male correct'])} of {int(row['Male records'])}. "
+                            "Ethnicity is not a model input."
+                        )
             else:
                 st.write("No prediction yet")
 
@@ -597,6 +653,40 @@ elif page == "Model Performance":
                     )
                 else:
                     st.info("No saved confusion matrix.")
+
+        subgroups, cross_validated = ethnicity_metrics()
+        if subgroups is not None:
+            with st.container(border=True, key="cranio_inner_ethnicity"):
+                st.markdown("### Accuracy by recorded ethnicity")
+                st.caption(
+                    ("Five-fold grouped cross-validation · every record tested once. " if cross_validated
+                     else "Same test records, grouped after prediction. ")
+                    + "Ethnicity is not a model input."
+                )
+                models = subgroups["Model"].drop_duplicates().tolist()
+                chart = alt.Chart(subgroups).mark_bar(cornerRadiusEnd=3).encode(
+                    x=alt.X("Recorded ethnicity:N", title=None, axis=alt.Axis(labelAngle=0)),
+                    xOffset=alt.XOffset("Model:N", sort=models),
+                    y=alt.Y("Accuracy:Q", title=None, scale=alt.Scale(domain=[0, 1]),
+                            axis=alt.Axis(format=".0%", values=[0, 0.25, 0.5, 0.75, 1])),
+                    color=alt.Color("Model:N", sort=models, title=None,
+                                    scale=alt.Scale(range=["#478B78", "#0F766E", "#8FC9BD"]),
+                                    legend=alt.Legend(orient="top")),
+                    tooltip=[alt.Tooltip("Model:N"), alt.Tooltip("Recorded ethnicity:N"),
+                             alt.Tooltip("Accuracy:Q", format=".1%"), alt.Tooltip("Test records:Q"),
+                             alt.Tooltip("Female recall:Q", format=".1%"), alt.Tooltip("Male recall:Q", format=".1%")],
+                )
+                st.altair_chart(chart.properties(height=240), width="stretch")
+                with st.expander("Counts and recall by group"):
+                    st.dataframe(
+                        subgroups[["Model", "Recorded ethnicity", "Test records", "Correct", "Accuracy",
+                                   "Female records", "Female recall", "Male records", "Male recall"]],
+                        hide_index=True, width="stretch", column_config={
+                            column: st.column_config.NumberColumn(format="percent")
+                            for column in ("Accuracy", "Female recall", "Male recall")
+                        })
+                    if not cross_validated:
+                        st.caption("Groups are small. One Indian female record is 1/15 of that group's female recall.")
 
         with st.expander("All metrics"):
             display_scores = comparison.copy()
